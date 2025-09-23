@@ -1,45 +1,56 @@
 import java.util.Random;
-import java.util.function.BiFunction;
+import java.util.function.Function;
 
 import org.ejml.simple.SimpleMatrix;
 
-public class StochasticGradientDescent implements TrainingAlgorithm<NeuralNetwork> {
+public class StochasticGradientDescent implements TrainingAlgorithm {
 
 	public final double learningRate;
-	public final int batchSize;
 	public final Random rng;
-	public final BiFunction<SimpleMatrix, SimpleMatrix, Double> error;
 	
-	private int i = 0;
-	private double accumulatedCost = 0;
+	/**
+	 * Calculates the cost between (actualOutput - expectedOutput).
+	 * 
+	 * The matrices may by column vectors for online training, or matrices
+	 * representing many expected-actual output pairs for batch training. In the
+	 * later case, this function is expected to return the arithmetic average of the
+	 * cost of each column (i.e. expected-actual output) pair.
+	 */
+	public Function<SimpleMatrix, Double> costFunction = m -> 0.5 * Util.meanSqNorm(m);
 	
-	public StochasticGradientDescent(double learningRate, int batchSize, Random rng, BiFunction<SimpleMatrix, SimpleMatrix, Double> error) {
+	/**
+	 * Each column is a vector function of partial derivatives, each with respect to
+	 * a change in the <code>i<code>th activation (i.e. the final activation output
+	 * from each output neuron on the final layer).
+	 */
+	public Function<SimpleMatrix, SimpleMatrix> costGradient = m -> m;
+	
+	
+	public StochasticGradientDescent(double learningRate, Random rng) {
 		this.learningRate = learningRate;
-		this.batchSize = batchSize;
 		this.rng = rng;
-		this.error = error;
 	}
 	
 	@Override
-	public void startEpoch(NeuralNetwork nn, TrainingData trainingData) {
+	public void epochStart(NeuralNetwork nn, TrainingData trainingData) {
 		trainingData.shuffle(rng);
 	}
 	
 	@Override
-	public void update(NeuralNetwork nn, SimpleMatrix expectedOutput, SimpleMatrix actualOutput) {
-		accumulatedCost += error.apply(expectedOutput, actualOutput);
-		if (++i >= batchSize) {
-			accumulatedCost /= 2 * batchSize;  // half of the mean error
+	public void update(NeuralNetwork nn, SimpleMatrix outputDeltas, SimpleMatrix[] a, SimpleMatrix[] z, int batchSize) {
+		// gradient decent:
+		SimpleMatrix gradient = costGradient.apply(outputDeltas); // the (local) gradient of the cost function with respect to the current layer's neuron activations
+		
+		// back propagation
+		for (int t = nn.T - 1; t >= 0; t--) {
+			Util.apply(z[t], nn.activationDerivatives[t]);
+			Util.elementMult(gradient, z[t]);  // i.e. the error for this layer
+			SimpleMatrix delta = gradient;  // This copy is import since we are about to update gradient for the next layer, but need this delta for updating the weights and biases.
+			gradient = nn.weights[t].transpose().mult(delta);  // now the (local) gradient foe the precedent layer
 			
-			// TODO: update weights
-			
-			i = 0;
-			accumulatedCost = 0;
+			Util.scale(-learningRate / batchSize, delta);
+			Util.addEquals(nn.biases[t], Util.horizontalSum(delta)); // Update nn.biases[t] based on delta
+			Util.addEquals(nn.weights[t], delta.mult(a[t]).transpose()); // Update nn.wieghts[t] based on delta
 		}
-	}
-
-	@Override
-	public String toString() {
-		return "" + accumulatedCost;  // DEBUG
 	}
 }

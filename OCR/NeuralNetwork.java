@@ -2,9 +2,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Iterator;
-import java.util.Random;
-import java.util.function.BiFunction;
 import java.util.function.Function;
+import java.util.function.Supplier;
 
 import org.ejml.simple.SimpleMatrix;
 
@@ -12,64 +11,128 @@ public class NeuralNetwork {
 	public final SimpleMatrix[] weights;
 	public final SimpleMatrix[] biases;
 	
+	// the activation functions and their derivatives for each transition between layers
+	public Function<Double, Double>[] activationFunctions;
+	public Function<Double, Double>[] activationDerivatives;
+	
 	/** Number of transitions/transformations between layers. */
 	public final int T;
 	
+	@SuppressWarnings("unchecked")
 	public NeuralNetwork(int... layerSizes) {
 		T = layerSizes.length - 1;
 		
 		weights = new SimpleMatrix[T];
-		for (int t = 0; t < T; t++)
-			weights[t] = new SimpleMatrix(layerSizes[t + 1], layerSizes[t]);
-		
 		biases = new SimpleMatrix[T];
-		for (int t = 0; t < T; t++)
+		activationFunctions = (Function<Double, Double>[]) new Function[T];
+		activationDerivatives = (Function<Double, Double>[]) new Function[T];
+		for (int t = 0; t < T; t++) {
+			weights[t] = new SimpleMatrix(layerSizes[t + 1], layerSizes[t]);
 			biases[t] = new SimpleMatrix(layerSizes[t + 1], 1);
+			activationFunctions[t] = Util::sigmoid;
+			activationDerivatives[t] = Util::dSigmoid;
+		}
+		
 	}
 	
-	public void randomize(Random rng) {
-		final Function<Double, Double> gaussian = x -> rng.nextGaussian();
-		
+	public int inDim() {
+		return weights[0].getNumCols();
+	}
+	
+	public int outDim() {
+		return weights[T].getNumRows();
+	}
+	
+	public int layers() {
+		return T + 1;
+	}
+	
+	public void randomize(Supplier<Double> next) {
 		for (SimpleMatrix w : weights)
-			Util.apply(w, gaussian);
+			Util.apply(w, next);
 		
 		for (SimpleMatrix b : biases)
-			Util.apply(b, gaussian);
+			Util.apply(b, next);
 	}
 	
-	public void train(TrainingData trainingData, int n, TrainingAlgorithm<? super NeuralNetwork> algo) {
-		Iterator<TrainingDataPair> iter = null;
-		for (int i = 0; i < n; i++) {
-			if (i == 0 || !iter.hasNext()) {
-				algo.startEpoch(null, trainingData);  // e.g. for StochasticGradientDescent, this (re-)shuffles the data set
-				iter = trainingData.iterator();
-			}
+	public void batchTrain(TrainingData trainingData, int epochs, int maxBatchSize, TrainingAlgorithm algo) {
+		final int IN_DIM = inDim();
+		final int OUT_DIM = outDim();
+		final int L = layers();
+		
+		algo.trainingStart(this);
+		
+		for (int epoch = 0; epoch < epochs; epoch++) {
+			algo.epochStart(this, trainingData);
 			
-			var pair = iter.next();	
-			try {
-				SimpleMatrix v = pair.input();  // get input vector for this file
+			Iterator<TrainingDataPair> iter = trainingData.iterator();
+			BATCH: while(true) {  // exhaust iter
 				
-				// transform our input layer, through all hidden layers, into our output layer
+				// 1. Build a batch.
+				SimpleMatrix inputs = new SimpleMatrix(IN_DIM, maxBatchSize);
+				SimpleMatrix expectedOutputs = new SimpleMatrix(OUT_DIM, maxBatchSize);
+				
+				int batchSize;
+				for (batchSize = 0; batchSize < maxBatchSize; batchSize++) {  // i.e., column "j"
+					if (!iter.hasNext()) {
+						// If true, there is no more training data in the iter. End the epoch.
+						if (batchSize == 0)
+							break BATCH;
+						// Otherwise, this is a residue/tail batch.
+						// Allow NN to update on this truncated batch.
+						break;
+					}
+					
+					TrainingDataPair pair = null;
+					try {
+						// add training data pair to batch
+						pair = iter.next();
+						pair.input(inputs, batchSize);  // batchSize is also the current column "j"
+						pair.expectedOutput(expectedOutputs, batchSize);
+					
+					} catch(Exception ex) {
+						System.err.println("WARNING: Truncating batch becasue Error getting input or expected output from: " + pair);
+						ex.printStackTrace();
+						
+						// This exception is thrown before batchSize++ (for loop), so the current value
+						// of batchSize is correct: i.e. all data before batchSize is valid.
+
+						// Optimization: no reason to update NN if their is no training data in this
+						// batch. Instead, skip the update. Instead start building the next batch.
+						if (batchSize == 0)
+							continue BATCH;
+						
+						// Otherwise, allow the NN update.
+					}
+				}
+
+				// 2. Transform our input layer [0], through all hidden layers, into our output
+				//    layer [L = T+1], calculating activation matrices `a`, and pre-activation
+				//    matrices `z` along the way.
+				SimpleMatrix[] a = new SimpleMatrix[L];  // Activation matrices for each layer. Size L = T + 1.
+				SimpleMatrix[] z = new SimpleMatrix[T];  // The pre-activation weighted input for each transition;
+					// e.g. z[0] is the linear output of layer 0 (the input layer) which is fed into layer 1 as
+					// weighted (pre-activation) input before applying the activation function (e.g. sigmoid).
+				
+				a[0] = inputs;  // the activations for layer [0] (i.e. the input neurons) are the inputs
 				for (int t = 0; t < T; t++) {
-					SimpleMatrix w = weights[t];
-					SimpleMatrix b = biases[t];
-					v = w.mult(v).plus(b);
-					Util.apply(v, Util::sigmoid);  // vectorize
+					SimpleMatrix w = weights[t];  // weights for this transformation/transition between layers t -> t + 1
+					SimpleMatrix b = biases[t];   // biases for this transformation/transition between layers t -> t + 1
+					z[t] = Util.broadcast(w.mult(a[t]), b);  // calculate linear outputs for layer t (i.e. pre-activation inputs for layer t + 1
+					Util.apply(a[t + 1] = z[t].copy(), activationFunctions[t]);  // apply vectorized activation function to calculate the activation matrix for layer t + 1
 				}
 				
-				// update weights and biases based on difference from expected output
-				algo.update(this, pair.expectedOutput(), v);
-				// TODO: use gradient decent to update the model
-				System.out.println(pair + " : " + algo);  // DEBUG
+				// 3. Update weights and biases based on difference from expected output.
+				SimpleMatrix outputDeltas = a[T].minus(expectedOutputs);
+				algo.update(this, outputDeltas, a, z, batchSize);
 				
-			} catch(Exception ex) {
-				System.err.println(ex);
+				// 4. DEBUG: log cost of each batch to make sure it's going down
+				if (algo instanceof StochasticGradientDescent sgd)
+					System.out.printf("[epoch: %04d, batchSize: %04d] Cost: %f%n", epoch, batchSize, sgd.costFunction.apply(outputDeltas));
+				else
+					System.out.println("DEBUG: Unrecognizeed algo. No cost info.");
 			}
 		}
-	}
-	
-	public void train(TrainingData trainingData, TrainingAlgorithm<? super NeuralNetwork> algo) {
-		train(trainingData, trainingData.size(), algo);
 	}
 	
 	private static interface Save {
@@ -94,9 +157,9 @@ public class NeuralNetwork {
 		}),
 		
 		TEXT((out, nn) -> {
-			// TODO: stub
+			throw new IOException("TODO: Unimplemented format: TEXT"); // TODO: stub
 		}, in -> {
-			return null; // TODO: stub
+			throw new IOException("TODO: Unimplemented format: TEXT"); // TODO: stub
 		});
 		
 		public final Save save;
