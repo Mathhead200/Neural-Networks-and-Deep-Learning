@@ -14,7 +14,7 @@ public final class Util {
 	}
 	
 	public static void apply(SimpleMatrix m, Supplier<Double> f) {
-		apply(m, x -> f.get());
+		apply(m, _ -> f.get());
 	}
 	
 	/**
@@ -49,11 +49,15 @@ public final class Util {
 		return 1.0 / (1.0 + Math.exp(-z));
 	}
 	
-	public static double dSigmoid(double z) {
+	public static double dSigmoidExplicit(double z) {
 //		double exp = Math.exp(-z);
 //		return exp / sq(1 + exp);
 		double s = sigmoid(z);
 		return s * (1 - s);
+	}
+	
+	public static double dSigmoidImplicit(double sigmoid) {
+		return sigmoid * (1 - sigmoid);
 	}
 	
 	/**

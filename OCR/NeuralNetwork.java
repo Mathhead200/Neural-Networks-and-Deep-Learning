@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Iterator;
+import java.util.function.BiFunction;
 import java.util.function.Function;
 import java.util.function.Supplier;
 
@@ -11,9 +12,10 @@ public class NeuralNetwork {
 	public final SimpleMatrix[] weights;
 	public final SimpleMatrix[] biases;
 	
-	// the activation functions and their derivatives for each transition between layers
+	// The activation functions and their derivatives for each transition between layers
 	public Function<Double, Double>[] activationFunctions;
-	public Function<Double, Double>[] activationDerivatives;
+	// Inputs are both z and sigmoid(z) since both are computed and available when this function is called
+	public BiFunction<Double, Double, Double>[] activationDerivatives;
 	
 	/** Number of transitions/transformations between layers. */
 	public final int T;
@@ -25,12 +27,12 @@ public class NeuralNetwork {
 		weights = new SimpleMatrix[T];
 		biases = new SimpleMatrix[T];
 		activationFunctions = (Function<Double, Double>[]) new Function[T];
-		activationDerivatives = (Function<Double, Double>[]) new Function[T];
+		activationDerivatives = (BiFunction<Double, Double, Double>[]) new Function[T];
 		for (int t = 0; t < T; t++) {
 			weights[t] = new SimpleMatrix(layerSizes[t + 1], layerSizes[t]);
 			biases[t] = new SimpleMatrix(layerSizes[t + 1], 1);
 			activationFunctions[t] = Util::sigmoid;
-			activationDerivatives[t] = Util::dSigmoid;
+			activationDerivatives[t] = (_, s) -> Util.dSigmoidImplicit(s);
 		}
 		
 	}
@@ -40,7 +42,7 @@ public class NeuralNetwork {
 	}
 	
 	public int outDim() {
-		return weights[T].getNumRows();
+		return weights[T - 1].getNumRows();
 	}
 	
 	public int layers() {
@@ -144,18 +146,21 @@ public class NeuralNetwork {
 	}
 	
 	public static enum IOFormat {
+		@SuppressWarnings("unused")
 		BINARY((out, nn) -> {
 			throw new IOException("TODO: Unimplemented format: BINARY"); // TODO: stub
 		}, in -> {
 			throw new IOException("TODO: Unimplemented format: BINARY"); // TODO: stub
 		}),
 		
+		@SuppressWarnings("unused")
 		JSON((out, nn) -> {
 			throw new IOException("TODO: Unimplemented format: JSON"); // TODO: stub
 		}, in -> {
 			throw new IOException("TODO: Unimplemented format: JSON"); // TODO: stub
 		}),
 		
+		@SuppressWarnings("unused")
 		TEXT((out, nn) -> {
 			throw new IOException("TODO: Unimplemented format: TEXT"); // TODO: stub
 		}, in -> {

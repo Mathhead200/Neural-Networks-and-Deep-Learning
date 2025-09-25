@@ -43,7 +43,7 @@ public class StochasticGradientDescent implements TrainingAlgorithm {
 		
 		// back propagation
 		for (int t = nn.T - 1; t >= 0; t--) {
-			Util.apply(z[t], nn.activationDerivatives[t]);
+			Util.apply(z[t], nn.activationDerivatives[t]);  // TODO: rewrite to use implicit derivative: dSigmoidImplicit
 			Util.elementMult(gradient, z[t]);  // i.e. the error for this layer
 			SimpleMatrix delta = gradient;  // This copy is import since we are about to update gradient for the next layer, but need this delta for updating the weights and biases.
 			gradient = nn.weights[t].transpose().mult(delta);  // now the (local) gradient foe the precedent layer
