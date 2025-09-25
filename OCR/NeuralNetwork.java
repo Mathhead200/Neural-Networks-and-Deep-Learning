@@ -27,12 +27,12 @@ public class NeuralNetwork {
 		weights = new SimpleMatrix[T];
 		biases = new SimpleMatrix[T];
 		activationFunctions = (Function<Double, Double>[]) new Function[T];
-		activationDerivatives = (BiFunction<Double, Double, Double>[]) new Function[T];
+		activationDerivatives = (BiFunction<Double, Double, Double>[]) new BiFunction[T];
 		for (int t = 0; t < T; t++) {
 			weights[t] = new SimpleMatrix(layerSizes[t + 1], layerSizes[t]);
 			biases[t] = new SimpleMatrix(layerSizes[t + 1], 1);
 			activationFunctions[t] = Util::sigmoid;
-			activationDerivatives[t] = (_, s) -> Util.dSigmoidImplicit(s);
+			activationDerivatives[t] = (_, a) -> Util.dSigmoidImplicit(a);
 		}
 		
 	}

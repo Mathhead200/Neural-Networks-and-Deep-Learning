@@ -1,3 +1,4 @@
+import java.util.function.BiFunction;
 import java.util.function.Function;
 import java.util.function.Supplier;
 
@@ -15,6 +16,19 @@ public final class Util {
 	
 	public static void apply(SimpleMatrix m, Supplier<Double> f) {
 		apply(m, _ -> f.get());
+	}
+	
+	/**
+	 * Precondition: a and b have the same dimensions.
+	 * @param a (Modified)
+	 * @param b (Unmodified)
+	 * @param f
+	 */
+	public static void join(SimpleMatrix a, SimpleMatrix b, BiFunction<Double, Double, Double> f) {
+		final double[] aData = ((DMatrixRMaj) a.getMatrix()).data;
+		final double[] bData = ((DMatrixRMaj) b.getMatrix()).data;
+		for (int i = 0; i < aData.length; i++)
+			aData[i] = f.apply(aData[i], bData[i]);
 	}
 	
 	/**
