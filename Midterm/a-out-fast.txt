@@ -1,0 +1,136 @@
+Loading data...
+
+Testing with K=1...
+  Accuracy: 0.97
+  Real time: 3.810 s
+  CPU time: 30.672 s
+
+Testing with K=2...
+  Accuracy: 0.96
+  Real time: 2.776 s
+  CPU time: 35.234 s
+
+Testing with K=3...
+  Accuracy: 0.97
+  Real time: 3.026 s
+  CPU time: 38.750 s
+
+Testing with K=4...
+  Accuracy: 0.97
+  Real time: 3.168 s
+  CPU time: 40.219 s
+
+Testing with K=5...
+  Accuracy: 0.97
+  Real time: 2.976 s
+  CPU time: 38.141 s
+
+Testing with K=6...
+  Accuracy: 0.97
+  Real time: 2.979 s
+  CPU time: 36.688 s
+
+Testing with K=7...
+  Accuracy: 0.97
+  Real time: 3.003 s
+  CPU time: 37.328 s
+
+Testing with K=8...
+  Accuracy: 0.97
+  Real time: 2.991 s
+  CPU time: 37.812 s
+
+Testing with K=9...
+  Accuracy: 0.97
+  Real time: 2.980 s
+  CPU time: 37.797 s
+
+Testing with K=10...
+  Accuracy: 0.97
+  Real time: 2.954 s
+  CPU time: 36.266 s
+
+Testing with K=20...
+  Accuracy: 0.96
+  Real time: 2.978 s
+  CPU time: 37.531 s
+
+Testing with K=30...
+  Accuracy: 0.96
+  Real time: 3.021 s
+  CPU time: 38.391 s
+
+Testing with K=40...
+  Accuracy: 0.96
+  Real time: 3.073 s
+  CPU time: 38.359 s
+
+Testing with K=50...
+  Accuracy: 0.95
+  Real time: 3.075 s
+  CPU time: 38.703 s
+
+Testing with K=60...
+  Accuracy: 0.95
+  Real time: 3.153 s
+  CPU time: 38.984 s
+
+Testing with K=70...
+  Accuracy: 0.95
+  Real time: 3.141 s
+  CPU time: 39.375 s
+
+Testing with K=80...
+  Accuracy: 0.95
+  Real time: 3.220 s
+  CPU time: 39.719 s
+
+Testing with K=90...
+  Accuracy: 0.95
+  Real time: 3.283 s
+  CPU time: 41.031 s
+
+Testing with K=100...
+  Accuracy: 0.94
+  Real time: 3.364 s
+  CPU time: 41.797 s
+
+Testing with K=150...
+  Accuracy: 0.94
+  Real time: 3.453 s
+  CPU time: 42.438 s
+
+Testing with K=200...
+  Accuracy: 0.93
+  Real time: 3.573 s
+  CPU time: 41.906 s
+
+Testing with K=250...
+  Accuracy: 0.92
+  Real time: 3.810 s
+  CPU time: 45.922 s
+
+Testing with K=300...
+  Accuracy: 0.92
+  Real time: 3.922 s
+  CPU time: 47.344 s
+
+Testing with K=350...
+  Accuracy: 0.91
+  Real time: 4.034 s
+  CPU time: 49.766 s
+
+Testing with K=400...
+  Accuracy: 0.91
+  Real time: 4.197 s
+  CPU time: 51.672 s
+
+Testing with K=450...
+  Accuracy: 0.91
+  Real time: 4.231 s
+  CPU time: 53.078 s
+  
+Testing with K=500...
+  Accuracy: 0.90
+  Real time: 4.445 s
+  CPU time: 55.844 s
