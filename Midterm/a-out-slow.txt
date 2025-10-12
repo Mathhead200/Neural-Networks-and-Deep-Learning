@@ -475,3 +475,4528 @@ Testing with K=95...
   Real time: 6.561 s
   CPU time: 48.641 s
 
+Testing with K=96...
+  Accuracy: 0.94
+  Real time: 6.629 s
+  CPU time: 48.938 s
+
+Testing with K=97...
+  Accuracy: 0.94
+  Real time: 6.594 s
+  CPU time: 48.500 s
+
+Testing with K=98...
+  Accuracy: 0.94
+  Real time: 6.651 s
+  CPU time: 48.781 s
+
+Testing with K=99...
+  Accuracy: 0.94
+  Real time: 6.636 s
+  CPU time: 48.719 s
+
+Testing with K=100...
+  Accuracy: 0.94
+  Real time: 6.704 s
+  CPU time: 49.219 s
+
+Testing with K=101...
+  Accuracy: 0.94
+  Real time: 6.783 s
+  CPU time: 49.703 s
+
+Testing with K=102...
+  Accuracy: 0.94
+  Real time: 6.714 s
+  CPU time: 49.641 s
+
+Testing with K=103...
+  Accuracy: 0.94
+  Real time: 6.795 s
+  CPU time: 49.922 s
+
+Testing with K=104...
+  Accuracy: 0.94
+  Real time: 6.844 s
+  CPU time: 49.906 s
+
+Testing with K=105...
+  Accuracy: 0.94
+  Real time: 6.991 s
+  CPU time: 50.344 s
+
+Testing with K=106...
+  Accuracy: 0.94
+  Real time: 6.807 s
+  CPU time: 49.359 s
+
+Testing with K=107...
+  Accuracy: 0.94
+  Real time: 6.822 s
+  CPU time: 49.656 s
+
+Testing with K=108...
+  Accuracy: 0.94
+  Real time: 6.794 s
+  CPU time: 49.031 s
+
+Testing with K=109...
+  Accuracy: 0.94
+  Real time: 6.977 s
+  CPU time: 50.125 s
+
+Testing with K=110...
+  Accuracy: 0.94
+  Real time: 6.718 s
+  CPU time: 49.094 s
+
+Testing with K=111...
+  Accuracy: 0.94
+  Real time: 6.633 s
+  CPU time: 48.781 s
+
+Testing with K=112...
+  Accuracy: 0.94
+  Real time: 6.748 s
+  CPU time: 49.203 s
+
+Testing with K=113...
+  Accuracy: 0.94
+  Real time: 6.947 s
+  CPU time: 50.531 s
+
+Testing with K=114...
+  Accuracy: 0.94
+  Real time: 6.886 s
+  CPU time: 50.172 s
+
+Testing with K=115...
+  Accuracy: 0.94
+  Real time: 6.837 s
+  CPU time: 50.312 s
+
+Testing with K=116...
+  Accuracy: 0.94
+  Real time: 6.865 s
+  CPU time: 50.031 s
+
+Testing with K=117...
+  Accuracy: 0.94
+  Real time: 6.863 s
+  CPU time: 50.109 s
+
+Testing with K=118...
+  Accuracy: 0.94
+  Real time: 6.876 s
+  CPU time: 49.875 s
+
+Testing with K=119...
+  Accuracy: 0.94
+  Real time: 6.817 s
+  CPU time: 49.938 s
+
+Testing with K=120...
+  Accuracy: 0.94
+  Real time: 6.800 s
+  CPU time: 50.141 s
+
+Testing with K=121...
+  Accuracy: 0.94
+  Real time: 6.843 s
+  CPU time: 50.266 s
+
+Testing with K=122...
+  Accuracy: 0.94
+  Real time: 6.930 s
+  CPU time: 50.172 s
+
+Testing with K=123...
+  Accuracy: 0.94
+  Real time: 7.716 s
+  CPU time: 50.141 s
+
+Testing with K=124...
+  Accuracy: 0.94
+  Real time: 7.081 s
+  CPU time: 49.953 s
+
+Testing with K=125...
+  Accuracy: 0.94
+  Real time: 6.821 s
+  CPU time: 49.906 s
+
+Testing with K=126...
+  Accuracy: 0.94
+  Real time: 6.810 s
+  CPU time: 50.016 s
+
+Testing with K=127...
+  Accuracy: 0.94
+  Real time: 6.947 s
+  CPU time: 50.312 s
+
+Testing with K=128...
+  Accuracy: 0.94
+  Real time: 6.707 s
+  CPU time: 49.250 s
+
+Testing with K=129...
+  Accuracy: 0.94
+  Real time: 7.037 s
+  CPU time: 51.484 s
+
+Testing with K=130...
+  Accuracy: 0.94
+  Real time: 6.742 s
+  CPU time: 49.172 s
+
+Testing with K=131...
+  Accuracy: 0.94
+  Real time: 6.756 s
+  CPU time: 49.719 s
+
+Testing with K=132...
+  Accuracy: 0.94
+  Real time: 6.780 s
+  CPU time: 49.891 s
+
+Testing with K=133...
+  Accuracy: 0.94
+  Real time: 6.901 s
+  CPU time: 49.797 s
+
+Testing with K=134...
+  Accuracy: 0.94
+  Real time: 6.951 s
+  CPU time: 50.094 s
+
+Testing with K=135...
+  Accuracy: 0.94
+  Real time: 6.981 s
+  CPU time: 51.094 s
+
+Testing with K=136...
+  Accuracy: 0.94
+  Real time: 6.849 s
+  CPU time: 50.125 s
+
+Testing with K=137...
+  Accuracy: 0.94
+  Real time: 6.873 s
+  CPU time: 50.422 s
+
+Testing with K=138...
+  Accuracy: 0.94
+  Real time: 6.987 s
+  CPU time: 51.031 s
+
+Testing with K=139...
+  Accuracy: 0.94
+  Real time: 6.919 s
+  CPU time: 50.719 s
+
+Testing with K=140...
+  Accuracy: 0.94
+  Real time: 6.884 s
+  CPU time: 50.531 s
+
+Testing with K=141...
+  Accuracy: 0.94
+  Real time: 6.957 s
+  CPU time: 51.062 s
+
+Testing with K=142...
+  Accuracy: 0.94
+  Real time: 7.055 s
+  CPU time: 50.812 s
+
+Testing with K=143...
+  Accuracy: 0.94
+  Real time: 7.082 s
+  CPU time: 51.141 s
+
+Testing with K=144...
+  Accuracy: 0.94
+  Real time: 6.929 s
+  CPU time: 50.984 s
+
+Testing with K=145...
+  Accuracy: 0.94
+  Real time: 6.952 s
+  CPU time: 50.734 s
+
+Testing with K=146...
+  Accuracy: 0.94
+  Real time: 6.939 s
+  CPU time: 50.781 s
+
+Testing with K=147...
+  Accuracy: 0.94
+  Real time: 7.027 s
+  CPU time: 51.906 s
+
+Testing with K=148...
+  Accuracy: 0.94
+  Real time: 6.944 s
+  CPU time: 50.578 s
+
+Testing with K=149...
+  Accuracy: 0.94
+  Real time: 6.933 s
+  CPU time: 51.078 s
+
+Testing with K=150...
+  Accuracy: 0.94
+  Real time: 6.918 s
+  CPU time: 50.516 s
+
+Testing with K=151...
+  Accuracy: 0.94
+  Real time: 7.192 s
+  CPU time: 52.344 s
+
+Testing with K=152...
+  Accuracy: 0.94
+  Real time: 3.618 s
+  CPU time: 46.422 s
+
+Testing with K=153...
+  Accuracy: 0.94
+  Real time: 3.582 s
+  CPU time: 45.875 s
+
+Testing with K=154...
+  Accuracy: 0.94
+  Real time: 3.620 s
+  CPU time: 46.484 s
+
+Testing with K=155...
+  Accuracy: 0.94
+  Real time: 3.435 s
+  CPU time: 43.672 s
+
+Testing with K=156...
+  Accuracy: 0.93
+  Real time: 3.423 s
+  CPU time: 43.266 s
+
+Testing with K=157...
+  Accuracy: 0.93
+  Real time: 3.366 s
+  CPU time: 41.344 s
+
+Testing with K=158...
+  Accuracy: 0.93
+  Real time: 3.269 s
+  CPU time: 39.688 s
+
+Testing with K=159...
+  Accuracy: 0.93
+  Real time: 3.516 s
+  CPU time: 38.906 s
+
+Testing with K=160...
+  Accuracy: 0.93
+  Real time: 7.032 s
+  CPU time: 50.703 s
+
+Testing with K=161...
+  Accuracy: 0.93
+  Real time: 7.047 s
+  CPU time: 51.859 s
+
+Testing with K=162...
+  Accuracy: 0.93
+  Real time: 7.229 s
+  CPU time: 52.469 s
+
+Testing with K=163...
+  Accuracy: 0.93
+  Real time: 7.293 s
+  CPU time: 52.641 s
+
+Testing with K=164...
+  Accuracy: 0.93
+  Real time: 7.438 s
+  CPU time: 52.766 s
+
+Testing with K=165...
+  Accuracy: 0.93
+  Real time: 7.076 s
+  CPU time: 51.547 s
+
+Testing with K=166...
+  Accuracy: 0.93
+  Real time: 6.893 s
+  CPU time: 51.500 s
+
+Testing with K=167...
+  Accuracy: 0.93
+  Real time: 3.582 s
+  CPU time: 43.125 s
+
+Testing with K=168...
+  Accuracy: 0.93
+  Real time: 3.453 s
+  CPU time: 41.500 s
+
+Testing with K=169...
+  Accuracy: 0.93
+  Real time: 6.871 s
+  CPU time: 50.391 s
+
+Testing with K=170...
+  Accuracy: 0.93
+  Real time: 7.038 s
+  CPU time: 52.000 s
+
+Testing with K=171...
+  Accuracy: 0.93
+  Real time: 7.299 s
+  CPU time: 53.484 s
+
+Testing with K=172...
+  Accuracy: 0.93
+  Real time: 7.134 s
+  CPU time: 52.219 s
+
+Testing with K=173...
+  Accuracy: 0.93
+  Real time: 7.197 s
+  CPU time: 52.500 s
+
+Testing with K=174...
+  Accuracy: 0.93
+  Real time: 7.404 s
+  CPU time: 53.516 s
+
+Testing with K=175...
+  Accuracy: 0.93
+  Real time: 7.452 s
+  CPU time: 53.891 s
+
+Testing with K=176...
+  Accuracy: 0.93
+  Real time: 7.477 s
+  CPU time: 53.828 s
+
+Testing with K=177...
+  Accuracy: 0.93
+  Real time: 8.020 s
+  CPU time: 56.672 s
+
+Testing with K=178...
+  Accuracy: 0.93
+  Real time: 4.855 s
+  CPU time: 46.641 s
+
+Testing with K=179...
+  Accuracy: 0.93
+  Real time: 3.832 s
+  CPU time: 44.672 s
+
+Testing with K=180...
+  Accuracy: 0.93
+  Real time: 3.465 s
+  CPU time: 40.844 s
+
+Testing with K=181...
+  Accuracy: 0.93
+  Real time: 3.317 s
+  CPU time: 39.125 s
+
+Testing with K=182...
+  Accuracy: 0.93
+  Real time: 3.458 s
+  CPU time: 40.672 s
+
+Testing with K=183...
+  Accuracy: 0.93
+  Real time: 3.292 s
+  CPU time: 39.344 s
+
+Testing with K=184...
+  Accuracy: 0.93
+  Real time: 3.350 s
+  CPU time: 39.953 s
+
+Testing with K=185...
+  Accuracy: 0.93
+  Real time: 3.368 s
+  CPU time: 40.406 s
+
+Testing with K=186...
+  Accuracy: 0.93
+  Real time: 3.412 s
+  CPU time: 40.047 s
+
+Testing with K=187...
+  Accuracy: 0.93
+  Real time: 3.447 s
+  CPU time: 40.969 s
+
+Testing with K=188...
+  Accuracy: 0.93
+  Real time: 3.504 s
+  CPU time: 40.125 s
+
+Testing with K=189...
+  Accuracy: 0.93
+  Real time: 3.539 s
+  CPU time: 42.750 s
+
+Testing with K=190...
+  Accuracy: 0.93
+  Real time: 6.366 s
+  CPU time: 49.578 s
+
+Testing with K=191...
+  Accuracy: 0.93
+  Real time: 7.598 s
+  CPU time: 55.125 s
+
+Testing with K=192...
+  Accuracy: 0.93
+  Real time: 7.510 s
+  CPU time: 55.094 s
+
+Testing with K=193...
+  Accuracy: 0.93
+  Real time: 7.886 s
+  CPU time: 54.734 s
+
+Testing with K=194...
+  Accuracy: 0.93
+  Real time: 7.552 s
+  CPU time: 55.203 s
+
+Testing with K=195...
+  Accuracy: 0.93
+  Real time: 5.783 s
+  CPU time: 51.453 s
+
+Testing with K=196...
+  Accuracy: 0.93
+  Real time: 3.695 s
+  CPU time: 45.438 s
+
+Testing with K=197...
+  Accuracy: 0.93
+  Real time: 3.677 s
+  CPU time: 43.828 s
+
+Testing with K=198...
+  Accuracy: 0.93
+  Real time: 3.587 s
+  CPU time: 44.703 s
+
+Testing with K=199...
+  Accuracy: 0.93
+  Real time: 3.623 s
+  CPU time: 43.469 s
+
+Testing with K=200...
+  Accuracy: 0.93
+  Real time: 3.463 s
+  CPU time: 42.734 s
+
+Testing with K=201...
+  Accuracy: 0.93
+  Real time: 3.505 s
+  CPU time: 42.047 s
+
+Testing with K=202...
+  Accuracy: 0.93
+  Real time: 3.524 s
+  CPU time: 43.297 s
+
+Testing with K=203...
+  Accuracy: 0.93
+  Real time: 3.532 s
+  CPU time: 41.703 s
+
+Testing with K=204...
+  Accuracy: 0.93
+  Real time: 3.454 s
+  CPU time: 42.422 s
+
+Testing with K=205...
+  Accuracy: 0.93
+  Real time: 3.474 s
+  CPU time: 42.438 s
+
+Testing with K=206...
+  Accuracy: 0.93
+  Real time: 3.466 s
+  CPU time: 42.109 s
+
+Testing with K=207...
+  Accuracy: 0.93
+  Real time: 3.418 s
+  CPU time: 42.234 s
+
+Testing with K=208...
+  Accuracy: 0.93
+  Real time: 3.508 s
+  CPU time: 43.188 s
+
+Testing with K=209...
+  Accuracy: 0.93
+  Real time: 3.572 s
+  CPU time: 43.156 s
+
+Testing with K=210...
+  Accuracy: 0.93
+  Real time: 3.638 s
+  CPU time: 43.016 s
+
+Testing with K=211...
+  Accuracy: 0.93
+  Real time: 3.594 s
+  CPU time: 43.031 s
+
+Testing with K=212...
+  Accuracy: 0.93
+  Real time: 3.581 s
+  CPU time: 42.812 s
+
+Testing with K=213...
+  Accuracy: 0.93
+  Real time: 3.664 s
+  CPU time: 44.156 s
+
+Testing with K=214...
+  Accuracy: 0.93
+  Real time: 3.617 s
+  CPU time: 43.156 s
+
+Testing with K=215...
+  Accuracy: 0.93
+  Real time: 3.669 s
+  CPU time: 44.422 s
+
+Testing with K=216...
+  Accuracy: 0.93
+  Real time: 3.625 s
+  CPU time: 42.078 s
+
+Testing with K=217...
+  Accuracy: 0.93
+  Real time: 3.544 s
+  CPU time: 43.281 s
+
+Testing with K=218...
+  Accuracy: 0.93
+  Real time: 3.549 s
+  CPU time: 41.578 s
+
+Testing with K=219...
+  Accuracy: 0.93
+  Real time: 3.718 s
+  CPU time: 44.312 s
+
+Testing with K=220...
+  Accuracy: 0.93
+  Real time: 3.655 s
+  CPU time: 45.703 s
+
+Testing with K=221...
+  Accuracy: 0.93
+  Real time: 3.683 s
+  CPU time: 45.000 s
+
+Testing with K=222...
+  Accuracy: 0.93
+  Real time: 3.691 s
+  CPU time: 43.094 s
+
+Testing with K=223...
+  Accuracy: 0.93
+  Real time: 3.655 s
+  CPU time: 36.250 s
+
+Testing with K=224...
+  Accuracy: 0.93
+  Real time: 3.672 s
+  CPU time: 37.891 s
+
+Testing with K=225...
+  Accuracy: 0.93
+  Real time: 3.742 s
+  CPU time: 35.281 s
+
+Testing with K=226...
+  Accuracy: 0.93
+  Real time: 3.697 s
+  CPU time: 38.375 s
+
+Testing with K=227...
+  Accuracy: 0.93
+  Real time: 3.628 s
+  CPU time: 37.266 s
+
+Testing with K=228...
+  Accuracy: 0.93
+  Real time: 9.009 s
+  CPU time: 54.141 s
+
+Testing with K=229...
+  Accuracy: 0.93
+  Real time: 4.691 s
+  CPU time: 50.828 s
+
+Testing with K=230...
+  Accuracy: 0.93
+  Real time: 3.884 s
+  CPU time: 44.641 s
+
+Testing with K=231...
+  Accuracy: 0.93
+  Real time: 3.740 s
+  CPU time: 42.344 s
+
+Testing with K=232...
+  Accuracy: 0.92
+  Real time: 3.570 s
+  CPU time: 41.891 s
+
+Testing with K=233...
+  Accuracy: 0.92
+  Real time: 3.745 s
+  CPU time: 42.250 s
+
+Testing with K=234...
+  Accuracy: 0.92
+  Real time: 3.603 s
+  CPU time: 41.016 s
+
+Testing with K=235...
+  Accuracy: 0.93
+  Real time: 4.157 s
+  CPU time: 42.875 s
+
+Testing with K=236...
+  Accuracy: 0.92
+  Real time: 7.851 s
+  CPU time: 56.422 s
+
+Testing with K=237...
+  Accuracy: 0.92
+  Real time: 7.755 s
+  CPU time: 56.109 s
+
+Testing with K=238...
+  Accuracy: 0.92
+  Real time: 7.706 s
+  CPU time: 56.391 s
+
+Testing with K=239...
+  Accuracy: 0.92
+  Real time: 7.791 s
+  CPU time: 55.719 s
+
+Testing with K=240...
+  Accuracy: 0.92
+  Real time: 3.918 s
+  CPU time: 46.453 s
+
+Testing with K=241...
+  Accuracy: 0.92
+  Real time: 3.803 s
+  CPU time: 44.188 s
+
+Testing with K=242...
+  Accuracy: 0.92
+  Real time: 3.737 s
+  CPU time: 45.125 s
+
+Testing with K=243...
+  Accuracy: 0.92
+  Real time: 3.701 s
+  CPU time: 45.031 s
+
+Testing with K=244...
+  Accuracy: 0.92
+  Real time: 3.675 s
+  CPU time: 44.219 s
+
+Testing with K=245...
+  Accuracy: 0.92
+  Real time: 3.601 s
+  CPU time: 44.031 s
+
+Testing with K=246...
+  Accuracy: 0.92
+  Real time: 3.668 s
+  CPU time: 45.266 s
+
+Testing with K=247...
+  Accuracy: 0.92
+  Real time: 3.672 s
+  CPU time: 44.016 s
+
+Testing with K=248...
+  Accuracy: 0.92
+  Real time: 3.706 s
+  CPU time: 45.203 s
+
+Testing with K=249...
+  Accuracy: 0.92
+  Real time: 3.671 s
+  CPU time: 46.594 s
+
+Testing with K=250...
+  Accuracy: 0.92
+  Real time: 3.566 s
+  CPU time: 41.891 s
+
+Testing with K=251...
+  Accuracy: 0.92
+  Real time: 3.599 s
+  CPU time: 44.562 s
+
+Testing with K=252...
+  Accuracy: 0.92
+  Real time: 3.615 s
+  CPU time: 43.062 s
+
+Testing with K=253...
+  Accuracy: 0.92
+  Real time: 3.710 s
+  CPU time: 44.531 s
+
+Testing with K=254...
+  Accuracy: 0.92
+  Real time: 3.706 s
+  CPU time: 45.328 s
+
+Testing with K=255...
+  Accuracy: 0.92
+  Real time: 3.719 s
+  CPU time: 43.438 s
+
+Testing with K=256...
+  Accuracy: 0.92
+  Real time: 3.686 s
+  CPU time: 44.844 s
+
+Testing with K=257...
+  Accuracy: 0.92
+  Real time: 3.713 s
+  CPU time: 42.984 s
+
+Testing with K=258...
+  Accuracy: 0.92
+  Real time: 3.686 s
+  CPU time: 44.484 s
+
+Testing with K=259...
+  Accuracy: 0.92
+  Real time: 5.164 s
+  CPU time: 48.672 s
+
+Testing with K=260...
+  Accuracy: 0.92
+  Real time: 7.334 s
+  CPU time: 54.141 s
+
+Testing with K=261...
+  Accuracy: 0.92
+  Real time: 7.527 s
+  CPU time: 55.547 s
+
+Testing with K=262...
+  Accuracy: 0.92
+  Real time: 7.555 s
+  CPU time: 55.484 s
+
+Testing with K=263...
+  Accuracy: 0.92
+  Real time: 7.596 s
+  CPU time: 56.062 s
+
+Testing with K=264...
+  Accuracy: 0.92
+  Real time: 6.345 s
+  CPU time: 53.047 s
+
+Testing with K=265...
+  Accuracy: 0.92
+  Real time: 4.074 s
+  CPU time: 50.656 s
+
+Testing with K=266...
+  Accuracy: 0.92
+  Real time: 3.865 s
+  CPU time: 48.484 s
+
+Testing with K=267...
+  Accuracy: 0.92
+  Real time: 3.755 s
+  CPU time: 46.344 s
+
+Testing with K=268...
+  Accuracy: 0.92
+  Real time: 3.774 s
+  CPU time: 47.734 s
+
+Testing with K=269...
+  Accuracy: 0.92
+  Real time: 3.718 s
+  CPU time: 46.953 s
+
+Testing with K=270...
+  Accuracy: 0.92
+  Real time: 3.618 s
+  CPU time: 46.734 s
+
+Testing with K=271...
+  Accuracy: 0.92
+  Real time: 3.688 s
+  CPU time: 47.781 s
+
+Testing with K=272...
+  Accuracy: 0.92
+  Real time: 3.747 s
+  CPU time: 47.047 s
+
+Testing with K=273...
+  Accuracy: 0.92
+  Real time: 3.701 s
+  CPU time: 46.234 s
+
+Testing with K=274...
+  Accuracy: 0.92
+  Real time: 3.688 s
+  CPU time: 46.016 s
+
+Testing with K=275...
+  Accuracy: 0.92
+  Real time: 3.749 s
+  CPU time: 47.953 s
+
+Testing with K=276...
+  Accuracy: 0.92
+  Real time: 3.724 s
+  CPU time: 46.391 s
+
+Testing with K=277...
+  Accuracy: 0.92
+  Real time: 3.805 s
+  CPU time: 48.703 s
+
+Testing with K=278...
+  Accuracy: 0.92
+  Real time: 3.812 s
+  CPU time: 48.453 s
+
+Testing with K=279...
+  Accuracy: 0.92
+  Real time: 3.798 s
+  CPU time: 48.234 s
+
+Testing with K=280...
+  Accuracy: 0.92
+  Real time: 4.000 s
+  CPU time: 51.641 s
+
+Testing with K=281...
+  Accuracy: 0.92
+  Real time: 3.686 s
+  CPU time: 47.422 s
+
+Testing with K=282...
+  Accuracy: 0.92
+  Real time: 3.766 s
+  CPU time: 48.422 s
+
+Testing with K=283...
+  Accuracy: 0.92
+  Real time: 3.632 s
+  CPU time: 47.516 s
+
+Testing with K=284...
+  Accuracy: 0.92
+  Real time: 3.793 s
+  CPU time: 48.906 s
+
+Testing with K=285...
+  Accuracy: 0.92
+  Real time: 3.663 s
+  CPU time: 48.312 s
+
+Testing with K=286...
+  Accuracy: 0.92
+  Real time: 3.701 s
+  CPU time: 47.562 s
+
+Testing with K=287...
+  Accuracy: 0.92
+  Real time: 3.467 s
+  CPU time: 44.938 s
+
+Testing with K=288...
+  Accuracy: 0.92
+  Real time: 3.630 s
+  CPU time: 46.938 s
+
+Testing with K=289...
+  Accuracy: 0.92
+  Real time: 3.542 s
+  CPU time: 45.766 s
+
+Testing with K=290...
+  Accuracy: 0.92
+  Real time: 3.618 s
+  CPU time: 46.594 s
+
+Testing with K=291...
+  Accuracy: 0.92
+  Real time: 3.614 s
+  CPU time: 46.359 s
+
+Testing with K=292...
+  Accuracy: 0.92
+  Real time: 3.596 s
+  CPU time: 46.078 s
+
+Testing with K=293...
+  Accuracy: 0.92
+  Real time: 3.602 s
+  CPU time: 46.578 s
+
+Testing with K=294...
+  Accuracy: 0.92
+  Real time: 3.622 s
+  CPU time: 47.234 s
+
+Testing with K=295...
+  Accuracy: 0.92
+  Real time: 3.672 s
+  CPU time: 48.141 s
+
+Testing with K=296...
+  Accuracy: 0.92
+  Real time: 3.788 s
+  CPU time: 49.828 s
+
+Testing with K=297...
+  Accuracy: 0.92
+  Real time: 3.690 s
+  CPU time: 48.297 s
+
+Testing with K=298...
+  Accuracy: 0.92
+  Real time: 3.665 s
+  CPU time: 47.359 s
+
+Testing with K=299...
+  Accuracy: 0.92
+  Real time: 3.585 s
+  CPU time: 46.125 s
+
+Testing with K=300...
+  Accuracy: 0.92
+  Real time: 3.611 s
+  CPU time: 46.766 s
+
+Testing with K=301...
+  Accuracy: 0.92
+  Real time: 3.659 s
+  CPU time: 47.469 s
+
+Testing with K=302...
+  Accuracy: 0.92
+  Real time: 3.603 s
+  CPU time: 46.531 s
+
+Testing with K=303...
+  Accuracy: 0.92
+  Real time: 3.636 s
+  CPU time: 46.734 s
+
+Testing with K=304...
+  Accuracy: 0.92
+  Real time: 3.652 s
+  CPU time: 47.359 s
+
+Testing with K=305...
+  Accuracy: 0.92
+  Real time: 3.766 s
+  CPU time: 48.953 s
+
+Testing with K=306...
+  Accuracy: 0.92
+  Real time: 3.559 s
+  CPU time: 46.109 s
+
+Testing with K=307...
+  Accuracy: 0.92
+  Real time: 3.658 s
+  CPU time: 48.109 s
+
+Testing with K=308...
+  Accuracy: 0.92
+  Real time: 3.713 s
+  CPU time: 48.656 s
+
+Testing with K=309...
+  Accuracy: 0.92
+  Real time: 3.574 s
+  CPU time: 47.000 s
+
+Testing with K=310...
+  Accuracy: 0.92
+  Real time: 3.655 s
+  CPU time: 47.406 s
+
+Testing with K=311...
+  Accuracy: 0.92
+  Real time: 3.634 s
+  CPU time: 46.094 s
+
+Testing with K=312...
+  Accuracy: 0.92
+  Real time: 3.623 s
+  CPU time: 46.641 s
+
+Testing with K=313...
+  Accuracy: 0.92
+  Real time: 3.720 s
+  CPU time: 47.844 s
+
+Testing with K=314...
+  Accuracy: 0.92
+  Real time: 3.646 s
+  CPU time: 46.906 s
+
+Testing with K=315...
+  Accuracy: 0.92
+  Real time: 3.635 s
+  CPU time: 47.047 s
+
+Testing with K=316...
+  Accuracy: 0.92
+  Real time: 3.662 s
+  CPU time: 47.719 s
+
+Testing with K=317...
+  Accuracy: 0.92
+  Real time: 3.709 s
+  CPU time: 48.172 s
+
+Testing with K=318...
+  Accuracy: 0.92
+  Real time: 3.691 s
+  CPU time: 47.484 s
+
+Testing with K=319...
+  Accuracy: 0.92
+  Real time: 3.871 s
+  CPU time: 49.750 s
+
+Testing with K=320...
+  Accuracy: 0.92
+  Real time: 3.686 s
+  CPU time: 48.422 s
+
+Testing with K=321...
+  Accuracy: 0.92
+  Real time: 3.831 s
+  CPU time: 50.531 s
+
+Testing with K=322...
+  Accuracy: 0.92
+  Real time: 3.633 s
+  CPU time: 46.672 s
+
+Testing with K=323...
+  Accuracy: 0.92
+  Real time: 3.672 s
+  CPU time: 47.141 s
+
+Testing with K=324...
+  Accuracy: 0.92
+  Real time: 3.736 s
+  CPU time: 48.750 s
+
+Testing with K=325...
+  Accuracy: 0.92
+  Real time: 3.708 s
+  CPU time: 47.703 s
+
+Testing with K=326...
+  Accuracy: 0.92
+  Real time: 3.681 s
+  CPU time: 48.391 s
+
+Testing with K=327...
+  Accuracy: 0.92
+  Real time: 3.694 s
+  CPU time: 48.375 s
+
+Testing with K=328...
+  Accuracy: 0.92
+  Real time: 3.725 s
+  CPU time: 48.828 s
+
+Testing with K=329...
+  Accuracy: 0.92
+  Real time: 3.729 s
+  CPU time: 48.453 s
+
+Testing with K=330...
+  Accuracy: 0.92
+  Real time: 3.693 s
+  CPU time: 48.797 s
+
+Testing with K=331...
+  Accuracy: 0.92
+  Real time: 3.695 s
+  CPU time: 47.984 s
+
+Testing with K=332...
+  Accuracy: 0.92
+  Real time: 3.714 s
+  CPU time: 48.047 s
+
+Testing with K=333...
+  Accuracy: 0.92
+  Real time: 3.711 s
+  CPU time: 48.141 s
+
+Testing with K=334...
+  Accuracy: 0.92
+  Real time: 3.695 s
+  CPU time: 48.188 s
+
+Testing with K=335...
+  Accuracy: 0.92
+  Real time: 3.743 s
+  CPU time: 48.109 s
+
+Testing with K=336...
+  Accuracy: 0.92
+  Real time: 3.812 s
+  CPU time: 49.891 s
+
+Testing with K=337...
+  Accuracy: 0.92
+  Real time: 3.758 s
+  CPU time: 48.875 s
+
+Testing with K=338...
+  Accuracy: 0.92
+  Real time: 3.777 s
+  CPU time: 49.688 s
+
+Testing with K=339...
+  Accuracy: 0.92
+  Real time: 3.749 s
+  CPU time: 49.281 s
+
+Testing with K=340...
+  Accuracy: 0.92
+  Real time: 3.677 s
+  CPU time: 47.922 s
+
+Testing with K=341...
+  Accuracy: 0.91
+  Real time: 3.702 s
+  CPU time: 47.469 s
+
+Testing with K=342...
+  Accuracy: 0.92
+  Real time: 3.875 s
+  CPU time: 51.312 s
+
+Testing with K=343...
+  Accuracy: 0.92
+  Real time: 3.771 s
+  CPU time: 49.297 s
+
+Testing with K=344...
+  Accuracy: 0.91
+  Real time: 3.827 s
+  CPU time: 49.953 s
+
+Testing with K=345...
+  Accuracy: 0.92
+  Real time: 3.790 s
+  CPU time: 49.266 s
+
+Testing with K=346...
+  Accuracy: 0.91
+  Real time: 3.758 s
+  CPU time: 49.016 s
+
+Testing with K=347...
+  Accuracy: 0.91
+  Real time: 3.773 s
+  CPU time: 49.734 s
+
+Testing with K=348...
+  Accuracy: 0.91
+  Real time: 3.760 s
+  CPU time: 48.531 s
+
+Testing with K=349...
+  Accuracy: 0.91
+  Real time: 3.826 s
+  CPU time: 49.594 s
+
+Testing with K=350...
+  Accuracy: 0.91
+  Real time: 3.854 s
+  CPU time: 49.828 s
+
+Testing with K=351...
+  Accuracy: 0.91
+  Real time: 3.781 s
+  CPU time: 48.094 s
+
+Testing with K=352...
+  Accuracy: 0.91
+  Real time: 3.690 s
+  CPU time: 47.203 s
+
+Testing with K=353...
+  Accuracy: 0.91
+  Real time: 3.868 s
+  CPU time: 50.703 s
+
+Testing with K=354...
+  Accuracy: 0.91
+  Real time: 3.893 s
+  CPU time: 51.016 s
+
+Testing with K=355...
+  Accuracy: 0.91
+  Real time: 3.833 s
+  CPU time: 50.391 s
+
+Testing with K=356...
+  Accuracy: 0.91
+  Real time: 3.746 s
+  CPU time: 48.609 s
+
+Testing with K=357...
+  Accuracy: 0.91
+  Real time: 3.802 s
+  CPU time: 49.047 s
+
+Testing with K=358...
+  Accuracy: 0.91
+  Real time: 3.816 s
+  CPU time: 49.750 s
+
+Testing with K=359...
+  Accuracy: 0.91
+  Real time: 3.851 s
+  CPU time: 50.734 s
+
+Testing with K=360...
+  Accuracy: 0.91
+  Real time: 3.848 s
+  CPU time: 50.297 s
+
+Testing with K=361...
+  Accuracy: 0.91
+  Real time: 3.833 s
+  CPU time: 49.156 s
+
+Testing with K=362...
+  Accuracy: 0.91
+  Real time: 3.871 s
+  CPU time: 50.469 s
+
+Testing with K=363...
+  Accuracy: 0.91
+  Real time: 3.859 s
+  CPU time: 49.234 s
+
+Testing with K=364...
+  Accuracy: 0.91
+  Real time: 3.848 s
+  CPU time: 49.562 s
+
+Testing with K=365...
+  Accuracy: 0.91
+  Real time: 3.768 s
+  CPU time: 49.016 s
+
+Testing with K=366...
+  Accuracy: 0.91
+  Real time: 3.769 s
+  CPU time: 49.359 s
+
+Testing with K=367...
+  Accuracy: 0.91
+  Real time: 3.882 s
+  CPU time: 51.141 s
+
+Testing with K=368...
+  Accuracy: 0.91
+  Real time: 3.803 s
+  CPU time: 49.344 s
+
+Testing with K=369...
+  Accuracy: 0.91
+  Real time: 3.837 s
+  CPU time: 49.781 s
+
+Testing with K=370...
+  Accuracy: 0.91
+  Real time: 3.877 s
+  CPU time: 50.250 s
+
+Testing with K=371...
+  Accuracy: 0.91
+  Real time: 3.750 s
+  CPU time: 48.828 s
+
+Testing with K=372...
+  Accuracy: 0.91
+  Real time: 3.819 s
+  CPU time: 49.312 s
+
+Testing with K=373...
+  Accuracy: 0.91
+  Real time: 3.718 s
+  CPU time: 48.109 s
+
+Testing with K=374...
+  Accuracy: 0.91
+  Real time: 3.913 s
+  CPU time: 51.641 s
+
+Testing with K=375...
+  Accuracy: 0.91
+  Real time: 3.895 s
+  CPU time: 51.391 s
+
+Testing with K=376...
+  Accuracy: 0.91
+  Real time: 3.816 s
+  CPU time: 49.484 s
+
+Testing with K=377...
+  Accuracy: 0.91
+  Real time: 3.846 s
+  CPU time: 49.703 s
+
+Testing with K=378...
+  Accuracy: 0.91
+  Real time: 3.876 s
+  CPU time: 50.625 s
+
+Testing with K=379...
+  Accuracy: 0.91
+  Real time: 3.900 s
+  CPU time: 50.750 s
+
+Testing with K=380...
+  Accuracy: 0.91
+  Real time: 3.888 s
+  CPU time: 50.797 s
+
+Testing with K=381...
+  Accuracy: 0.91
+  Real time: 3.851 s
+  CPU time: 49.500 s
+
+Testing with K=382...
+  Accuracy: 0.91
+  Real time: 3.863 s
+  CPU time: 50.344 s
+
+Testing with K=383...
+  Accuracy: 0.91
+  Real time: 3.877 s
+  CPU time: 50.859 s
+
+Testing with K=384...
+  Accuracy: 0.91
+  Real time: 3.880 s
+  CPU time: 50.641 s
+
+Testing with K=385...
+  Accuracy: 0.91
+  Real time: 3.933 s
+  CPU time: 51.047 s
+
+Testing with K=386...
+  Accuracy: 0.91
+  Real time: 3.844 s
+  CPU time: 49.641 s
+
+Testing with K=387...
+  Accuracy: 0.91
+  Real time: 3.827 s
+  CPU time: 49.922 s
+
+Testing with K=388...
+  Accuracy: 0.91
+  Real time: 3.906 s
+  CPU time: 50.922 s
+
+Testing with K=389...
+  Accuracy: 0.91
+  Real time: 3.974 s
+  CPU time: 52.406 s
+
+Testing with K=390...
+  Accuracy: 0.91
+  Real time: 3.897 s
+  CPU time: 51.266 s
+
+Testing with K=391...
+  Accuracy: 0.91
+  Real time: 3.869 s
+  CPU time: 50.141 s
+
+Testing with K=392...
+  Accuracy: 0.91
+  Real time: 3.863 s
+  CPU time: 50.734 s
+
+Testing with K=393...
+  Accuracy: 0.91
+  Real time: 3.888 s
+  CPU time: 51.016 s
+
+Testing with K=394...
+  Accuracy: 0.91
+  Real time: 3.833 s
+  CPU time: 50.031 s
+
+Testing with K=395...
+  Accuracy: 0.91
+  Real time: 3.877 s
+  CPU time: 50.422 s
+
+Testing with K=396...
+  Accuracy: 0.91
+  Real time: 3.902 s
+  CPU time: 50.594 s
+
+Testing with K=397...
+  Accuracy: 0.91
+  Real time: 3.892 s
+  CPU time: 50.234 s
+
+Testing with K=398...
+  Accuracy: 0.91
+  Real time: 3.857 s
+  CPU time: 50.281 s
+
+Testing with K=399...
+  Accuracy: 0.91
+  Real time: 3.875 s
+  CPU time: 51.234 s
+
+Testing with K=400...
+  Accuracy: 0.91
+  Real time: 3.894 s
+  CPU time: 50.469 s
+
+Testing with K=401...
+  Accuracy: 0.91
+  Real time: 3.951 s
+  CPU time: 50.734 s
+
+Testing with K=402...
+  Accuracy: 0.91
+  Real time: 3.947 s
+  CPU time: 51.109 s
+
+Testing with K=403...
+  Accuracy: 0.91
+  Real time: 3.925 s
+  CPU time: 51.219 s
+
+Testing with K=404...
+  Accuracy: 0.91
+  Real time: 4.025 s
+  CPU time: 54.156 s
+
+Testing with K=405...
+  Accuracy: 0.91
+  Real time: 3.880 s
+  CPU time: 50.750 s
+
+Testing with K=406...
+  Accuracy: 0.91
+  Real time: 3.940 s
+  CPU time: 51.016 s
+
+Testing with K=407...
+  Accuracy: 0.91
+  Real time: 3.899 s
+  CPU time: 51.266 s
+
+Testing with K=408...
+  Accuracy: 0.91
+  Real time: 3.876 s
+  CPU time: 50.109 s
+
+Testing with K=409...
+  Accuracy: 0.91
+  Real time: 3.878 s
+  CPU time: 50.672 s
+
+Testing with K=410...
+  Accuracy: 0.91
+  Real time: 3.939 s
+  CPU time: 51.016 s
+
+Testing with K=411...
+  Accuracy: 0.91
+  Real time: 3.878 s
+  CPU time: 50.391 s
+
+Testing with K=412...
+  Accuracy: 0.91
+  Real time: 3.840 s
+  CPU time: 48.719 s
+
+Testing with K=413...
+  Accuracy: 0.91
+  Real time: 3.917 s
+  CPU time: 50.719 s
+
+Testing with K=414...
+  Accuracy: 0.91
+  Real time: 3.932 s
+  CPU time: 51.250 s
+
+Testing with K=415...
+  Accuracy: 0.91
+  Real time: 3.923 s
+  CPU time: 50.875 s
+
+Testing with K=416...
+  Accuracy: 0.91
+  Real time: 3.941 s
+  CPU time: 51.094 s
+
+Testing with K=417...
+  Accuracy: 0.91
+  Real time: 3.936 s
+  CPU time: 51.875 s
+
+Testing with K=418...
+  Accuracy: 0.91
+  Real time: 3.976 s
+  CPU time: 51.391 s
+
+Testing with K=419...
+  Accuracy: 0.91
+  Real time: 4.013 s
+  CPU time: 52.922 s
+
+Testing with K=420...
+  Accuracy: 0.91
+  Real time: 4.015 s
+  CPU time: 52.672 s
+
+Testing with K=421...
+  Accuracy: 0.91
+  Real time: 3.965 s
+  CPU time: 52.172 s
+
+Testing with K=422...
+  Accuracy: 0.91
+  Real time: 4.000 s
+  CPU time: 51.797 s
+
+Testing with K=423...
+  Accuracy: 0.91
+  Real time: 3.995 s
+  CPU time: 51.703 s
+
+Testing with K=424...
+  Accuracy: 0.91
+  Real time: 3.975 s
+  CPU time: 51.156 s
+
+Testing with K=425...
+  Accuracy: 0.91
+  Real time: 3.946 s
+  CPU time: 51.406 s
+
+Testing with K=426...
+  Accuracy: 0.91
+  Real time: 3.914 s
+  CPU time: 51.312 s
+
+Testing with K=427...
+  Accuracy: 0.91
+  Real time: 3.957 s
+  CPU time: 51.172 s
+
+Testing with K=428...
+  Accuracy: 0.91
+  Real time: 4.029 s
+  CPU time: 52.750 s
+
+Testing with K=429...
+  Accuracy: 0.91
+  Real time: 3.921 s
+  CPU time: 50.984 s
+
+Testing with K=430...
+  Accuracy: 0.91
+  Real time: 4.054 s
+  CPU time: 53.219 s
+
+Testing with K=431...
+  Accuracy: 0.91
+  Real time: 4.078 s
+  CPU time: 53.094 s
+
+Testing with K=432...
+  Accuracy: 0.91
+  Real time: 3.966 s
+  CPU time: 51.812 s
+
+Testing with K=433...
+  Accuracy: 0.91
+  Real time: 4.052 s
+  CPU time: 52.844 s
+
+Testing with K=434...
+  Accuracy: 0.91
+  Real time: 4.070 s
+  CPU time: 53.344 s
+
+Testing with K=435...
+  Accuracy: 0.91
+  Real time: 4.073 s
+  CPU time: 52.594 s
+
+Testing with K=436...
+  Accuracy: 0.91
+  Real time: 4.046 s
+  CPU time: 53.016 s
+
+Testing with K=437...
+  Accuracy: 0.91
+  Real time: 4.055 s
+  CPU time: 52.125 s
+
+Testing with K=438...
+  Accuracy: 0.91
+  Real time: 4.049 s
+  CPU time: 53.219 s
+
+Testing with K=439...
+  Accuracy: 0.91
+  Real time: 3.977 s
+  CPU time: 51.703 s
+
+Testing with K=440...
+  Accuracy: 0.91
+  Real time: 4.074 s
+  CPU time: 53.016 s
+
+Testing with K=441...
+  Accuracy: 0.91
+  Real time: 3.989 s
+  CPU time: 51.500 s
+
+Testing with K=442...
+  Accuracy: 0.91
+  Real time: 4.031 s
+  CPU time: 52.266 s
+
+Testing with K=443...
+  Accuracy: 0.91
+  Real time: 4.073 s
+  CPU time: 53.172 s
+
+Testing with K=444...
+  Accuracy: 0.91
+  Real time: 4.046 s
+  CPU time: 52.500 s
+
+Testing with K=445...
+  Accuracy: 0.91
+  Real time: 4.039 s
+  CPU time: 51.406 s
+
+Testing with K=446...
+  Accuracy: 0.91
+  Real time: 4.036 s
+  CPU time: 51.969 s
+
+Testing with K=447...
+  Accuracy: 0.91
+  Real time: 4.129 s
+  CPU time: 53.562 s
+
+Testing with K=448...
+  Accuracy: 0.91
+  Real time: 3.993 s
+  CPU time: 51.312 s
+
+Testing with K=449...
+  Accuracy: 0.91
+  Real time: 4.065 s
+  CPU time: 52.250 s
+
+Testing with K=450...
+  Accuracy: 0.91
+  Real time: 4.048 s
+  CPU time: 52.578 s
+
+Testing with K=451...
+  Accuracy: 0.91
+  Real time: 4.148 s
+  CPU time: 53.734 s
+
+Testing with K=452...
+  Accuracy: 0.91
+  Real time: 4.082 s
+  CPU time: 53.250 s
+
+Testing with K=453...
+  Accuracy: 0.91
+  Real time: 4.123 s
+  CPU time: 54.312 s
+
+Testing with K=454...
+  Accuracy: 0.91
+  Real time: 4.048 s
+  CPU time: 52.312 s
+
+Testing with K=455...
+  Accuracy: 0.91
+  Real time: 4.138 s
+  CPU time: 53.891 s
+
+Testing with K=456...
+  Accuracy: 0.91
+  Real time: 4.091 s
+  CPU time: 53.203 s
+
+Testing with K=457...
+  Accuracy: 0.91
+  Real time: 4.113 s
+  CPU time: 53.297 s
+
+Testing with K=458...
+  Accuracy: 0.91
+  Real time: 4.084 s
+  CPU time: 53.281 s
+
+Testing with K=459...
+  Accuracy: 0.91
+  Real time: 4.122 s
+  CPU time: 53.656 s
+
+Testing with K=460...
+  Accuracy: 0.91
+  Real time: 4.021 s
+  CPU time: 52.188 s
+
+Testing with K=461...
+  Accuracy: 0.91
+  Real time: 4.157 s
+  CPU time: 53.578 s
+
+Testing with K=462...
+  Accuracy: 0.91
+  Real time: 4.112 s
+  CPU time: 54.250 s
+
+Testing with K=463...
+  Accuracy: 0.91
+  Real time: 4.146 s
+  CPU time: 53.297 s
+
+Testing with K=464...
+  Accuracy: 0.91
+  Real time: 4.114 s
+  CPU time: 53.359 s
+
+Testing with K=465...
+  Accuracy: 0.91
+  Real time: 4.182 s
+  CPU time: 54.453 s
+
+Testing with K=466...
+  Accuracy: 0.91
+  Real time: 4.152 s
+  CPU time: 53.281 s
+
+Testing with K=467...
+  Accuracy: 0.91
+  Real time: 4.216 s
+  CPU time: 54.766 s
+
+Testing with K=468...
+  Accuracy: 0.91
+  Real time: 4.146 s
+  CPU time: 53.297 s
+
+Testing with K=469...
+  Accuracy: 0.91
+  Real time: 3.977 s
+  CPU time: 51.875 s
+
+Testing with K=470...
+  Accuracy: 0.91
+  Real time: 3.976 s
+  CPU time: 51.469 s
+
+Testing with K=471...
+  Accuracy: 0.91
+  Real time: 4.122 s
+  CPU time: 54.719 s
+
+Testing with K=472...
+  Accuracy: 0.91
+  Real time: 4.104 s
+  CPU time: 53.094 s
+
+Testing with K=473...
+  Accuracy: 0.91
+  Real time: 4.061 s
+  CPU time: 52.484 s
+
+Testing with K=474...
+  Accuracy: 0.91
+  Real time: 4.097 s
+  CPU time: 52.922 s
+
+Testing with K=475...
+  Accuracy: 0.91
+  Real time: 4.084 s
+  CPU time: 53.125 s
+
+Testing with K=476...
+  Accuracy: 0.91
+  Real time: 4.123 s
+  CPU time: 53.500 s
+
+Testing with K=477...
+  Accuracy: 0.91
+  Real time: 4.130 s
+  CPU time: 53.719 s
+
+Testing with K=478...
+  Accuracy: 0.91
+  Real time: 4.158 s
+  CPU time: 53.219 s
+
+Testing with K=479...
+  Accuracy: 0.91
+  Real time: 4.151 s
+  CPU time: 54.250 s
+
+Testing with K=480...
+  Accuracy: 0.91
+  Real time: 4.092 s
+  CPU time: 53.562 s
+
+Testing with K=481...
+  Accuracy: 0.91
+  Real time: 4.107 s
+  CPU time: 52.641 s
+
+Testing with K=482...
+  Accuracy: 0.91
+  Real time: 4.145 s
+  CPU time: 53.969 s
+
+Testing with K=483...
+  Accuracy: 0.90
+  Real time: 4.180 s
+  CPU time: 55.688 s
+
+Testing with K=484...
+  Accuracy: 0.90
+  Real time: 4.229 s
+  CPU time: 55.188 s
+
+Testing with K=485...
+  Accuracy: 0.91
+  Real time: 4.138 s
+  CPU time: 54.141 s
+
+Testing with K=486...
+  Accuracy: 0.90
+  Real time: 4.166 s
+  CPU time: 53.406 s
+
+Testing with K=487...
+  Accuracy: 0.90
+  Real time: 4.157 s
+  CPU time: 52.594 s
+
+Testing with K=488...
+  Accuracy: 0.90
+  Real time: 4.160 s
+  CPU time: 53.812 s
+
+Testing with K=489...
+  Accuracy: 0.90
+  Real time: 4.127 s
+  CPU time: 52.328 s
+
+Testing with K=490...
+  Accuracy: 0.90
+  Real time: 4.146 s
+  CPU time: 53.125 s
+
+Testing with K=491...
+  Accuracy: 0.90
+  Real time: 4.153 s
+  CPU time: 54.359 s
+
+Testing with K=492...
+  Accuracy: 0.90
+  Real time: 4.131 s
+  CPU time: 53.281 s
+
+Testing with K=493...
+  Accuracy: 0.90
+  Real time: 4.155 s
+  CPU time: 54.047 s
+
+Testing with K=494...
+  Accuracy: 0.90
+  Real time: 4.115 s
+  CPU time: 53.391 s
+
+Testing with K=495...
+  Accuracy: 0.90
+  Real time: 4.099 s
+  CPU time: 53.484 s
+
+Testing with K=496...
+  Accuracy: 0.90
+  Real time: 4.130 s
+  CPU time: 53.094 s
+
+Testing with K=497...
+  Accuracy: 0.90
+  Real time: 4.184 s
+  CPU time: 53.984 s
+
+Testing with K=498...
+  Accuracy: 0.90
+  Real time: 4.108 s
+  CPU time: 52.156 s
+
+Testing with K=499...
+  Accuracy: 0.90
+  Real time: 4.148 s
+  CPU time: 53.562 s
+
+Testing with K=500...
+  Accuracy: 0.90
+  Real time: 4.167 s
+  CPU time: 54.516 s
+
+Testing with K=501...
+  Accuracy: 0.90
+  Real time: 4.158 s
+  CPU time: 53.781 s
+
+Testing with K=502...
+  Accuracy: 0.90
+  Real time: 4.184 s
+  CPU time: 54.797 s
+
+Testing with K=503...
+  Accuracy: 0.90
+  Real time: 4.097 s
+  CPU time: 53.250 s
+
+Testing with K=504...
+  Accuracy: 0.90
+  Real time: 4.239 s
+  CPU time: 56.047 s
+
+Testing with K=505...
+  Accuracy: 0.90
+  Real time: 4.186 s
+  CPU time: 54.281 s
+
+Testing with K=506...
+  Accuracy: 0.90
+  Real time: 4.054 s
+  CPU time: 52.859 s
+
+Testing with K=507...
+  Accuracy: 0.90
+  Real time: 4.160 s
+  CPU time: 53.438 s
+
+Testing with K=508...
+  Accuracy: 0.90
+  Real time: 4.182 s
+  CPU time: 54.219 s
+
+Testing with K=509...
+  Accuracy: 0.90
+  Real time: 4.113 s
+  CPU time: 54.297 s
+
+Testing with K=510...
+  Accuracy: 0.90
+  Real time: 4.191 s
+  CPU time: 54.516 s
+
+Testing with K=511...
+  Accuracy: 0.90
+  Real time: 4.299 s
+  CPU time: 55.906 s
+
+Testing with K=512...
+  Accuracy: 0.90
+  Real time: 4.161 s
+  CPU time: 53.562 s
+
+Testing with K=513...
+  Accuracy: 0.90
+  Real time: 4.097 s
+  CPU time: 53.000 s
+
+Testing with K=514...
+  Accuracy: 0.90
+  Real time: 4.218 s
+  CPU time: 55.375 s
+
+Testing with K=515...
+  Accuracy: 0.90
+  Real time: 4.167 s
+  CPU time: 53.797 s
+
+Testing with K=516...
+  Accuracy: 0.90
+  Real time: 4.190 s
+  CPU time: 53.812 s
+
+Testing with K=517...
+  Accuracy: 0.90
+  Real time: 4.195 s
+  CPU time: 54.531 s
+
+Testing with K=518...
+  Accuracy: 0.90
+  Real time: 4.334 s
+  CPU time: 57.703 s
+
+Testing with K=519...
+  Accuracy: 0.90
+  Real time: 4.274 s
+  CPU time: 54.891 s
+
+Testing with K=520...
+  Accuracy: 0.90
+  Real time: 4.179 s
+  CPU time: 54.250 s
+
+Testing with K=521...
+  Accuracy: 0.90
+  Real time: 4.172 s
+  CPU time: 54.062 s
+
+Testing with K=522...
+  Accuracy: 0.90
+  Real time: 4.180 s
+  CPU time: 54.625 s
+
+Testing with K=523...
+  Accuracy: 0.90
+  Real time: 4.119 s
+  CPU time: 53.016 s
+
+Testing with K=524...
+  Accuracy: 0.90
+  Real time: 4.170 s
+  CPU time: 54.141 s
+
+Testing with K=525...
+  Accuracy: 0.90
+  Real time: 4.194 s
+  CPU time: 52.547 s
+
+Testing with K=526...
+  Accuracy: 0.90
+  Real time: 4.185 s
+  CPU time: 54.062 s
+
+Testing with K=527...
+  Accuracy: 0.90
+  Real time: 4.199 s
+  CPU time: 53.672 s
+
+Testing with K=528...
+  Accuracy: 0.90
+  Real time: 4.229 s
+  CPU time: 55.312 s
+
+Testing with K=529...
+  Accuracy: 0.90
+  Real time: 4.184 s
+  CPU time: 53.938 s
+
+Testing with K=530...
+  Accuracy: 0.90
+  Real time: 4.220 s
+  CPU time: 54.656 s
+
+Testing with K=531...
+  Accuracy: 0.90
+  Real time: 4.213 s
+  CPU time: 54.781 s
+
+Testing with K=532...
+  Accuracy: 0.90
+  Real time: 4.198 s
+  CPU time: 54.391 s
+
+Testing with K=533...
+  Accuracy: 0.90
+  Real time: 4.232 s
+  CPU time: 55.406 s
+
+Testing with K=534...
+  Accuracy: 0.90
+  Real time: 4.244 s
+  CPU time: 54.781 s
+
+Testing with K=535...
+  Accuracy: 0.90
+  Real time: 4.205 s
+  CPU time: 54.578 s
+
+Testing with K=536...
+  Accuracy: 0.90
+  Real time: 4.226 s
+  CPU time: 54.922 s
+
+Testing with K=537...
+  Accuracy: 0.90
+  Real time: 4.243 s
+  CPU time: 54.609 s
+
+Testing with K=538...
+  Accuracy: 0.90
+  Real time: 4.346 s
+  CPU time: 55.594 s
+
+Testing with K=539...
+  Accuracy: 0.90
+  Real time: 4.239 s
+  CPU time: 55.172 s
+
+Testing with K=540...
+  Accuracy: 0.90
+  Real time: 4.223 s
+  CPU time: 55.500 s
+
+Testing with K=541...
+  Accuracy: 0.90
+  Real time: 4.212 s
+  CPU time: 55.469 s
+
+Testing with K=542...
+  Accuracy: 0.90
+  Real time: 4.130 s
+  CPU time: 53.688 s
+
+Testing with K=543...
+  Accuracy: 0.90
+  Real time: 4.171 s
+  CPU time: 54.734 s
+
+Testing with K=544...
+  Accuracy: 0.90
+  Real time: 4.235 s
+  CPU time: 55.469 s
+
+Testing with K=545...
+  Accuracy: 0.90
+  Real time: 4.299 s
+  CPU time: 56.594 s
+
+Testing with K=546...
+  Accuracy: 0.90
+  Real time: 4.253 s
+  CPU time: 55.125 s
+
+Testing with K=547...
+  Accuracy: 0.90
+  Real time: 4.292 s
+  CPU time: 55.875 s
+
+Testing with K=548...
+  Accuracy: 0.90
+  Real time: 4.284 s
+  CPU time: 55.469 s
+
+Testing with K=549...
+  Accuracy: 0.90
+  Real time: 4.332 s
+  CPU time: 56.656 s
+
+Testing with K=550...
+  Accuracy: 0.90
+  Real time: 4.280 s
+  CPU time: 55.469 s
+
+Testing with K=551...
+  Accuracy: 0.90
+  Real time: 4.212 s
+  CPU time: 54.938 s
+
+Testing with K=552...
+  Accuracy: 0.90
+  Real time: 4.215 s
+  CPU time: 54.766 s
+
+Testing with K=553...
+  Accuracy: 0.90
+  Real time: 4.244 s
+  CPU time: 54.484 s
+
+Testing with K=554...
+  Accuracy: 0.90
+  Real time: 4.318 s
+  CPU time: 56.234 s
+
+Testing with K=555...
+  Accuracy: 0.90
+  Real time: 4.336 s
+  CPU time: 56.438 s
+
+Testing with K=556...
+  Accuracy: 0.90
+  Real time: 4.280 s
+  CPU time: 54.953 s
+
+Testing with K=557...
+  Accuracy: 0.90
+  Real time: 4.294 s
+  CPU time: 56.203 s
+
+Testing with K=558...
+  Accuracy: 0.90
+  Real time: 4.256 s
+  CPU time: 55.547 s
+
+Testing with K=559...
+  Accuracy: 0.90
+  Real time: 4.319 s
+  CPU time: 57.297 s
+
+Testing with K=560...
+  Accuracy: 0.90
+  Real time: 4.288 s
+  CPU time: 55.594 s
+
+Testing with K=561...
+  Accuracy: 0.90
+  Real time: 4.307 s
+  CPU time: 56.578 s
+
+Testing with K=562...
+  Accuracy: 0.90
+  Real time: 4.264 s
+  CPU time: 55.422 s
+
+Testing with K=563...
+  Accuracy: 0.90
+  Real time: 4.216 s
+  CPU time: 54.375 s
+
+Testing with K=564...
+  Accuracy: 0.90
+  Real time: 4.255 s
+  CPU time: 55.094 s
+
+Testing with K=565...
+  Accuracy: 0.90
+  Real time: 4.319 s
+  CPU time: 56.656 s
+
+Testing with K=566...
+  Accuracy: 0.90
+  Real time: 4.283 s
+  CPU time: 55.781 s
+
+Testing with K=567...
+  Accuracy: 0.90
+  Real time: 4.329 s
+  CPU time: 56.062 s
+
+Testing with K=568...
+  Accuracy: 0.90
+  Real time: 4.300 s
+  CPU time: 55.859 s
+
+Testing with K=569...
+  Accuracy: 0.90
+  Real time: 4.260 s
+  CPU time: 55.469 s
+
+Testing with K=570...
+  Accuracy: 0.90
+  Real time: 4.313 s
+  CPU time: 55.625 s
+
+Testing with K=571...
+  Accuracy: 0.90
+  Real time: 4.389 s
+  CPU time: 58.000 s
+
+Testing with K=572...
+  Accuracy: 0.90
+  Real time: 4.376 s
+  CPU time: 58.031 s
+
+Testing with K=573...
+  Accuracy: 0.90
+  Real time: 4.294 s
+  CPU time: 55.484 s
+
+Testing with K=574...
+  Accuracy: 0.90
+  Real time: 4.238 s
+  CPU time: 54.391 s
+
+Testing with K=575...
+  Accuracy: 0.90
+  Real time: 4.290 s
+  CPU time: 55.188 s
+
+Testing with K=576...
+  Accuracy: 0.90
+  Real time: 4.249 s
+  CPU time: 54.359 s
+
+Testing with K=577...
+  Accuracy: 0.90
+  Real time: 4.250 s
+  CPU time: 54.781 s
+
+Testing with K=578...
+  Accuracy: 0.90
+  Real time: 4.337 s
+  CPU time: 55.859 s
+
+Testing with K=579...
+  Accuracy: 0.90
+  Real time: 4.246 s
+  CPU time: 54.109 s
+
+Testing with K=580...
+  Accuracy: 0.90
+  Real time: 4.231 s
+  CPU time: 55.234 s
+
+Testing with K=581...
+  Accuracy: 0.90
+  Real time: 4.291 s
+  CPU time: 55.438 s
+
+Testing with K=582...
+  Accuracy: 0.90
+  Real time: 4.317 s
+  CPU time: 56.375 s
+
+Testing with K=583...
+  Accuracy: 0.90
+  Real time: 4.326 s
+  CPU time: 56.719 s
+
+Testing with K=584...
+  Accuracy: 0.90
+  Real time: 4.355 s
+  CPU time: 56.094 s
+
+Testing with K=585...
+  Accuracy: 0.90
+  Real time: 4.335 s
+  CPU time: 55.844 s
+
+Testing with K=586...
+  Accuracy: 0.90
+  Real time: 4.371 s
+  CPU time: 57.484 s
+
+Testing with K=587...
+  Accuracy: 0.90
+  Real time: 4.211 s
+  CPU time: 54.562 s
+
+Testing with K=588...
+  Accuracy: 0.90
+  Real time: 4.273 s
+  CPU time: 55.797 s
+
+Testing with K=589...
+  Accuracy: 0.90
+  Real time: 4.286 s
+  CPU time: 55.609 s
+
+Testing with K=590...
+  Accuracy: 0.90
+  Real time: 4.250 s
+  CPU time: 55.547 s
+
+Testing with K=591...
+  Accuracy: 0.90
+  Real time: 4.274 s
+  CPU time: 55.453 s
+
+Testing with K=592...
+  Accuracy: 0.90
+  Real time: 4.380 s
+  CPU time: 57.203 s
+
+Testing with K=593...
+  Accuracy: 0.90
+  Real time: 4.359 s
+  CPU time: 56.766 s
+
+Testing with K=594...
+  Accuracy: 0.90
+  Real time: 4.276 s
+  CPU time: 55.734 s
+
+Testing with K=595...
+  Accuracy: 0.90
+  Real time: 4.349 s
+  CPU time: 56.141 s
+
+Testing with K=596...
+  Accuracy: 0.90
+  Real time: 4.359 s
+  CPU time: 56.047 s
+
+Testing with K=597...
+  Accuracy: 0.90
+  Real time: 4.375 s
+  CPU time: 57.062 s
+
+Testing with K=598...
+  Accuracy: 0.90
+  Real time: 4.343 s
+  CPU time: 56.359 s
+
+Testing with K=599...
+  Accuracy: 0.90
+  Real time: 4.357 s
+  CPU time: 57.250 s
+
+Testing with K=600...
+  Accuracy: 0.90
+  Real time: 4.366 s
+  CPU time: 56.297 s
+
+Testing with K=601...
+  Accuracy: 0.90
+  Real time: 4.303 s
+  CPU time: 55.516 s
+
+Testing with K=602...
+  Accuracy: 0.90
+  Real time: 4.295 s
+  CPU time: 55.578 s
+
+Testing with K=603...
+  Accuracy: 0.90
+  Real time: 4.343 s
+  CPU time: 56.031 s
+
+Testing with K=604...
+  Accuracy: 0.90
+  Real time: 4.373 s
+  CPU time: 56.859 s
+
+Testing with K=605...
+  Accuracy: 0.90
+  Real time: 4.678 s
+  CPU time: 60.266 s
+
+Testing with K=606...
+  Accuracy: 0.90
+  Real time: 4.294 s
+  CPU time: 55.703 s
+
+Testing with K=607...
+  Accuracy: 0.90
+  Real time: 4.397 s
+  CPU time: 56.641 s
+
+Testing with K=608...
+  Accuracy: 0.90
+  Real time: 4.354 s
+  CPU time: 56.766 s
+
+Testing with K=609...
+  Accuracy: 0.90
+  Real time: 4.434 s
+  CPU time: 56.859 s
+
+Testing with K=610...
+  Accuracy: 0.90
+  Real time: 4.343 s
+  CPU time: 55.625 s
+
+Testing with K=611...
+  Accuracy: 0.90
+  Real time: 4.404 s
+  CPU time: 57.047 s
+
+Testing with K=612...
+  Accuracy: 0.90
+  Real time: 4.387 s
+  CPU time: 56.000 s
+
+Testing with K=613...
+  Accuracy: 0.90
+  Real time: 4.567 s
+  CPU time: 59.719 s
+
+Testing with K=614...
+  Accuracy: 0.90
+  Real time: 4.406 s
+  CPU time: 57.438 s
+
+Testing with K=615...
+  Accuracy: 0.90
+  Real time: 4.430 s
+  CPU time: 57.578 s
+
+Testing with K=616...
+  Accuracy: 0.90
+  Real time: 4.269 s
+  CPU time: 56.078 s
+
+Testing with K=617...
+  Accuracy: 0.90
+  Real time: 4.380 s
+  CPU time: 56.562 s
+
+Testing with K=618...
+  Accuracy: 0.90
+  Real time: 4.335 s
+  CPU time: 56.703 s
+
+Testing with K=619...
+  Accuracy: 0.90
+  Real time: 4.356 s
+  CPU time: 56.344 s
+
+Testing with K=620...
+  Accuracy: 0.90
+  Real time: 4.432 s
+  CPU time: 57.844 s
+
+Testing with K=621...
+  Accuracy: 0.90
+  Real time: 4.434 s
+  CPU time: 57.969 s
+
+Testing with K=622...
+  Accuracy: 0.90
+  Real time: 4.405 s
+  CPU time: 56.750 s
+
+Testing with K=623...
+  Accuracy: 0.90
+  Real time: 4.456 s
+  CPU time: 58.016 s
+
+Testing with K=624...
+  Accuracy: 0.90
+  Real time: 4.361 s
+  CPU time: 55.859 s
+
+Testing with K=625...
+  Accuracy: 0.90
+  Real time: 4.389 s
+  CPU time: 57.422 s
+
+Testing with K=626...
+  Accuracy: 0.90
+  Real time: 4.496 s
+  CPU time: 59.656 s
+
+Testing with K=627...
+  Accuracy: 0.90
+  Real time: 4.373 s
+  CPU time: 56.203 s
+
+Testing with K=628...
+  Accuracy: 0.90
+  Real time: 4.426 s
+  CPU time: 57.391 s
+
+Testing with K=629...
+  Accuracy: 0.90
+  Real time: 4.438 s
+  CPU time: 57.578 s
+
+Testing with K=630...
+  Accuracy: 0.90
+  Real time: 4.482 s
+  CPU time: 58.156 s
+
+Testing with K=631...
+  Accuracy: 0.90
+  Real time: 4.408 s
+  CPU time: 56.953 s
+
+Testing with K=632...
+  Accuracy: 0.90
+  Real time: 4.403 s
+  CPU time: 56.266 s
+
+Testing with K=633...
+  Accuracy: 0.90
+  Real time: 4.334 s
+  CPU time: 56.172 s
+
+Testing with K=634...
+  Accuracy: 0.90
+  Real time: 4.476 s
+  CPU time: 57.703 s
+
+Testing with K=635...
+  Accuracy: 0.90
+  Real time: 4.438 s
+  CPU time: 57.125 s
+
+Testing with K=636...
+  Accuracy: 0.90
+  Real time: 4.366 s
+  CPU time: 56.375 s
+
+Testing with K=637...
+  Accuracy: 0.90
+  Real time: 4.418 s
+  CPU time: 58.062 s
+
+Testing with K=638...
+  Accuracy: 0.90
+  Real time: 4.414 s
+  CPU time: 57.469 s
+
+Testing with K=639...
+  Accuracy: 0.90
+  Real time: 4.670 s
+  CPU time: 61.625 s
+
+Testing with K=640...
+  Accuracy: 0.90
+  Real time: 4.452 s
+  CPU time: 57.078 s
+
+Testing with K=641...
+  Accuracy: 0.90
+  Real time: 4.409 s
+  CPU time: 57.578 s
+
+Testing with K=642...
+  Accuracy: 0.90
+  Real time: 4.364 s
+  CPU time: 57.391 s
+
+Testing with K=643...
+  Accuracy: 0.90
+  Real time: 4.510 s
+  CPU time: 59.078 s
+
+Testing with K=644...
+  Accuracy: 0.90
+  Real time: 4.469 s
+  CPU time: 58.953 s
+
+Testing with K=645...
+  Accuracy: 0.90
+  Real time: 4.484 s
+  CPU time: 58.875 s
+
+Testing with K=646...
+  Accuracy: 0.90
+  Real time: 4.455 s
+  CPU time: 58.328 s
+
+Testing with K=647...
+  Accuracy: 0.89
+  Real time: 4.521 s
+  CPU time: 58.266 s
+
+Testing with K=648...
+  Accuracy: 0.89
+  Real time: 4.524 s
+  CPU time: 59.516 s
+
+Testing with K=649...
+  Accuracy: 0.89
+  Real time: 4.407 s
+  CPU time: 57.312 s
+
+Testing with K=650...
+  Accuracy: 0.89
+  Real time: 4.476 s
+  CPU time: 58.078 s
+
+Testing with K=651...
+  Accuracy: 0.89
+  Real time: 4.323 s
+  CPU time: 55.984 s
+
+Testing with K=652...
+  Accuracy: 0.89
+  Real time: 4.418 s
+  CPU time: 58.547 s
+
+Testing with K=653...
+  Accuracy: 0.89
+  Real time: 4.469 s
+  CPU time: 57.906 s
+
+Testing with K=654...
+  Accuracy: 0.89
+  Real time: 4.481 s
+  CPU time: 58.422 s
+
+Testing with K=655...
+  Accuracy: 0.89
+  Real time: 4.547 s
+  CPU time: 58.562 s
+
+Testing with K=656...
+  Accuracy: 0.89
+  Real time: 4.595 s
+  CPU time: 59.359 s
+
+Testing with K=657...
+  Accuracy: 0.89
+  Real time: 4.439 s
+  CPU time: 57.859 s
+
+Testing with K=658...
+  Accuracy: 0.89
+  Real time: 4.389 s
+  CPU time: 56.250 s
+
+Testing with K=659...
+  Accuracy: 0.89
+  Real time: 4.475 s
+  CPU time: 58.188 s
+
+Testing with K=660...
+  Accuracy: 0.89
+  Real time: 4.533 s
+  CPU time: 58.375 s
+
+Testing with K=661...
+  Accuracy: 0.89
+  Real time: 4.523 s
+  CPU time: 59.109 s
+
+Testing with K=662...
+  Accuracy: 0.89
+  Real time: 4.455 s
+  CPU time: 58.078 s
+
+Testing with K=663...
+  Accuracy: 0.89
+  Real time: 4.616 s
+  CPU time: 60.938 s
+
+Testing with K=664...
+  Accuracy: 0.89
+  Real time: 4.574 s
+  CPU time: 58.906 s
+
+Testing with K=665...
+  Accuracy: 0.89
+  Real time: 4.508 s
+  CPU time: 59.469 s
+
+Testing with K=666...
+  Accuracy: 0.89
+  Real time: 4.394 s
+  CPU time: 56.688 s
+
+Testing with K=667...
+  Accuracy: 0.89
+  Real time: 4.614 s
+  CPU time: 59.766 s
+
+Testing with K=668...
+  Accuracy: 0.89
+  Real time: 4.504 s
+  CPU time: 58.406 s
+
+Testing with K=669...
+  Accuracy: 0.89
+  Real time: 4.418 s
+  CPU time: 57.406 s
+
+Testing with K=670...
+  Accuracy: 0.89
+  Real time: 4.513 s
+  CPU time: 58.188 s
+
+Testing with K=671...
+  Accuracy: 0.89
+  Real time: 4.525 s
+  CPU time: 58.797 s
+
+Testing with K=672...
+  Accuracy: 0.89
+  Real time: 4.471 s
+  CPU time: 58.562 s
+
+Testing with K=673...
+  Accuracy: 0.89
+  Real time: 4.470 s
+  CPU time: 57.734 s
+
+Testing with K=674...
+  Accuracy: 0.89
+  Real time: 4.555 s
+  CPU time: 58.609 s
+
+Testing with K=675...
+  Accuracy: 0.89
+  Real time: 4.532 s
+  CPU time: 58.531 s
+
+Testing with K=676...
+  Accuracy: 0.89
+  Real time: 4.507 s
+  CPU time: 58.453 s
+
+Testing with K=677...
+  Accuracy: 0.89
+  Real time: 4.558 s
+  CPU time: 59.109 s
+
+Testing with K=678...
+  Accuracy: 0.89
+  Real time: 4.589 s
+  CPU time: 59.844 s
+
+Testing with K=679...
+  Accuracy: 0.89
+  Real time: 4.426 s
+  CPU time: 57.406 s
+
+Testing with K=680...
+  Accuracy: 0.89
+  Real time: 4.514 s
+  CPU time: 58.500 s
+
+Testing with K=681...
+  Accuracy: 0.89
+  Real time: 4.513 s
+  CPU time: 58.672 s
+
+Testing with K=682...
+  Accuracy: 0.89
+  Real time: 4.536 s
+  CPU time: 58.469 s
+
+Testing with K=683...
+  Accuracy: 0.89
+  Real time: 4.525 s
+  CPU time: 58.578 s
+
+Testing with K=684...
+  Accuracy: 0.89
+  Real time: 4.484 s
+  CPU time: 58.234 s
+
+Testing with K=685...
+  Accuracy: 0.89
+  Real time: 4.446 s
+  CPU time: 57.234 s
+
+Testing with K=686...
+  Accuracy: 0.89
+  Real time: 4.569 s
+  CPU time: 58.281 s
+
+Testing with K=687...
+  Accuracy: 0.89
+  Real time: 4.380 s
+  CPU time: 56.672 s
+
+Testing with K=688...
+  Accuracy: 0.89
+  Real time: 4.455 s
+  CPU time: 57.656 s
+
+Testing with K=689...
+  Accuracy: 0.89
+  Real time: 4.545 s
+  CPU time: 58.750 s
+
+Testing with K=690...
+  Accuracy: 0.89
+  Real time: 4.544 s
+  CPU time: 59.609 s
+
+Testing with K=691...
+  Accuracy: 0.89
+  Real time: 4.472 s
+  CPU time: 59.062 s
+
+Testing with K=692...
+  Accuracy: 0.89
+  Real time: 4.535 s
+  CPU time: 59.328 s
+
+Testing with K=693...
+  Accuracy: 0.89
+  Real time: 4.532 s
+  CPU time: 58.422 s
+
+Testing with K=694...
+  Accuracy: 0.89
+  Real time: 4.572 s
+  CPU time: 59.766 s
+
+Testing with K=695...
+  Accuracy: 0.89
+  Real time: 4.590 s
+  CPU time: 59.828 s
+
+Testing with K=696...
+  Accuracy: 0.89
+  Real time: 4.538 s
+  CPU time: 59.422 s
+
+Testing with K=697...
+  Accuracy: 0.89
+  Real time: 4.570 s
+  CPU time: 60.312 s
+
+Testing with K=698...
+  Accuracy: 0.89
+  Real time: 4.510 s
+  CPU time: 58.672 s
+
+Testing with K=699...
+  Accuracy: 0.89
+  Real time: 4.540 s
+  CPU time: 58.578 s
+
+Testing with K=700...
+  Accuracy: 0.89
+  Real time: 4.577 s
+  CPU time: 60.047 s
+
+Testing with K=701...
+  Accuracy: 0.89
+  Real time: 4.544 s
+  CPU time: 58.875 s
+
+Testing with K=702...
+  Accuracy: 0.89
+  Real time: 4.494 s
+  CPU time: 58.422 s
+
+Testing with K=703...
+  Accuracy: 0.89
+  Real time: 4.554 s
+  CPU time: 58.875 s
+
+Testing with K=704...
+  Accuracy: 0.89
+  Real time: 4.522 s
+  CPU time: 58.141 s
+
+Testing with K=705...
+  Accuracy: 0.89
+  Real time: 4.505 s
+  CPU time: 58.141 s
+
+Testing with K=706...
+  Accuracy: 0.89
+  Real time: 4.534 s
+  CPU time: 58.844 s
+
+Testing with K=707...
+  Accuracy: 0.89
+  Real time: 4.533 s
+  CPU time: 59.203 s
+
+Testing with K=708...
+  Accuracy: 0.89
+  Real time: 4.557 s
+  CPU time: 59.750 s
+
+Testing with K=709...
+  Accuracy: 0.89
+  Real time: 4.571 s
+  CPU time: 59.812 s
+
+Testing with K=710...
+  Accuracy: 0.89
+  Real time: 4.588 s
+  CPU time: 59.828 s
+
+Testing with K=711...
+  Accuracy: 0.89
+  Real time: 4.589 s
+  CPU time: 59.656 s
+
+Testing with K=712...
+  Accuracy: 0.89
+  Real time: 4.512 s
+  CPU time: 58.438 s
+
+Testing with K=713...
+  Accuracy: 0.89
+  Real time: 4.525 s
+  CPU time: 58.438 s
+
+Testing with K=714...
+  Accuracy: 0.89
+  Real time: 4.600 s
+  CPU time: 59.859 s
+
+Testing with K=715...
+  Accuracy: 0.89
+  Real time: 4.580 s
+  CPU time: 58.922 s
+
+Testing with K=716...
+  Accuracy: 0.89
+  Real time: 4.515 s
+  CPU time: 59.016 s
+
+Testing with K=717...
+  Accuracy: 0.89
+  Real time: 4.773 s
+  CPU time: 62.328 s
+
+Testing with K=718...
+  Accuracy: 0.89
+  Real time: 4.644 s
+  CPU time: 60.562 s
+
+Testing with K=719...
+  Accuracy: 0.89
+  Real time: 4.542 s
+  CPU time: 58.062 s
+
+Testing with K=720...
+  Accuracy: 0.89
+  Real time: 4.525 s
+  CPU time: 58.578 s
+
+Testing with K=721...
+  Accuracy: 0.89
+  Real time: 4.625 s
+  CPU time: 59.891 s
+
+Testing with K=722...
+  Accuracy: 0.89
+  Real time: 4.525 s
+  CPU time: 58.234 s
+
+Testing with K=723...
+  Accuracy: 0.89
+  Real time: 4.518 s
+  CPU time: 57.906 s
+
+Testing with K=724...
+  Accuracy: 0.89
+  Real time: 4.577 s
+  CPU time: 59.281 s
+
+Testing with K=725...
+  Accuracy: 0.89
+  Real time: 4.562 s
+  CPU time: 58.828 s
+
+Testing with K=726...
+  Accuracy: 0.89
+  Real time: 4.605 s
+  CPU time: 60.156 s
+
+Testing with K=727...
+  Accuracy: 0.89
+  Real time: 4.744 s
+  CPU time: 60.625 s
+
+Testing with K=728...
+  Accuracy: 0.89
+  Real time: 4.577 s
+  CPU time: 58.719 s
+
+Testing with K=729...
+  Accuracy: 0.89
+  Real time: 4.679 s
+  CPU time: 61.609 s
+
+Testing with K=730...
+  Accuracy: 0.89
+  Real time: 4.528 s
+  CPU time: 58.141 s
+
+Testing with K=731...
+  Accuracy: 0.89
+  Real time: 4.515 s
+  CPU time: 58.328 s
+
+Testing with K=732...
+  Accuracy: 0.89
+  Real time: 4.566 s
+  CPU time: 59.500 s
+
+Testing with K=733...
+  Accuracy: 0.89
+  Real time: 4.609 s
+  CPU time: 60.094 s
+
+Testing with K=734...
+  Accuracy: 0.89
+  Real time: 4.722 s
+  CPU time: 61.203 s
+
+Testing with K=735...
+  Accuracy: 0.89
+  Real time: 4.575 s
+  CPU time: 58.781 s
+
+Testing with K=736...
+  Accuracy: 0.89
+  Real time: 4.593 s
+  CPU time: 59.516 s
+
+Testing with K=737...
+  Accuracy: 0.89
+  Real time: 4.576 s
+  CPU time: 58.969 s
+
+Testing with K=738...
+  Accuracy: 0.89
+  Real time: 4.600 s
+  CPU time: 59.219 s
+
+Testing with K=739...
+  Accuracy: 0.89
+  Real time: 4.579 s
+  CPU time: 59.219 s
+
+Testing with K=740...
+  Accuracy: 0.89
+  Real time: 4.517 s
+  CPU time: 57.609 s
+
+Testing with K=741...
+  Accuracy: 0.89
+  Real time: 4.566 s
+  CPU time: 58.812 s
+
+Testing with K=742...
+  Accuracy: 0.89
+  Real time: 4.673 s
+  CPU time: 60.688 s
+
+Testing with K=743...
+  Accuracy: 0.89
+  Real time: 4.637 s
+  CPU time: 60.000 s
+
+Testing with K=744...
+  Accuracy: 0.89
+  Real time: 4.632 s
+  CPU time: 60.812 s
+
+Testing with K=745...
+  Accuracy: 0.89
+  Real time: 4.686 s
+  CPU time: 60.750 s
+
+Testing with K=746...
+  Accuracy: 0.89
+  Real time: 4.766 s
+  CPU time: 60.891 s
+
+Testing with K=747...
+  Accuracy: 0.89
+  Real time: 4.770 s
+  CPU time: 60.859 s
+
+Testing with K=748...
+  Accuracy: 0.89
+  Real time: 4.722 s
+  CPU time: 61.641 s
+
+Testing with K=749...
+  Accuracy: 0.89
+  Real time: 4.661 s
+  CPU time: 60.219 s
+
+Testing with K=750...
+  Accuracy: 0.89
+  Real time: 4.609 s
+  CPU time: 59.469 s
+
+Testing with K=751...
+  Accuracy: 0.89
+  Real time: 4.603 s
+  CPU time: 59.891 s
+
+Testing with K=752...
+  Accuracy: 0.89
+  Real time: 4.625 s
+  CPU time: 60.109 s
+
+Testing with K=753...
+  Accuracy: 0.89
+  Real time: 4.574 s
+  CPU time: 59.391 s
+
+Testing with K=754...
+  Accuracy: 0.89
+  Real time: 4.658 s
+  CPU time: 59.906 s
+
+Testing with K=755...
+  Accuracy: 0.89
+  Real time: 4.665 s
+  CPU time: 59.938 s
+
+Testing with K=756...
+  Accuracy: 0.89
+  Real time: 4.653 s
+  CPU time: 59.219 s
+
+Testing with K=757...
+  Accuracy: 0.89
+  Real time: 4.641 s
+  CPU time: 60.359 s
+
+Testing with K=758...
+  Accuracy: 0.89
+  Real time: 4.647 s
+  CPU time: 59.516 s
+
+Testing with K=759...
+  Accuracy: 0.89
+  Real time: 4.593 s
+  CPU time: 59.766 s
+
+Testing with K=760...
+  Accuracy: 0.89
+  Real time: 4.644 s
+  CPU time: 60.453 s
+
+Testing with K=761...
+  Accuracy: 0.89
+  Real time: 4.669 s
+  CPU time: 59.750 s
+
+Testing with K=762...
+  Accuracy: 0.89
+  Real time: 4.755 s
+  CPU time: 62.312 s
+
+Testing with K=763...
+  Accuracy: 0.89
+  Real time: 4.798 s
+  CPU time: 62.812 s
+
+Testing with K=764...
+  Accuracy: 0.89
+  Real time: 4.598 s
+  CPU time: 59.703 s
+
+Testing with K=765...
+  Accuracy: 0.89
+  Real time: 4.740 s
+  CPU time: 61.000 s
+
+Testing with K=766...
+  Accuracy: 0.89
+  Real time: 4.688 s
+  CPU time: 60.328 s
+
+Testing with K=767...
+  Accuracy: 0.89
+  Real time: 4.617 s
+  CPU time: 59.328 s
+
+Testing with K=768...
+  Accuracy: 0.89
+  Real time: 4.566 s
+  CPU time: 58.750 s
+
+Testing with K=769...
+  Accuracy: 0.89
+  Real time: 4.676 s
+  CPU time: 59.969 s
+
+Testing with K=770...
+  Accuracy: 0.89
+  Real time: 4.633 s
+  CPU time: 59.719 s
+
+Testing with K=771...
+  Accuracy: 0.89
+  Real time: 4.690 s
+  CPU time: 59.656 s
+
+Testing with K=772...
+  Accuracy: 0.89
+  Real time: 4.658 s
+  CPU time: 60.109 s
+
+Testing with K=773...
+  Accuracy: 0.89
+  Real time: 4.762 s
+  CPU time: 63.016 s
+
+Testing with K=774...
+  Accuracy: 0.89
+  Real time: 4.564 s
+  CPU time: 58.906 s
+
+Testing with K=775...
+  Accuracy: 0.89
+  Real time: 4.634 s
+  CPU time: 60.594 s
+
+Testing with K=776...
+  Accuracy: 0.89
+  Real time: 4.750 s
+  CPU time: 60.703 s
+
+Testing with K=777...
+  Accuracy: 0.89
+  Real time: 4.650 s
+  CPU time: 59.359 s
+
+Testing with K=778...
+  Accuracy: 0.89
+  Real time: 4.692 s
+  CPU time: 60.391 s
+
+Testing with K=779...
+  Accuracy: 0.89
+  Real time: 4.754 s
+  CPU time: 61.141 s
+
+Testing with K=780...
+  Accuracy: 0.89
+  Real time: 4.641 s
+  CPU time: 59.594 s
+
+Testing with K=781...
+  Accuracy: 0.89
+  Real time: 4.608 s
+  CPU time: 59.484 s
+
+Testing with K=782...
+  Accuracy: 0.89
+  Real time: 4.659 s
+  CPU time: 59.891 s
+
+Testing with K=783...
+  Accuracy: 0.89
+  Real time: 4.657 s
+  CPU time: 60.406 s
+
+Testing with K=784...
+  Accuracy: 0.89
+  Real time: 4.678 s
+  CPU time: 61.000 s
+
+Testing with K=785...
+  Accuracy: 0.89
+  Real time: 4.671 s
+  CPU time: 60.281 s
+
+Testing with K=786...
+  Accuracy: 0.89
+  Real time: 4.653 s
+  CPU time: 59.469 s
+
+Testing with K=787...
+  Accuracy: 0.89
+  Real time: 4.636 s
+  CPU time: 59.672 s
+
+Testing with K=788...
+  Accuracy: 0.89
+  Real time: 4.697 s
+  CPU time: 60.891 s
+
+Testing with K=789...
+  Accuracy: 0.89
+  Real time: 4.771 s
+  CPU time: 61.266 s
+
+Testing with K=790...
+  Accuracy: 0.89
+  Real time: 4.742 s
+  CPU time: 61.094 s
+
+Testing with K=791...
+  Accuracy: 0.89
+  Real time: 4.722 s
+  CPU time: 61.531 s
+
+Testing with K=792...
+  Accuracy: 0.89
+  Real time: 4.699 s
+  CPU time: 60.406 s
+
+Testing with K=793...
+  Accuracy: 0.89
+  Real time: 4.723 s
+  CPU time: 60.734 s
+
+Testing with K=794...
+  Accuracy: 0.89
+  Real time: 4.687 s
+  CPU time: 60.797 s
+
+Testing with K=795...
+  Accuracy: 0.89
+  Real time: 4.749 s
+  CPU time: 60.953 s
+
+Testing with K=796...
+  Accuracy: 0.89
+  Real time: 4.641 s
+  CPU time: 59.656 s
+
+Testing with K=797...
+  Accuracy: 0.89
+  Real time: 4.812 s
+  CPU time: 62.281 s
+
+Testing with K=798...
+  Accuracy: 0.89
+  Real time: 4.814 s
+  CPU time: 63.062 s
+
+Testing with K=799...
+  Accuracy: 0.89
+  Real time: 4.705 s
+  CPU time: 61.234 s
+
+Testing with K=800...
+  Accuracy: 0.89
+  Real time: 4.601 s
+  CPU time: 59.000 s
+
+Testing with K=801...
+  Accuracy: 0.89
+  Real time: 4.731 s
+  CPU time: 61.312 s
+
+Testing with K=802...
+  Accuracy: 0.89
+  Real time: 4.725 s
+  CPU time: 60.453 s
+
+Testing with K=803...
+  Accuracy: 0.89
+  Real time: 4.671 s
+  CPU time: 60.875 s
+
+Testing with K=804...
+  Accuracy: 0.89
+  Real time: 4.671 s
+  CPU time: 60.406 s
+
+Testing with K=805...
+  Accuracy: 0.88
+  Real time: 4.720 s
+  CPU time: 60.484 s
+
+Testing with K=806...
+  Accuracy: 0.88
+  Real time: 4.777 s
+  CPU time: 61.469 s
+
+Testing with K=807...
+  Accuracy: 0.88
+  Real time: 4.764 s
+  CPU time: 62.219 s
+
+Testing with K=808...
+  Accuracy: 0.88
+  Real time: 4.757 s
+  CPU time: 61.859 s
+
+Testing with K=809...
+  Accuracy: 0.88
+  Real time: 4.770 s
+  CPU time: 61.641 s
+
+Testing with K=810...
+  Accuracy: 0.88
+  Real time: 4.768 s
+  CPU time: 60.781 s
+
+Testing with K=811...
+  Accuracy: 0.88
+  Real time: 4.808 s
+  CPU time: 62.078 s
+
+Testing with K=812...
+  Accuracy: 0.88
+  Real time: 4.768 s
+  CPU time: 61.344 s
+
+Testing with K=813...
+  Accuracy: 0.88
+  Real time: 4.736 s
+  CPU time: 61.453 s
+
+Testing with K=814...
+  Accuracy: 0.88
+  Real time: 4.710 s
+  CPU time: 61.203 s
+
+Testing with K=815...
+  Accuracy: 0.88
+  Real time: 4.771 s
+  CPU time: 61.984 s
+
+Testing with K=816...
+  Accuracy: 0.88
+  Real time: 4.702 s
+  CPU time: 61.109 s
+
+Testing with K=817...
+  Accuracy: 0.88
+  Real time: 4.690 s
+  CPU time: 60.000 s
+
+Testing with K=818...
+  Accuracy: 0.88
+  Real time: 4.760 s
+  CPU time: 61.641 s
+
+Testing with K=819...
+  Accuracy: 0.88
+  Real time: 4.759 s
+  CPU time: 61.594 s
+
+Testing with K=820...
+  Accuracy: 0.88
+  Real time: 4.742 s
+  CPU time: 61.266 s
+
+Testing with K=821...
+  Accuracy: 0.88
+  Real time: 4.686 s
+  CPU time: 60.781 s
+
+Testing with K=822...
+  Accuracy: 0.88
+  Real time: 4.752 s
+  CPU time: 62.031 s
+
+Testing with K=823...
+  Accuracy: 0.88
+  Real time: 4.770 s
+  CPU time: 61.484 s
+
+Testing with K=824...
+  Accuracy: 0.88
+  Real time: 4.719 s
+  CPU time: 62.219 s
+
+Testing with K=825...
+  Accuracy: 0.88
+  Real time: 4.813 s
+  CPU time: 61.609 s
+
+Testing with K=826...
+  Accuracy: 0.88
+  Real time: 4.845 s
+  CPU time: 61.797 s
+
+Testing with K=827...
+  Accuracy: 0.88
+  Real time: 4.765 s
+  CPU time: 60.531 s
+
+Testing with K=828...
+  Accuracy: 0.88
+  Real time: 4.748 s
+  CPU time: 60.688 s
+
+Testing with K=829...
+  Accuracy: 0.88
+  Real time: 4.815 s
+  CPU time: 61.453 s
+
+Testing with K=830...
+  Accuracy: 0.88
+  Real time: 4.871 s
+  CPU time: 62.781 s
+
+Testing with K=831...
+  Accuracy: 0.88
+  Real time: 4.794 s
+  CPU time: 62.422 s
+
+Testing with K=832...
+  Accuracy: 0.88
+  Real time: 4.779 s
+  CPU time: 62.297 s
+
+Testing with K=833...
+  Accuracy: 0.88
+  Real time: 4.830 s
+  CPU time: 62.625 s
+
+Testing with K=834...
+  Accuracy: 0.88
+  Real time: 4.864 s
+  CPU time: 62.625 s
+
+Testing with K=835...
+  Accuracy: 0.88
+  Real time: 4.712 s
+  CPU time: 60.266 s
+
+Testing with K=836...
+  Accuracy: 0.88
+  Real time: 4.702 s
+  CPU time: 60.609 s
+
+Testing with K=837...
+  Accuracy: 0.88
+  Real time: 4.793 s
+  CPU time: 61.875 s
+
+Testing with K=838...
+  Accuracy: 0.88
+  Real time: 4.759 s
+  CPU time: 61.203 s
+
+Testing with K=839...
+  Accuracy: 0.88
+  Real time: 4.767 s
+  CPU time: 61.125 s
+
+Testing with K=840...
+  Accuracy: 0.88
+  Real time: 4.831 s
+  CPU time: 62.516 s
+
+Testing with K=841...
+  Accuracy: 0.88
+  Real time: 4.824 s
+  CPU time: 62.266 s
+
+Testing with K=842...
+  Accuracy: 0.88
+  Real time: 4.823 s
+  CPU time: 61.891 s
+
+Testing with K=843...
+  Accuracy: 0.88
+  Real time: 4.884 s
+  CPU time: 63.297 s
+
+Testing with K=844...
+  Accuracy: 0.88
+  Real time: 4.783 s
+  CPU time: 60.922 s
+
+Testing with K=845...
+  Accuracy: 0.88
+  Real time: 4.742 s
+  CPU time: 60.812 s
+
+Testing with K=846...
+  Accuracy: 0.88
+  Real time: 4.763 s
+  CPU time: 61.016 s
+
+Testing with K=847...
+  Accuracy: 0.88
+  Real time: 4.898 s
+  CPU time: 63.734 s
+
+Testing with K=848...
+  Accuracy: 0.88
+  Real time: 4.796 s
+  CPU time: 61.656 s
+
+Testing with K=849...
+  Accuracy: 0.88
+  Real time: 4.873 s
+  CPU time: 63.250 s
+
+Testing with K=850...
+  Accuracy: 0.88
+  Real time: 4.917 s
+  CPU time: 64.125 s
+
+Testing with K=851...
+  Accuracy: 0.88
+  Real time: 4.768 s
+  CPU time: 61.391 s
+
+Testing with K=852...
+  Accuracy: 0.88
+  Real time: 4.754 s
+  CPU time: 61.891 s
+
+Testing with K=853...
+  Accuracy: 0.88
+  Real time: 4.886 s
+  CPU time: 62.547 s
+
+Testing with K=854...
+  Accuracy: 0.88
+  Real time: 4.802 s
+  CPU time: 61.375 s
+
+Testing with K=855...
+  Accuracy: 0.88
+  Real time: 4.768 s
+  CPU time: 61.141 s
+
+Testing with K=856...
+  Accuracy: 0.88
+  Real time: 4.786 s
+  CPU time: 61.531 s
+
+Testing with K=857...
+  Accuracy: 0.88
+  Real time: 4.802 s
+  CPU time: 62.016 s
+
+Testing with K=858...
+  Accuracy: 0.88
+  Real time: 4.959 s
+  CPU time: 64.031 s
+
+Testing with K=859...
+  Accuracy: 0.88
+  Real time: 4.954 s
+  CPU time: 65.359 s
+
+Testing with K=860...
+  Accuracy: 0.88
+  Real time: 4.775 s
+  CPU time: 61.484 s
+
+Testing with K=861...
+  Accuracy: 0.88
+  Real time: 4.834 s
+  CPU time: 61.984 s
+
+Testing with K=862...
+  Accuracy: 0.88
+  Real time: 4.837 s
+  CPU time: 61.797 s
+
+Testing with K=863...
+  Accuracy: 0.88
+  Real time: 4.912 s
+  CPU time: 63.328 s
+
+Testing with K=864...
+  Accuracy: 0.88
+  Real time: 4.866 s
+  CPU time: 62.641 s
+
+Testing with K=865...
+  Accuracy: 0.88
+  Real time: 4.856 s
+  CPU time: 62.391 s
+
+Testing with K=866...
+  Accuracy: 0.88
+  Real time: 4.837 s
+  CPU time: 61.797 s
+
+Testing with K=867...
+  Accuracy: 0.88
+  Real time: 4.895 s
+  CPU time: 63.562 s
+
+Testing with K=868...
+  Accuracy: 0.88
+  Real time: 4.920 s
+  CPU time: 63.250 s
+
+Testing with K=869...
+  Accuracy: 0.88
+  Real time: 4.872 s
+  CPU time: 63.047 s
+
+Testing with K=870...
+  Accuracy: 0.88
+  Real time: 4.849 s
+  CPU time: 61.750 s
+
+Testing with K=871...
+  Accuracy: 0.88
+  Real time: 4.894 s
+  CPU time: 63.250 s
+
+Testing with K=872...
+  Accuracy: 0.88
+  Real time: 4.830 s
+  CPU time: 61.797 s
+
+Testing with K=873...
+  Accuracy: 0.88
+  Real time: 4.844 s
+  CPU time: 62.141 s
+
+Testing with K=874...
+  Accuracy: 0.88
+  Real time: 4.794 s
+  CPU time: 61.500 s
+
+Testing with K=875...
+  Accuracy: 0.88
+  Real time: 4.886 s
+  CPU time: 63.453 s
+
+Testing with K=876...
+  Accuracy: 0.88
+  Real time: 4.835 s
+  CPU time: 62.625 s
+
+Testing with K=877...
+  Accuracy: 0.88
+  Real time: 4.833 s
+  CPU time: 63.750 s
+
+Testing with K=878...
+  Accuracy: 0.88
+  Real time: 4.787 s
+  CPU time: 62.234 s
+
+Testing with K=879...
+  Accuracy: 0.88
+  Real time: 4.835 s
+  CPU time: 61.938 s
+
+Testing with K=880...
+  Accuracy: 0.88
+  Real time: 4.860 s
+  CPU time: 62.406 s
+
+Testing with K=881...
+  Accuracy: 0.88
+  Real time: 4.897 s
+  CPU time: 63.719 s
+
+Testing with K=882...
+  Accuracy: 0.88
+  Real time: 4.927 s
+  CPU time: 63.391 s
+
+Testing with K=883...
+  Accuracy: 0.88
+  Real time: 4.848 s
+  CPU time: 61.375 s
+
+Testing with K=884...
+  Accuracy: 0.88
+  Real time: 4.875 s
+  CPU time: 62.797 s
+
+Testing with K=885...
+  Accuracy: 0.88
+  Real time: 4.823 s
+  CPU time: 62.781 s
+
+Testing with K=886...
+  Accuracy: 0.88
+  Real time: 4.834 s
+  CPU time: 62.969 s
+
+Testing with K=887...
+  Accuracy: 0.88
+  Real time: 4.935 s
+  CPU time: 64.297 s
+
+Testing with K=888...
+  Accuracy: 0.88
+  Real time: 4.872 s
+  CPU time: 62.141 s
+
+Testing with K=889...
+  Accuracy: 0.88
+  Real time: 4.969 s
+  CPU time: 64.422 s
+
+Testing with K=890...
+  Accuracy: 0.88
+  Real time: 4.757 s
+  CPU time: 61.250 s
+
+Testing with K=891...
+  Accuracy: 0.88
+  Real time: 4.903 s
+  CPU time: 63.266 s
+
+Testing with K=892...
+  Accuracy: 0.88
+  Real time: 4.978 s
+  CPU time: 64.547 s
+
+Testing with K=893...
+  Accuracy: 0.88
+  Real time: 4.865 s
+  CPU time: 63.422 s
+
+Testing with K=894...
+  Accuracy: 0.88
+  Real time: 4.957 s
+  CPU time: 64.797 s
+
+Testing with K=895...
+  Accuracy: 0.88
+  Real time: 4.957 s
+  CPU time: 63.828 s
+
+Testing with K=896...
+  Accuracy: 0.88
+  Real time: 4.932 s
+  CPU time: 63.438 s
+
+Testing with K=897...
+  Accuracy: 0.88
+  Real time: 4.893 s
+  CPU time: 62.906 s
+
+Testing with K=898...
+  Accuracy: 0.88
+  Real time: 4.948 s
+  CPU time: 63.484 s
+
+Testing with K=899...
+  Accuracy: 0.88
+  Real time: 4.857 s
+  CPU time: 62.609 s
+
+Testing with K=900...
+  Accuracy: 0.88
+  Real time: 4.927 s
+  CPU time: 63.266 s
+
+Testing with K=901...
+  Accuracy: 0.88
+  Real time: 4.989 s
+  CPU time: 65.203 s
+
+Testing with K=902...
+  Accuracy: 0.88
+  Real time: 4.879 s
+  CPU time: 63.906 s
+
+Testing with K=903...
+  Accuracy: 0.88
+  Real time: 5.049 s
+  CPU time: 65.797 s
+
+Testing with K=904...
+  Accuracy: 0.88
+  Real time: 4.993 s
+  CPU time: 64.094 s
+
+Testing with K=905...
+  Accuracy: 0.88
+  Real time: 4.837 s
+  CPU time: 62.000 s
+
+Testing with K=906...
+  Accuracy: 0.88
+  Real time: 4.807 s
+  CPU time: 60.906 s
+
+Testing with K=907...
+  Accuracy: 0.88
+  Real time: 4.965 s
+  CPU time: 63.984 s
+
+Testing with K=908...
+  Accuracy: 0.88
+  Real time: 4.911 s
+  CPU time: 62.906 s
+
+Testing with K=909...
+  Accuracy: 0.88
+  Real time: 5.062 s
+  CPU time: 64.797 s
+
+Testing with K=910...
+  Accuracy: 0.88
+  Real time: 4.969 s
+  CPU time: 64.609 s
+
+Testing with K=911...
+  Accuracy: 0.88
+  Real time: 4.882 s
+  CPU time: 62.422 s
+
+Testing with K=912...
+  Accuracy: 0.88
+  Real time: 4.893 s
+  CPU time: 63.172 s
+
+Testing with K=913...
+  Accuracy: 0.88
+  Real time: 5.039 s
+  CPU time: 64.703 s
+
+Testing with K=914...
+  Accuracy: 0.88
+  Real time: 4.885 s
+  CPU time: 62.234 s
+
+Testing with K=915...
+  Accuracy: 0.88
+  Real time: 4.861 s
+  CPU time: 62.828 s
+
+Testing with K=916...
+  Accuracy: 0.88
+  Real time: 4.902 s
+  CPU time: 63.859 s
+
+Testing with K=917...
+  Accuracy: 0.88
+  Real time: 4.888 s
+  CPU time: 62.844 s
+
+Testing with K=918...
+  Accuracy: 0.88
+  Real time: 4.896 s
+  CPU time: 63.531 s
+
+Testing with K=919...
+  Accuracy: 0.88
+  Real time: 4.989 s
+  CPU time: 65.094 s
+
+Testing with K=920...
+  Accuracy: 0.88
+  Real time: 4.923 s
+  CPU time: 63.031 s
+
+Testing with K=921...
+  Accuracy: 0.88
+  Real time: 4.956 s
+  CPU time: 63.797 s
+
+Testing with K=922...
+  Accuracy: 0.88
+  Real time: 4.906 s
+  CPU time: 63.141 s
+
+Testing with K=923...
+  Accuracy: 0.88
+  Real time: 4.992 s
+  CPU time: 64.266 s
+
+Testing with K=924...
+  Accuracy: 0.88
+  Real time: 4.936 s
+  CPU time: 63.969 s
+
+Testing with K=925...
+  Accuracy: 0.88
+  Real time: 4.923 s
+  CPU time: 63.422 s
+
+Testing with K=926...
+  Accuracy: 0.88
+  Real time: 4.911 s
+  CPU time: 63.531 s
+
+Testing with K=927...
+  Accuracy: 0.88
+  Real time: 4.984 s
+  CPU time: 64.516 s
+
+Testing with K=928...
+  Accuracy: 0.88
+  Real time: 4.935 s
+  CPU time: 63.531 s
+
+Testing with K=929...
+  Accuracy: 0.88
+  Real time: 4.914 s
+  CPU time: 63.125 s
+
+Testing with K=930...
+  Accuracy: 0.88
+  Real time: 4.868 s
+  CPU time: 61.812 s
+
+Testing with K=931...
+  Accuracy: 0.88
+  Real time: 4.919 s
+  CPU time: 63.016 s
+
+Testing with K=932...
+  Accuracy: 0.88
+  Real time: 4.985 s
+  CPU time: 64.062 s
+
+Testing with K=933...
+  Accuracy: 0.88
+  Real time: 4.952 s
+  CPU time: 63.656 s
+
+Testing with K=934...
+  Accuracy: 0.88
+  Real time: 5.007 s
+  CPU time: 65.750 s
+
+Testing with K=935...
+  Accuracy: 0.88
+  Real time: 5.007 s
+  CPU time: 64.812 s
+
+Testing with K=936...
+  Accuracy: 0.88
+  Real time: 4.992 s
+  CPU time: 64.641 s
+
+Testing with K=937...
+  Accuracy: 0.88
+  Real time: 4.986 s
+  CPU time: 64.031 s
+
+Testing with K=938...
+  Accuracy: 0.88
+  Real time: 5.074 s
+  CPU time: 65.125 s
+
+Testing with K=939...
+  Accuracy: 0.88
+  Real time: 4.932 s
+  CPU time: 63.312 s
+
+Testing with K=940...
+  Accuracy: 0.88
+  Real time: 4.905 s
+  CPU time: 63.312 s
+
+Testing with K=941...
+  Accuracy: 0.88
+  Real time: 4.922 s
+  CPU time: 63.719 s
+
+Testing with K=942...
+  Accuracy: 0.88
+  Real time: 5.012 s
+  CPU time: 65.188 s
+
+Testing with K=943...
+  Accuracy: 0.88
+  Real time: 4.978 s
+  CPU time: 63.609 s
+
+Testing with K=944...
+  Accuracy: 0.88
+  Real time: 5.000 s
+  CPU time: 64.859 s
+
+Testing with K=945...
+  Accuracy: 0.88
+  Real time: 4.944 s
+  CPU time: 63.234 s
+
+Testing with K=946...
+  Accuracy: 0.88
+  Real time: 4.981 s
+  CPU time: 63.406 s
+
+Testing with K=947...
+  Accuracy: 0.88
+  Real time: 4.977 s
+  CPU time: 63.734 s
+
+Testing with K=948...
+  Accuracy: 0.88
+  Real time: 5.071 s
+  CPU time: 65.656 s
+
+Testing with K=949...
+  Accuracy: 0.88
+  Real time: 5.020 s
+  CPU time: 65.312 s
+
+Testing with K=950...
+  Accuracy: 0.88
+  Real time: 4.987 s
+  CPU time: 64.922 s
+
+Testing with K=951...
+  Accuracy: 0.88
+  Real time: 4.998 s
+  CPU time: 64.875 s
+
+Testing with K=952...
+  Accuracy: 0.88
+  Real time: 4.919 s
+  CPU time: 63.656 s
+
+Testing with K=953...
+  Accuracy: 0.88
+  Real time: 4.879 s
+  CPU time: 62.875 s
+
+Testing with K=954...
+  Accuracy: 0.88
+  Real time: 5.034 s
+  CPU time: 65.219 s
+
+Testing with K=955...
+  Accuracy: 0.88
+  Real time: 5.020 s
+  CPU time: 64.422 s
+
+Testing with K=956...
+  Accuracy: 0.88
+  Real time: 5.108 s
+  CPU time: 65.453 s
+
+Testing with K=957...
+  Accuracy: 0.88
+  Real time: 5.048 s
+  CPU time: 66.078 s
+
+Testing with K=958...
+  Accuracy: 0.88
+  Real time: 4.996 s
+  CPU time: 65.016 s
+
+Testing with K=959...
+  Accuracy: 0.88
+  Real time: 5.017 s
+  CPU time: 64.500 s
+
+Testing with K=960...
+  Accuracy: 0.88
+  Real time: 4.965 s
+  CPU time: 64.141 s
+
+Testing with K=961...
+  Accuracy: 0.88
+  Real time: 4.996 s
+  CPU time: 64.578 s
+
+Testing with K=962...
+  Accuracy: 0.88
+  Real time: 4.998 s
+  CPU time: 65.125 s
+
+Testing with K=963...
+  Accuracy: 0.88
+  Real time: 5.095 s
+  CPU time: 65.562 s
+
+Testing with K=964...
+  Accuracy: 0.88
+  Real time: 5.029 s
+  CPU time: 64.656 s
+
+Testing with K=965...
+  Accuracy: 0.88
+  Real time: 5.026 s
+  CPU time: 65.125 s
+
+Testing with K=966...
+  Accuracy: 0.88
+  Real time: 5.111 s
+  CPU time: 66.656 s
+
+Testing with K=967...
+  Accuracy: 0.88
+  Real time: 4.963 s
+  CPU time: 63.719 s
+
+Testing with K=968...
+  Accuracy: 0.88
+  Real time: 5.085 s
+  CPU time: 65.781 s
+
+Testing with K=969...
+  Accuracy: 0.88
+  Real time: 5.051 s
+  CPU time: 64.859 s
+
+Testing with K=970...
+  Accuracy: 0.88
+  Real time: 4.993 s
+  CPU time: 64.453 s
+
+Testing with K=971...
+  Accuracy: 0.88
+  Real time: 5.013 s
+  CPU time: 65.266 s
+
+Testing with K=972...
+  Accuracy: 0.88
+  Real time: 5.121 s
+  CPU time: 66.625 s
+
+Testing with K=973...
+  Accuracy: 0.88
+  Real time: 5.316 s
+  CPU time: 67.500 s
+
+Testing with K=974...
+  Accuracy: 0.88
+  Real time: 5.084 s
+  CPU time: 65.047 s
+
+Testing with K=975...
+  Accuracy: 0.87
+  Real time: 5.040 s
+  CPU time: 65.109 s
+
+Testing with K=976...
+  Accuracy: 0.88
+  Real time: 5.349 s
+  CPU time: 69.078 s
+
+Testing with K=977...
+  Accuracy: 0.88
+  Real time: 5.082 s
+  CPU time: 64.500 s
+
+Testing with K=978...
+  Accuracy: 0.87
+  Real time: 5.027 s
+  CPU time: 64.391 s
+
+Testing with K=979...
+  Accuracy: 0.87
+  Real time: 5.031 s
+  CPU time: 64.375 s
+
+Testing with K=980...
+  Accuracy: 0.87
+  Real time: 4.988 s
+  CPU time: 65.234 s
+
+Testing with K=981...
+  Accuracy: 0.87
+  Real time: 5.056 s
+  CPU time: 64.609 s
+
+Testing with K=982...
+  Accuracy: 0.87
+  Real time: 5.193 s
+  CPU time: 67.312 s
+
+Testing with K=983...
+  Accuracy: 0.87
+  Real time: 5.187 s
+  CPU time: 67.125 s
+
+Testing with K=984...
+  Accuracy: 0.87
+  Real time: 5.065 s
+  CPU time: 64.875 s
+
+Testing with K=985...
+  Accuracy: 0.87
+  Real time: 5.076 s
+  CPU time: 65.438 s
+
+Testing with K=986...
+  Accuracy: 0.87
+  Real time: 5.037 s
+  CPU time: 64.656 s
+
+Testing with K=987...
+  Accuracy: 0.87
+  Real time: 5.008 s
+  CPU time: 64.250 s
+
+Testing with K=988...
+  Accuracy: 0.87
+  Real time: 5.021 s
+  CPU time: 64.125 s
+
+Testing with K=989...
+  Accuracy: 0.87
+  Real time: 5.181 s
+  CPU time: 68.031 s
+
+Testing with K=990...
+  Accuracy: 0.87
+  Real time: 5.069 s
+  CPU time: 65.188 s
+
+Testing with K=991...
+  Accuracy: 0.87
+  Real time: 5.159 s
+  CPU time: 66.312 s
+
+Testing with K=992...
+  Accuracy: 0.87
+  Real time: 4.968 s
+  CPU time: 63.828 s
+
+Testing with K=993...
+  Accuracy: 0.87
+  Real time: 5.040 s
+  CPU time: 64.312 s
+
+Testing with K=994...
+  Accuracy: 0.87
+  Real time: 5.117 s
+  CPU time: 65.875 s
+
+Testing with K=995...
+  Accuracy: 0.87
+  Real time: 4.999 s
+  CPU time: 63.922 s
+
+Testing with K=996...
+  Accuracy: 0.87
+  Real time: 5.030 s
+  CPU time: 64.031 s
+
+Testing with K=997...
+  Accuracy: 0.87
+  Real time: 5.038 s
+  CPU time: 64.781 s
+
+Testing with K=998...
+  Accuracy: 0.87
+  Real time: 5.065 s
+  CPU time: 64.844 s
+
+Testing with K=999...
+  Accuracy: 0.87
+  Real time: 5.101 s
+  CPU time: 64.875 s
+
+Testing with K=1000...
+  Accuracy: 0.87
+  Real time: 5.197 s
+  CPU time: 65.812 s
+
