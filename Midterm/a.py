@@ -6,12 +6,8 @@ import time
 import matplotlib.pyplot as plt
 
 # -- different numbers of nearest neighbors to test
-
-# Fast (~1 min):
-# ks = [*range(1,10), *range(10,100,10), *range(100,501,50)]
-
-# Slow (~1 hr):
-ks = list(range(1, 1001, 1))
+ks = [*range(1,10), *range(10,100,10), *range(100,501,50)]  # Fast (~1 min)
+# ks = list(range(1, 1001, 1))                              # Slow (~1 hr)
 
 # -- output image resolution
 dpi = 1200  # e.g. 300 (publication quality)
