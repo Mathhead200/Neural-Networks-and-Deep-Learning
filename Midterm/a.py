@@ -1,9 +1,9 @@
-import pandas as pd
+import time
 import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
-import time
-import matplotlib.pyplot as plt
 
 # -- different numbers of nearest neighbors to test
 ks = [*range(1,10), *range(10,100,10), *range(100,501,50)]  # Fast (~1 min)
@@ -52,6 +52,7 @@ if __name__ == "__main__":
 		t0_cpu = time.process_time()
 
 		Y_predict = model.predict(X_test)  # run model on test data
+		print(Y_predict)
 
 		scenario.cpu_time = time.process_time() - t0_cpu  # profiling (end)
 		scenario.real_time = time.perf_counter() - t0_real
