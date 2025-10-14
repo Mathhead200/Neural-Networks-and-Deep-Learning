@@ -9560,3 +9560,1444 @@ Testing with K=869...
   CPU time (in s): .... rng=[64.90625, 67.18750], mean=65.77969, std_dev=0.27621
 
 Testing with K=870...
+  Accuracy: ........... rng=[0.96060, 0.98950], mean=0.97448, std_dev=0.00048
+  Mean squared error: . rng=[0.00880, 0.02988], mean=0.02123, std_dev=0.00273
+  Precision: .......... rng=[0.76662, 0.99688], mean=0.94685, std_dev=0.01099
+  Recall: ............. rng=[0.62016, 0.99559], mean=0.80149, std_dev=0.01326
+  Type 1 error rate: .. rng=[0.00022, 0.03880], mean=0.00676, std_dev=0.00075
+  Type 2 error rate: .. rng=[0.00441, 0.37984], mean=0.19851, std_dev=0.01326
+  F1 score: ........... rng=[0.76464, 0.94545], mean=0.85870, std_dev=0.00560
+  Real time (in s): ... rng=[8.80006, 8.95451], mean=8.86538, std_dev=0.00756
+  CPU time (in s): .... rng=[64.32812, 66.40625], mean=65.48750, std_dev=0.29053
+
+Testing with K=871...
+  Accuracy: ........... rng=[0.96050, 0.98960], mean=0.97443, std_dev=0.00050
+  Mean squared error: . rng=[0.00881, 0.02989], mean=0.02124, std_dev=0.00274
+  Precision: .......... rng=[0.76662, 0.99688], mean=0.94705, std_dev=0.01105
+  Recall: ............. rng=[0.61919, 0.99559], mean=0.80074, std_dev=0.01349
+  Type 1 error rate: .. rng=[0.00022, 0.03880], mean=0.00673, std_dev=0.00075
+  Type 2 error rate: .. rng=[0.00441, 0.38081], mean=0.19926, std_dev=0.01349
+  F1 score: ........... rng=[0.76390, 0.94595], mean=0.85826, std_dev=0.00574
+  Real time (in s): ... rng=[8.84731, 8.96038], mean=8.89894, std_dev=0.01001
+  CPU time (in s): .... rng=[64.90625, 66.64062], mean=65.50938, std_dev=0.19072
+
+Testing with K=872...
+  Accuracy: ........... rng=[0.96050, 0.98950], mean=0.97442, std_dev=0.00044
+  Mean squared error: . rng=[0.00881, 0.02991], mean=0.02126, std_dev=0.00274
+  Precision: .......... rng=[0.76662, 0.99688], mean=0.94665, std_dev=0.01154
+  Recall: ............. rng=[0.61919, 0.99559], mean=0.80107, std_dev=0.01339
+  Type 1 error rate: .. rng=[0.00022, 0.03880], mean=0.00678, std_dev=0.00081
+  Type 2 error rate: .. rng=[0.00441, 0.38081], mean=0.19893, std_dev=0.01339
+  F1 score: ........... rng=[0.76390, 0.94545], mean=0.85830, std_dev=0.00544
+  Real time (in s): ... rng=[8.82266, 8.96276], mean=8.87338, std_dev=0.01156
+  CPU time (in s): .... rng=[63.76562, 65.53125], mean=64.85313, std_dev=0.16009
+
+Testing with K=873...
+  Accuracy: ........... rng=[0.96040, 0.98950], mean=0.97438, std_dev=0.00042
+  Mean squared error: . rng=[0.00882, 0.02993], mean=0.02127, std_dev=0.00274
+  Precision: .......... rng=[0.76662, 0.99687], mean=0.94686, std_dev=0.01163
+  Recall: ............. rng=[0.61822, 0.99559], mean=0.80044, std_dev=0.01328
+  Type 1 error rate: .. rng=[0.00022, 0.03880], mean=0.00676, std_dev=0.00082
+  Type 2 error rate: .. rng=[0.00441, 0.38178], mean=0.19956, std_dev=0.01328
+  F1 score: ........... rng=[0.76316, 0.94545], mean=0.85795, std_dev=0.00537
+  Real time (in s): ... rng=[8.83068, 9.00878], mean=8.89162, std_dev=0.01927
+  CPU time (in s): .... rng=[65.01562, 66.82812], mean=66.19531, std_dev=0.03212
+
+Testing with K=874...
+  Accuracy: ........... rng=[0.96050, 0.98950], mean=0.97439, std_dev=0.00041
+  Mean squared error: . rng=[0.00882, 0.02994], mean=0.02128, std_dev=0.00274
+  Precision: .......... rng=[0.76610, 0.99688], mean=0.94670, std_dev=0.01158
+  Recall: ............. rng=[0.61919, 0.99559], mean=0.80074, std_dev=0.01318
+  Type 1 error rate: .. rng=[0.00022, 0.03892], mean=0.00678, std_dev=0.00081
+  Type 2 error rate: .. rng=[0.00441, 0.38081], mean=0.19926, std_dev=0.01318
+  F1 score: ........... rng=[0.76390, 0.94545], mean=0.85809, std_dev=0.00533
+  Real time (in s): ... rng=[8.84042, 8.99861], mean=8.91882, std_dev=0.00491
+  CPU time (in s): .... rng=[65.71875, 66.71875], mean=66.14375, std_dev=0.04842
+
+Testing with K=875...
+  Accuracy: ........... rng=[0.96030, 0.98950], mean=0.97434, std_dev=0.00046
+  Mean squared error: . rng=[0.00883, 0.02996], mean=0.02129, std_dev=0.00274
+  Precision: .......... rng=[0.76610, 0.99687], mean=0.94678, std_dev=0.01130
+  Recall: ............. rng=[0.61725, 0.99559], mean=0.80012, std_dev=0.01337
+  Type 1 error rate: .. rng=[0.00022, 0.03892], mean=0.00677, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38275], mean=0.19988, std_dev=0.01337
+  F1 score: ........... rng=[0.76242, 0.94545], mean=0.85770, std_dev=0.00559
+  Real time (in s): ... rng=[8.81317, 9.19723], mean=8.94503, std_dev=0.00845
+  CPU time (in s): .... rng=[65.45312, 67.20312], mean=66.18594, std_dev=0.23174
+
+Testing with K=876...
+  Accuracy: ........... rng=[0.96030, 0.98950], mean=0.97434, std_dev=0.00046
+  Mean squared error: . rng=[0.00884, 0.02998], mean=0.02130, std_dev=0.00274
+  Precision: .......... rng=[0.76558, 0.99687], mean=0.94673, std_dev=0.01129
+  Recall: ............. rng=[0.61725, 0.99559], mean=0.80024, std_dev=0.01334
+  Type 1 error rate: .. rng=[0.00022, 0.03903], mean=0.00678, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38275], mean=0.19976, std_dev=0.01334
+  F1 score: ........... rng=[0.76242, 0.94545], mean=0.85775, std_dev=0.00558
+  Real time (in s): ... rng=[8.81566, 8.90529], mean=8.86767, std_dev=0.00157
+  CPU time (in s): .... rng=[64.93750, 66.42188], mean=65.76250, std_dev=0.14230
+
+Testing with K=877...
+  Accuracy: ........... rng=[0.96030, 0.98950], mean=0.97433, std_dev=0.00046
+  Mean squared error: . rng=[0.00884, 0.02999], mean=0.02131, std_dev=0.00275
+  Precision: .......... rng=[0.76610, 0.99687], mean=0.94687, std_dev=0.01105
+  Recall: ............. rng=[0.61725, 0.99559], mean=0.79992, std_dev=0.01312
+  Type 1 error rate: .. rng=[0.00022, 0.03892], mean=0.00676, std_dev=0.00075
+  Type 2 error rate: .. rng=[0.00441, 0.38275], mean=0.20008, std_dev=0.01312
+  F1 score: ........... rng=[0.76242, 0.94545], mean=0.85762, std_dev=0.00558
+  Real time (in s): ... rng=[8.86040, 9.02252], mean=8.93570, std_dev=0.01701
+  CPU time (in s): .... rng=[65.15625, 66.56250], mean=65.85156, std_dev=0.16553
+
+Testing with K=878...
+  Accuracy: ........... rng=[0.96030, 0.98950], mean=0.97433, std_dev=0.00046
+  Mean squared error: . rng=[0.00884, 0.03001], mean=0.02132, std_dev=0.00275
+  Precision: .......... rng=[0.76610, 0.99687], mean=0.94678, std_dev=0.01130
+  Recall: ............. rng=[0.61725, 0.99559], mean=0.80002, std_dev=0.01341
+  Type 1 error rate: .. rng=[0.00022, 0.03892], mean=0.00677, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38275], mean=0.19998, std_dev=0.01341
+  F1 score: ........... rng=[0.76242, 0.94545], mean=0.85763, std_dev=0.00561
+  Real time (in s): ... rng=[8.80094, 8.95481], mean=8.88648, std_dev=0.02161
+  CPU time (in s): .... rng=[65.21875, 66.29688], mean=65.82344, std_dev=0.14675
+
+Testing with K=879...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97430, std_dev=0.00047
+  Mean squared error: . rng=[0.00885, 0.03002], mean=0.02133, std_dev=0.00275
+  Precision: .......... rng=[0.76662, 0.99687], mean=0.94682, std_dev=0.01132
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79961, std_dev=0.01354
+  Type 1 error rate: .. rng=[0.00022, 0.03880], mean=0.00676, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20039, std_dev=0.01354
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85738, std_dev=0.00569
+  Real time (in s): ... rng=[8.90469, 8.94654], mean=8.93198, std_dev=0.00449
+  CPU time (in s): .... rng=[65.00000, 66.57812], mean=65.92812, std_dev=0.02273
+
+Testing with K=880...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97429, std_dev=0.00048
+  Mean squared error: . rng=[0.00885, 0.03004], mean=0.02134, std_dev=0.00275
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94667, std_dev=0.01127
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79983, std_dev=0.01347
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20017, std_dev=0.01347
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85743, std_dev=0.00568
+  Real time (in s): ... rng=[8.84293, 8.97432], mean=8.92309, std_dev=0.01381
+  CPU time (in s): .... rng=[65.10938, 66.40625], mean=65.77500, std_dev=0.04150
+
+Testing with K=881...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97428, std_dev=0.00045
+  Mean squared error: . rng=[0.00886, 0.03005], mean=0.02135, std_dev=0.00275
+  Precision: .......... rng=[0.76610, 0.99687], mean=0.94687, std_dev=0.01136
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79941, std_dev=0.01329
+  Type 1 error rate: .. rng=[0.00022, 0.03892], mean=0.00676, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20059, std_dev=0.01329
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85728, std_dev=0.00554
+  Real time (in s): ... rng=[8.87789, 9.04301], mean=8.94535, std_dev=0.01141
+  CPU time (in s): .... rng=[65.35938, 67.04688], mean=66.06094, std_dev=0.22185
+
+Testing with K=882...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97427, std_dev=0.00045
+  Mean squared error: . rng=[0.00886, 0.03007], mean=0.02136, std_dev=0.00275
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94666, std_dev=0.01129
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79963, std_dev=0.01322
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20037, std_dev=0.01322
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85732, std_dev=0.00553
+  Real time (in s): ... rng=[4.97578, 11.99669], mean=8.23105, std_dev=1.02941
+  CPU time (in s): .... rng=[51.89062, 71.46875], mean=63.24063, std_dev=3.03579
+
+Testing with K=883...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97423, std_dev=0.00046
+  Mean squared error: . rng=[0.00887, 0.03008], mean=0.02137, std_dev=0.00275
+  Precision: .......... rng=[0.76558, 0.99687], mean=0.94670, std_dev=0.01131
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79909, std_dev=0.01339
+  Type 1 error rate: .. rng=[0.00022, 0.03903], mean=0.00678, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20091, std_dev=0.01339
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85700, std_dev=0.00563
+  Real time (in s): ... rng=[4.69424, 4.89913], mean=4.78947, std_dev=0.01274
+  CPU time (in s): .... rng=[50.07812, 63.73438], mean=56.22656, std_dev=1.58855
+
+Testing with K=884...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97424, std_dev=0.00046
+  Mean squared error: . rng=[0.00887, 0.03010], mean=0.02138, std_dev=0.00276
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94665, std_dev=0.01129
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79930, std_dev=0.01332
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20070, std_dev=0.01332
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85709, std_dev=0.00560
+  Real time (in s): ... rng=[4.80754, 4.99755], mean=4.87971, std_dev=0.02282
+  CPU time (in s): .... rng=[58.39062, 63.37500], mean=60.33281, std_dev=0.11710
+
+Testing with K=885...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97420, std_dev=0.00047
+  Mean squared error: . rng=[0.00888, 0.03011], mean=0.02139, std_dev=0.00276
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94664, std_dev=0.01129
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79890, std_dev=0.01345
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20110, std_dev=0.01345
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85683, std_dev=0.00568
+  Real time (in s): ... rng=[4.77566, 5.02534], mean=4.94060, std_dev=0.02680
+  CPU time (in s): .... rng=[57.62500, 63.57812], mean=59.98125, std_dev=1.13743
+
+Testing with K=886...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97422, std_dev=0.00047
+  Mean squared error: . rng=[0.00888, 0.03013], mean=0.02140, std_dev=0.00276
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94665, std_dev=0.01129
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79911, std_dev=0.01338
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20089, std_dev=0.01338
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85698, std_dev=0.00564
+  Real time (in s): ... rng=[4.88631, 5.05315], mean=4.98610, std_dev=0.02120
+  CPU time (in s): .... rng=[57.79688, 65.18750], mean=61.49688, std_dev=0.04052
+
+Testing with K=887...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97417, std_dev=0.00048
+  Mean squared error: . rng=[0.00889, 0.03014], mean=0.02142, std_dev=0.00276
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94674, std_dev=0.01132
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79846, std_dev=0.01359
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00678, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20154, std_dev=0.01359
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85657, std_dev=0.00577
+  Real time (in s): ... rng=[4.85381, 8.68142], mean=5.60945, std_dev=0.23895
+  CPU time (in s): .... rng=[58.81250, 69.04688], mean=62.40000, std_dev=1.13447
+
+Testing with K=888...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97423, std_dev=0.00046
+  Mean squared error: . rng=[0.00889, 0.03016], mean=0.02143, std_dev=0.00276
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94675, std_dev=0.01132
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79910, std_dev=0.01339
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00678, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20090, std_dev=0.01339
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85700, std_dev=0.00563
+  Real time (in s): ... rng=[4.69902, 10.00178], mean=9.16386, std_dev=0.17186
+  CPU time (in s): .... rng=[57.09375, 72.59375], mean=69.27344, std_dev=0.44717
+
+Testing with K=889...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97417, std_dev=0.00045
+  Mean squared error: . rng=[0.00889, 0.03017], mean=0.02144, std_dev=0.00276
+  Precision: .......... rng=[0.76506, 0.99687], mean=0.94683, std_dev=0.01138
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79837, std_dev=0.01330
+  Type 1 error rate: .. rng=[0.00022, 0.03914], mean=0.00677, std_dev=0.00078
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20163, std_dev=0.01330
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85658, std_dev=0.00558
+  Real time (in s): ... rng=[9.55648, 9.96679], mean=9.79497, std_dev=0.07174
+  CPU time (in s): .... rng=[69.60938, 71.75000], mean=70.60625, std_dev=0.31524
+
+Testing with K=890...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97417, std_dev=0.00048
+  Mean squared error: . rng=[0.00890, 0.03019], mean=0.02145, std_dev=0.00276
+  Precision: .......... rng=[0.76455, 0.99687], mean=0.94656, std_dev=0.01126
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79868, std_dev=0.01352
+  Type 1 error rate: .. rng=[0.00022, 0.03926], mean=0.00680, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20132, std_dev=0.01352
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85665, std_dev=0.00574
+  Real time (in s): ... rng=[4.32390, 9.68002], mean=6.07154, std_dev=0.42391
+  CPU time (in s): .... rng=[55.35938, 70.51562], mean=61.64062, std_dev=0.11859
+
+Testing with K=891...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97415, std_dev=0.00046
+  Mean squared error: . rng=[0.00890, 0.03020], mean=0.02146, std_dev=0.00276
+  Precision: .......... rng=[0.76455, 0.99687], mean=0.94665, std_dev=0.01132
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79837, std_dev=0.01330
+  Type 1 error rate: .. rng=[0.00022, 0.03926], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20163, std_dev=0.01330
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85650, std_dev=0.00561
+  Real time (in s): ... rng=[4.55942, 4.91926], mean=4.69384, std_dev=0.00583
+  CPU time (in s): .... rng=[58.14062, 63.20312], mean=60.42188, std_dev=0.18282
+
+Testing with K=892...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97417, std_dev=0.00045
+  Mean squared error: . rng=[0.00891, 0.03022], mean=0.02147, std_dev=0.00277
+  Precision: .......... rng=[0.76455, 0.99687], mean=0.94642, std_dev=0.01125
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79878, std_dev=0.01317
+  Type 1 error rate: .. rng=[0.00022, 0.03926], mean=0.00681, std_dev=0.00076
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20122, std_dev=0.01317
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85666, std_dev=0.00556
+  Real time (in s): ... rng=[4.51293, 4.87005], mean=4.72506, std_dev=0.00721
+  CPU time (in s): .... rng=[57.92188, 62.40625], mean=61.06250, std_dev=0.08894
+
+Testing with K=893...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97413, std_dev=0.00046
+  Mean squared error: . rng=[0.00891, 0.03023], mean=0.02148, std_dev=0.00277
+  Precision: .......... rng=[0.76455, 0.99687], mean=0.94664, std_dev=0.01132
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79816, std_dev=0.01337
+  Type 1 error rate: .. rng=[0.00022, 0.03926], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20184, std_dev=0.01337
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85633, std_dev=0.00566
+  Real time (in s): ... rng=[4.59690, 4.77036], mean=4.69122, std_dev=0.00610
+  CPU time (in s): .... rng=[59.54688, 62.60938], mean=61.38906, std_dev=0.25743
+
+Testing with K=894...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97416, std_dev=0.00049
+  Mean squared error: . rng=[0.00892, 0.03024], mean=0.02149, std_dev=0.00277
+  Precision: .......... rng=[0.76455, 0.99687], mean=0.94655, std_dev=0.01126
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79857, std_dev=0.01355
+  Type 1 error rate: .. rng=[0.00022, 0.03926], mean=0.00680, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20143, std_dev=0.01355
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85655, std_dev=0.00577
+  Real time (in s): ... rng=[4.66621, 4.81683], mean=4.74039, std_dev=0.00741
+  CPU time (in s): .... rng=[60.70312, 63.18750], mean=62.03125, std_dev=0.17294
+
+Testing with K=895...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97408, std_dev=0.00045
+  Mean squared error: . rng=[0.00892, 0.03026], mean=0.02150, std_dev=0.00277
+  Precision: .......... rng=[0.76455, 0.99687], mean=0.94660, std_dev=0.01134
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79768, std_dev=0.01321
+  Type 1 error rate: .. rng=[0.00022, 0.03926], mean=0.00679, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20232, std_dev=0.01321
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85607, std_dev=0.00556
+  Real time (in s): ... rng=[4.68236, 4.85927], mean=4.77843, std_dev=0.01791
+  CPU time (in s): .... rng=[61.50000, 63.20312], mean=62.47969, std_dev=0.30980
+
+Testing with K=896...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97407, std_dev=0.00045
+  Mean squared error: . rng=[0.00893, 0.03028], mean=0.02151, std_dev=0.00277
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94637, std_dev=0.01126
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79788, std_dev=0.01314
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00682, std_dev=0.00076
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20212, std_dev=0.01314
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85606, std_dev=0.00556
+  Real time (in s): ... rng=[4.61520, 4.88450], mean=4.75357, std_dev=0.01580
+  CPU time (in s): .... rng=[60.40625, 64.25000], mean=62.08281, std_dev=0.10524
+
+Testing with K=897...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97407, std_dev=0.00045
+  Mean squared error: . rng=[0.00893, 0.03029], mean=0.02152, std_dev=0.00277
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94661, std_dev=0.01134
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79766, std_dev=0.01321
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00680, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20234, std_dev=0.01321
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85600, std_dev=0.00558
+  Real time (in s): ... rng=[4.59754, 4.86249], mean=4.76859, std_dev=0.00033
+  CPU time (in s): .... rng=[58.70312, 63.50000], mean=62.17500, std_dev=0.05336
+
+Testing with K=898...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97407, std_dev=0.00048
+  Mean squared error: . rng=[0.00894, 0.03031], mean=0.02153, std_dev=0.00277
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94628, std_dev=0.01120
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79798, std_dev=0.01343
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00684, std_dev=0.00076
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20202, std_dev=0.01343
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85607, std_dev=0.00574
+  Real time (in s): ... rng=[4.70536, 4.88581], mean=4.78336, std_dev=0.00800
+  CPU time (in s): .... rng=[60.93750, 63.78125], mean=62.31250, std_dev=0.00494
+
+Testing with K=899...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97404, std_dev=0.00046
+  Mean squared error: . rng=[0.00894, 0.03032], mean=0.02155, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94649, std_dev=0.01130
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79745, std_dev=0.01328
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00681, std_dev=0.00076
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20255, std_dev=0.01328
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85583, std_dev=0.00563
+  Real time (in s): ... rng=[4.70218, 4.96298], mean=4.80189, std_dev=0.00668
+  CPU time (in s): .... rng=[60.79688, 65.76562], mean=63.09063, std_dev=0.09981
+
+Testing with K=900...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97406, std_dev=0.00049
+  Mean squared error: . rng=[0.00895, 0.03033], mean=0.02156, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94650, std_dev=0.01128
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79765, std_dev=0.01353
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00681, std_dev=0.00076
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20235, std_dev=0.01353
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85595, std_dev=0.00578
+  Real time (in s): ... rng=[4.70320, 4.93139], mean=4.78530, std_dev=0.00656
+  CPU time (in s): .... rng=[61.00000, 64.68750], mean=62.78750, std_dev=0.07609
+
+Testing with K=901...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97406, std_dev=0.00049
+  Mean squared error: . rng=[0.00896, 0.03035], mean=0.02157, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94661, std_dev=0.01131
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79755, std_dev=0.01356
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00680, std_dev=0.00077
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20245, std_dev=0.01356
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85594, std_dev=0.00578
+  Real time (in s): ... rng=[4.80937, 4.91734], mean=4.86893, std_dev=0.00892
+  CPU time (in s): .... rng=[63.29688, 65.06250], mean=63.94375, std_dev=0.10080
+
+Testing with K=902...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97407, std_dev=0.00052
+  Mean squared error: . rng=[0.00896, 0.03036], mean=0.02158, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94653, std_dev=0.01125
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79775, std_dev=0.01381
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00681, std_dev=0.00076
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20225, std_dev=0.01381
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85600, std_dev=0.00595
+  Real time (in s): ... rng=[4.74720, 4.92810], mean=4.82776, std_dev=0.01104
+  CPU time (in s): .... rng=[61.87500, 65.25000], mean=63.29375, std_dev=0.07016
+
+Testing with K=903...
+  Accuracy: ........... rng=[0.96010, 0.98950], mean=0.97405, std_dev=0.00052
+  Mean squared error: . rng=[0.00897, 0.03037], mean=0.02159, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99686], mean=0.94661, std_dev=0.01100
+  Recall: ............. rng=[0.61531, 0.99559], mean=0.79744, std_dev=0.01360
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00680, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38469], mean=0.20256, std_dev=0.01360
+  F1 score: ........... rng=[0.76093, 0.94545], mean=0.85583, std_dev=0.00596
+  Real time (in s): ... rng=[4.75252, 5.01576], mean=4.84057, std_dev=0.02755
+  CPU time (in s): .... rng=[61.82812, 65.96875], mean=63.75781, std_dev=0.13094
+
+Testing with K=904...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97405, std_dev=0.00052
+  Mean squared error: . rng=[0.00897, 0.03039], mean=0.02160, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94650, std_dev=0.01096
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79754, std_dev=0.01357
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00681, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20246, std_dev=0.01357
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85586, std_dev=0.00595
+  Real time (in s): ... rng=[4.71066, 4.91361], mean=4.82213, std_dev=0.02893
+  CPU time (in s): .... rng=[62.18750, 65.04688], mean=63.40937, std_dev=0.51782
+
+Testing with K=905...
+  Accuracy: ........... rng=[0.96020, 0.98960], mean=0.97403, std_dev=0.00053
+  Mean squared error: . rng=[0.00898, 0.03040], mean=0.02161, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94659, std_dev=0.01099
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79723, std_dev=0.01366
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00680, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20277, std_dev=0.01366
+  F1 score: ........... rng=[0.76168, 0.94595], mean=0.85572, std_dev=0.00600
+  Real time (in s): ... rng=[4.76466, 4.96121], mean=4.86546, std_dev=0.00120
+  CPU time (in s): .... rng=[62.15625, 64.85938], mean=63.62031, std_dev=0.02322
+
+Testing with K=906...
+  Accuracy: ........... rng=[0.96020, 0.98950], mean=0.97405, std_dev=0.00055
+  Mean squared error: . rng=[0.00898, 0.03041], mean=0.02162, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99687], mean=0.94650, std_dev=0.01094
+  Recall: ............. rng=[0.61628, 0.99559], mean=0.79754, std_dev=0.01388
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00681, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38372], mean=0.20246, std_dev=0.01388
+  F1 score: ........... rng=[0.76168, 0.94545], mean=0.85587, std_dev=0.00613
+  Real time (in s): ... rng=[4.70519, 4.92825], mean=4.82459, std_dev=0.03776
+  CPU time (in s): .... rng=[60.85938, 64.48438], mean=63.23281, std_dev=0.75055
+
+Testing with K=907...
+  Accuracy: ........... rng=[0.96010, 0.98960], mean=0.97401, std_dev=0.00057
+  Mean squared error: . rng=[0.00899, 0.03043], mean=0.02163, std_dev=0.00278
+  Precision: .......... rng=[0.76351, 0.99686], mean=0.94669, std_dev=0.01100
+  Recall: ............. rng=[0.61531, 0.99559], mean=0.79694, std_dev=0.01407
+  Type 1 error rate: .. rng=[0.00022, 0.03948], mean=0.00679, std_dev=0.00074
+  Type 2 error rate: .. rng=[0.00441, 0.38469], mean=0.20306, std_dev=0.01407
+  F1 score: ........... rng=[0.76093, 0.94595], mean=0.85556, std_dev=0.00623
+  Real time (in s): ... rng=[4.75843, 4.96561], mean=4.82391, std_dev=0.04481
+  CPU time (in s): .... rng=[61.65625, 65.06250], mean=63.20469, std_dev=0.58749
+
+Testing with K=908...
+  Accuracy: ........... rng=[0.96010, 0.98960], mean=0.97401, std_dev=0.00057
+  Mean squared error: . rng=[0.00899, 0.03044], mean=0.02164, std_dev=0.00278
+  Precision: .......... rng=[0.76248, 0.99686], mean=0.94660, std_dev=0.01097
+  Recall: ............. rng=[0.61531, 0.99559], mean=0.79714, std_dev=0.01401
+  Type 1 error rate: .. rng=[0.00022, 0.03971], mean=0.00681, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38469], mean=0.20286, std_dev=0.01401
+  F1 score: ........... rng=[0.76093, 0.94595], mean=0.85561, std_dev=0.00621
+  Real time (in s): ... rng=[4.75631, 4.93474], mean=4.81927, std_dev=0.00234
+  CPU time (in s): .... rng=[62.00000, 65.18750], mean=63.47344, std_dev=0.05583
+
+Testing with K=909...
+  Accuracy: ........... rng=[0.96000, 0.98960], mean=0.97396, std_dev=0.00058
+  Mean squared error: . rng=[0.00900, 0.03045], mean=0.02165, std_dev=0.00278
+  Precision: .......... rng=[0.76248, 0.99686], mean=0.94659, std_dev=0.01096
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79662, std_dev=0.01417
+  Type 1 error rate: .. rng=[0.00022, 0.03971], mean=0.00681, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20338, std_dev=0.01417
+  F1 score: ........... rng=[0.76019, 0.94595], mean=0.85526, std_dev=0.00633
+  Real time (in s): ... rng=[4.76598, 4.89912], mean=4.85394, std_dev=0.00376
+  CPU time (in s): .... rng=[62.35938, 65.01562], mean=63.90313, std_dev=0.04052
+
+Testing with K=910...
+  Accuracy: ........... rng=[0.96000, 0.98960], mean=0.97394, std_dev=0.00059
+  Mean squared error: . rng=[0.00900, 0.03047], mean=0.02166, std_dev=0.00279
+  Precision: .......... rng=[0.76197, 0.99686], mean=0.94643, std_dev=0.01091
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79662, std_dev=0.01417
+  Type 1 error rate: .. rng=[0.00022, 0.03982], mean=0.00684, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20338, std_dev=0.01417
+  F1 score: ........... rng=[0.76019, 0.94595], mean=0.85518, std_dev=0.00635
+  Real time (in s): ... rng=[4.74196, 4.86717], mean=4.80338, std_dev=0.01943
+  CPU time (in s): .... rng=[62.29688, 64.59375], mean=63.36875, std_dev=0.06720
+
+Testing with K=911...
+  Accuracy: ........... rng=[0.96000, 0.98960], mean=0.97392, std_dev=0.00056
+  Mean squared error: . rng=[0.00901, 0.03048], mean=0.02167, std_dev=0.00279
+  Precision: .......... rng=[0.76197, 0.99686], mean=0.94652, std_dev=0.01097
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79632, std_dev=0.01395
+  Type 1 error rate: .. rng=[0.00022, 0.03982], mean=0.00683, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20368, std_dev=0.01395
+  F1 score: ........... rng=[0.76019, 0.94595], mean=0.85502, std_dev=0.00622
+  Real time (in s): ... rng=[4.68152, 4.91830], mean=4.80649, std_dev=0.00199
+  CPU time (in s): .... rng=[59.85938, 65.04688], mean=63.22812, std_dev=0.05732
+
+Testing with K=912...
+  Accuracy: ........... rng=[0.96000, 0.98960], mean=0.97392, std_dev=0.00059
+  Mean squared error: . rng=[0.00901, 0.03050], mean=0.02168, std_dev=0.00279
+  Precision: .......... rng=[0.76197, 0.99686], mean=0.94642, std_dev=0.01091
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79642, std_dev=0.01423
+  Type 1 error rate: .. rng=[0.00022, 0.03982], mean=0.00684, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20358, std_dev=0.01423
+  F1 score: ........... rng=[0.76019, 0.94595], mean=0.85503, std_dev=0.00640
+  Real time (in s): ... rng=[4.76372, 4.87263], mean=4.82982, std_dev=0.01180
+  CPU time (in s): .... rng=[62.62500, 64.18750], mean=63.57344, std_dev=0.19418
+
+Testing with K=913...
+  Accuracy: ........... rng=[0.96000, 0.98970], mean=0.97388, std_dev=0.00054
+  Mean squared error: . rng=[0.00902, 0.03051], mean=0.02169, std_dev=0.00279
+  Precision: .......... rng=[0.76197, 0.99686], mean=0.94660, std_dev=0.01103
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79578, std_dev=0.01381
+  Type 1 error rate: .. rng=[0.00022, 0.03982], mean=0.00681, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20422, std_dev=0.01381
+  F1 score: ........... rng=[0.76019, 0.94644], mean=0.85470, std_dev=0.00613
+  Real time (in s): ... rng=[4.76976, 4.92894], mean=4.85627, std_dev=0.00023
+  CPU time (in s): .... rng=[62.92188, 65.46875], mean=64.10469, std_dev=0.13193
+
+Testing with K=914...
+  Accuracy: ........... rng=[0.96000, 0.98960], mean=0.97385, std_dev=0.00055
+  Mean squared error: . rng=[0.00902, 0.03053], mean=0.02170, std_dev=0.00279
+  Precision: .......... rng=[0.76146, 0.99686], mean=0.94634, std_dev=0.01094
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79578, std_dev=0.01381
+  Type 1 error rate: .. rng=[0.00022, 0.03993], mean=0.00685, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20422, std_dev=0.01381
+  F1 score: ........... rng=[0.76019, 0.94595], mean=0.85457, std_dev=0.00617
+  Real time (in s): ... rng=[4.78742, 5.04346], mean=4.89906, std_dev=0.01307
+  CPU time (in s): .... rng=[63.12500, 65.64062], mean=64.42031, std_dev=0.10327
+
+Testing with K=915...
+  Accuracy: ........... rng=[0.96000, 0.98940], mean=0.97385, std_dev=0.00052
+  Mean squared error: . rng=[0.00903, 0.03054], mean=0.02171, std_dev=0.00279
+  Precision: .......... rng=[0.76197, 0.99686], mean=0.94660, std_dev=0.01105
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79548, std_dev=0.01359
+  Type 1 error rate: .. rng=[0.00022, 0.03982], mean=0.00681, std_dev=0.00073
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20452, std_dev=0.01359
+  F1 score: ........... rng=[0.76019, 0.94485], mean=0.85453, std_dev=0.00600
+  Real time (in s): ... rng=[4.80393, 5.09157], mean=4.87405, std_dev=0.00764
+  CPU time (in s): .... rng=[62.89062, 67.01562], mean=64.36406, std_dev=0.41159
+
+Testing with K=916...
+  Accuracy: ........... rng=[0.96000, 0.98940], mean=0.97383, std_dev=0.00059
+  Mean squared error: . rng=[0.00904, 0.03056], mean=0.02172, std_dev=0.00279
+  Precision: .......... rng=[0.76146, 0.99686], mean=0.94624, std_dev=0.01088
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79568, std_dev=0.01415
+  Type 1 error rate: .. rng=[0.00022, 0.03993], mean=0.00686, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20432, std_dev=0.01415
+  F1 score: ........... rng=[0.76019, 0.94485], mean=0.85447, std_dev=0.00639
+  Real time (in s): ... rng=[4.70139, 5.01166], mean=4.85194, std_dev=0.01793
+  CPU time (in s): .... rng=[61.29688, 65.85938], mean=63.95469, std_dev=0.31672
+
+Testing with K=917...
+  Accuracy: ........... rng=[0.96000, 0.98930], mean=0.97380, std_dev=0.00057
+  Mean squared error: . rng=[0.00904, 0.03057], mean=0.02174, std_dev=0.00280
+  Precision: .......... rng=[0.76146, 0.99686], mean=0.94632, std_dev=0.01094
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79527, std_dev=0.01397
+  Type 1 error rate: .. rng=[0.00022, 0.03993], mean=0.00685, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20473, std_dev=0.01397
+  F1 score: ........... rng=[0.76019, 0.94430], mean=0.85429, std_dev=0.00626
+  Real time (in s): ... rng=[4.77566, 4.96260], mean=4.88743, std_dev=0.02738
+  CPU time (in s): .... rng=[62.93750, 65.59375], mean=64.33437, std_dev=0.31326
+
+Testing with K=918...
+  Accuracy: ........... rng=[0.96000, 0.98930], mean=0.97381, std_dev=0.00057
+  Mean squared error: . rng=[0.00905, 0.03059], mean=0.02175, std_dev=0.00280
+  Precision: .......... rng=[0.76094, 0.99686], mean=0.94628, std_dev=0.01093
+  Recall: ............. rng=[0.61434, 0.99559], mean=0.79547, std_dev=0.01391
+  Type 1 error rate: .. rng=[0.00022, 0.04005], mean=0.00686, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38566], mean=0.20453, std_dev=0.01391
+  F1 score: ........... rng=[0.76019, 0.94430], mean=0.85437, std_dev=0.00624
+  Real time (in s): ... rng=[4.76100, 4.92400], mean=4.84955, std_dev=0.01369
+  CPU time (in s): .... rng=[62.98438, 65.21875], mean=64.11094, std_dev=0.27126
+
+Testing with K=919...
+  Accuracy: ........... rng=[0.95990, 0.98940], mean=0.97381, std_dev=0.00053
+  Mean squared error: . rng=[0.00905, 0.03061], mean=0.02176, std_dev=0.00280
+  Precision: .......... rng=[0.76146, 0.99685], mean=0.94662, std_dev=0.01078
+  Recall: ............. rng=[0.61337, 0.99559], mean=0.79507, std_dev=0.01341
+  Type 1 error rate: .. rng=[0.00022, 0.03993], mean=0.00681, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.38663], mean=0.20493, std_dev=0.01341
+  F1 score: ........... rng=[0.75945, 0.94479], mean=0.85430, std_dev=0.00604
+  Real time (in s): ... rng=[4.80330, 4.93889], mean=4.85194, std_dev=0.00308
+  CPU time (in s): .... rng=[62.64062, 65.65625], mean=63.89531, std_dev=0.08746
+
+Testing with K=920...
+  Accuracy: ........... rng=[0.95990, 0.98940], mean=0.97381, std_dev=0.00053
+  Mean squared error: . rng=[0.00906, 0.03062], mean=0.02177, std_dev=0.00280
+  Precision: .......... rng=[0.76094, 0.99685], mean=0.94638, std_dev=0.01099
+  Recall: ............. rng=[0.61337, 0.99559], mean=0.79539, std_dev=0.01362
+  Type 1 error rate: .. rng=[0.00022, 0.04005], mean=0.00685, std_dev=0.00072
+  Type 2 error rate: .. rng=[0.00441, 0.38663], mean=0.20461, std_dev=0.01362
+  F1 score: ........... rng=[0.75945, 0.94479], mean=0.85437, std_dev=0.00605
+  Real time (in s): ... rng=[4.84320, 4.91136], mean=4.87014, std_dev=0.01304
+  CPU time (in s): .... rng=[63.12500, 65.28125], mean=64.09375, std_dev=0.37552
+
+Testing with K=921...
+  Accuracy: ........... rng=[0.95990, 0.98940], mean=0.97380, std_dev=0.00051
+  Mean squared error: . rng=[0.00906, 0.03064], mean=0.02178, std_dev=0.00280
+  Precision: .......... rng=[0.76197, 0.99685], mean=0.94666, std_dev=0.01082
+  Recall: ............. rng=[0.61337, 0.99559], mean=0.79489, std_dev=0.01315
+  Type 1 error rate: .. rng=[0.00022, 0.03982], mean=0.00680, std_dev=0.00070
+  Type 2 error rate: .. rng=[0.00441, 0.38663], mean=0.20511, std_dev=0.01315
+  F1 score: ........... rng=[0.75945, 0.94479], mean=0.85424, std_dev=0.00587
+  Real time (in s): ... rng=[4.66706, 4.93071], mean=4.84777, std_dev=0.00511
+  CPU time (in s): .... rng=[60.46875, 65.04688], mean=63.47187, std_dev=0.29251
+
+Testing with K=922...
+  Accuracy: ........... rng=[0.95990, 0.98940], mean=0.97376, std_dev=0.00052
+  Mean squared error: . rng=[0.00907, 0.03065], mean=0.02179, std_dev=0.00280
+  Precision: .......... rng=[0.75992, 0.99685], mean=0.94634, std_dev=0.01072
+  Recall: ............. rng=[0.61337, 0.99559], mean=0.79500, std_dev=0.01311
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.38663], mean=0.20500, std_dev=0.01311
+  F1 score: ........... rng=[0.75945, 0.94479], mean=0.85415, std_dev=0.00590
+  Real time (in s): ... rng=[4.77277, 4.94418], mean=4.86967, std_dev=0.02694
+  CPU time (in s): .... rng=[62.09375, 65.76562], mean=63.97812, std_dev=0.59589
+
+Testing with K=923...
+  Accuracy: ........... rng=[0.95970, 0.98940], mean=0.97373, std_dev=0.00053
+  Mean squared error: . rng=[0.00907, 0.03066], mean=0.02180, std_dev=0.00280
+  Precision: .......... rng=[0.76043, 0.99684], mean=0.94665, std_dev=0.01082
+  Recall: ............. rng=[0.61143, 0.99559], mean=0.79439, std_dev=0.01331
+  Type 1 error rate: .. rng=[0.00022, 0.04016], mean=0.00683, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.38857], mean=0.20561, std_dev=0.01331
+  F1 score: ........... rng=[0.75796, 0.94479], mean=0.85382, std_dev=0.00600
+  Real time (in s): ... rng=[4.81693, 4.93045], mean=4.87266, std_dev=0.00526
+  CPU time (in s): .... rng=[63.34375, 65.04688], mean=64.15937, std_dev=0.00099
+
+Testing with K=924...
+  Accuracy: ........... rng=[0.95970, 0.98930], mean=0.97374, std_dev=0.00052
+  Mean squared error: . rng=[0.00908, 0.03068], mean=0.02181, std_dev=0.00280
+  Precision: .......... rng=[0.76043, 0.99684], mean=0.94629, std_dev=0.01071
+  Recall: ............. rng=[0.61143, 0.99559], mean=0.79479, std_dev=0.01318
+  Type 1 error rate: .. rng=[0.00022, 0.04016], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.38857], mean=0.20521, std_dev=0.01318
+  F1 score: ........... rng=[0.75796, 0.94430], mean=0.85393, std_dev=0.00597
+  Real time (in s): ... rng=[4.79075, 5.41840], mean=4.93690, std_dev=0.01537
+  CPU time (in s): .... rng=[62.53125, 69.26562], mean=64.62188, std_dev=0.14230
+
+Testing with K=925...
+  Accuracy: ........... rng=[0.95970, 0.98930], mean=0.97370, std_dev=0.00051
+  Mean squared error: . rng=[0.00908, 0.03070], mean=0.02182, std_dev=0.00281
+  Precision: .......... rng=[0.76043, 0.99684], mean=0.94654, std_dev=0.01082
+  Recall: ............. rng=[0.61143, 0.99559], mean=0.79415, std_dev=0.01307
+  Type 1 error rate: .. rng=[0.00022, 0.04016], mean=0.00684, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.38857], mean=0.20585, std_dev=0.01307
+  F1 score: ........... rng=[0.75796, 0.94430], mean=0.85357, std_dev=0.00590
+  Real time (in s): ... rng=[4.77843, 4.97425], mean=4.87790, std_dev=0.01556
+  CPU time (in s): .... rng=[60.90625, 65.09375], mean=63.38281, std_dev=0.54105
+
+Testing with K=926...
+  Accuracy: ........... rng=[0.95970, 0.98930], mean=0.97369, std_dev=0.00051
+  Mean squared error: . rng=[0.00909, 0.03071], mean=0.02183, std_dev=0.00281
+  Precision: .......... rng=[0.75992, 0.99684], mean=0.94634, std_dev=0.01075
+  Recall: ............. rng=[0.61143, 0.99559], mean=0.79425, std_dev=0.01304
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.38857], mean=0.20575, std_dev=0.01304
+  F1 score: ........... rng=[0.75796, 0.94430], mean=0.85356, std_dev=0.00590
+  Real time (in s): ... rng=[4.65447, 4.99861], mean=4.87219, std_dev=0.02330
+  CPU time (in s): .... rng=[59.89062, 65.43750], mean=64.02031, std_dev=0.03805
+
+Testing with K=927...
+  Accuracy: ........... rng=[0.95970, 0.98930], mean=0.97362, std_dev=0.00053
+  Mean squared error: . rng=[0.00910, 0.03073], mean=0.02184, std_dev=0.00281
+  Precision: .......... rng=[0.75992, 0.99684], mean=0.94646, std_dev=0.01079
+  Recall: ............. rng=[0.61143, 0.99559], mean=0.79343, std_dev=0.01330
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00685, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.38857], mean=0.20657, std_dev=0.01330
+  F1 score: ........... rng=[0.75796, 0.94430], mean=0.85306, std_dev=0.00606
+  Real time (in s): ... rng=[4.74953, 5.05649], mean=4.89704, std_dev=0.04665
+  CPU time (in s): .... rng=[61.35938, 65.07812], mean=63.57969, std_dev=0.70212
+
+Testing with K=928...
+  Accuracy: ........... rng=[0.95970, 0.98930], mean=0.97364, std_dev=0.00052
+  Mean squared error: . rng=[0.00910, 0.03074], mean=0.02185, std_dev=0.00281
+  Precision: .......... rng=[0.75992, 0.99684], mean=0.94647, std_dev=0.01079
+  Recall: ............. rng=[0.61143, 0.99559], mean=0.79363, std_dev=0.01324
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00685, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.38857], mean=0.20637, std_dev=0.01324
+  F1 score: ........... rng=[0.75796, 0.94430], mean=0.85320, std_dev=0.00602
+  Real time (in s): ... rng=[4.80614, 4.93950], mean=4.86296, std_dev=0.01680
+  CPU time (in s): .... rng=[62.76562, 65.54688], mean=63.94687, std_dev=0.37354
+
+Testing with K=929...
+  Accuracy: ........... rng=[0.95950, 0.98930], mean=0.97361, std_dev=0.00053
+  Mean squared error: . rng=[0.00911, 0.03076], mean=0.02187, std_dev=0.00281
+  Precision: .......... rng=[0.76043, 0.99683], mean=0.94672, std_dev=0.01087
+  Recall: ............. rng=[0.60950, 0.99559], mean=0.79301, std_dev=0.01343
+  Type 1 error rate: .. rng=[0.00022, 0.04016], mean=0.00681, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39050], mean=0.20699, std_dev=0.01343
+  F1 score: ........... rng=[0.75646, 0.94430], mean=0.85288, std_dev=0.00612
+  Real time (in s): ... rng=[4.85082, 4.99050], mean=4.91013, std_dev=0.01875
+  CPU time (in s): .... rng=[62.28125, 66.51562], mean=64.35781, std_dev=0.38491
+
+Testing with K=930...
+  Accuracy: ........... rng=[0.95950, 0.98930], mean=0.97361, std_dev=0.00053
+  Mean squared error: . rng=[0.00911, 0.03077], mean=0.02188, std_dev=0.00281
+  Precision: .......... rng=[0.75992, 0.99683], mean=0.94657, std_dev=0.01082
+  Recall: ............. rng=[0.60950, 0.99559], mean=0.79322, std_dev=0.01336
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00684, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39050], mean=0.20678, std_dev=0.01336
+  F1 score: ........... rng=[0.75646, 0.94430], mean=0.85295, std_dev=0.00609
+  Real time (in s): ... rng=[4.64411, 4.96615], mean=4.85877, std_dev=0.06788
+  CPU time (in s): .... rng=[59.32812, 65.87500], mean=63.79375, std_dev=1.41215
+
+Testing with K=931...
+  Accuracy: ........... rng=[0.95950, 0.98940], mean=0.97358, std_dev=0.00054
+  Mean squared error: . rng=[0.00912, 0.03079], mean=0.02189, std_dev=0.00281
+  Precision: .......... rng=[0.75992, 0.99683], mean=0.94666, std_dev=0.01085
+  Recall: ............. rng=[0.60950, 0.99559], mean=0.79279, std_dev=0.01350
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00683, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39050], mean=0.20721, std_dev=0.01350
+  F1 score: ........... rng=[0.75646, 0.94479], mean=0.85269, std_dev=0.00618
+  Real time (in s): ... rng=[4.83674, 5.08207], mean=4.90984, std_dev=0.05446
+  CPU time (in s): .... rng=[62.96875, 67.18750], mean=64.27187, std_dev=0.92200
+
+Testing with K=932...
+  Accuracy: ........... rng=[0.95950, 0.98940], mean=0.97361, std_dev=0.00053
+  Mean squared error: . rng=[0.00912, 0.03080], mean=0.02190, std_dev=0.00282
+  Precision: .......... rng=[0.75992, 0.99683], mean=0.94654, std_dev=0.01082
+  Recall: ............. rng=[0.60950, 0.99559], mean=0.79322, std_dev=0.01336
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00684, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39050], mean=0.20678, std_dev=0.01336
+  F1 score: ........... rng=[0.75646, 0.94479], mean=0.85296, std_dev=0.00609
+  Real time (in s): ... rng=[4.77279, 4.91740], mean=4.84640, std_dev=0.00857
+  CPU time (in s): .... rng=[62.64062, 65.32812], mean=63.66250, std_dev=0.30832
+
+Testing with K=933...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97357, std_dev=0.00055
+  Mean squared error: . rng=[0.00913, 0.03082], mean=0.02191, std_dev=0.00282
+  Precision: .......... rng=[0.75992, 0.99683], mean=0.94653, std_dev=0.01081
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79280, std_dev=0.01350
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00684, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20720, std_dev=0.01350
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85264, std_dev=0.00619
+  Real time (in s): ... rng=[4.84891, 4.97007], mean=4.89647, std_dev=0.00254
+  CPU time (in s): .... rng=[63.17188, 66.21875], mean=64.59844, std_dev=0.02619
+
+Testing with K=934...
+  Accuracy: ........... rng=[0.95940, 0.98930], mean=0.97358, std_dev=0.00054
+  Mean squared error: . rng=[0.00913, 0.03083], mean=0.02192, std_dev=0.00282
+  Precision: .......... rng=[0.75941, 0.99683], mean=0.94639, std_dev=0.01077
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79312, std_dev=0.01340
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20688, std_dev=0.01340
+  F1 score: ........... rng=[0.75572, 0.94430], mean=0.85278, std_dev=0.00615
+  Real time (in s): ... rng=[4.73630, 4.95579], mean=4.85965, std_dev=0.02185
+  CPU time (in s): .... rng=[62.53125, 64.93750], mean=64.10781, std_dev=0.26237
+
+Testing with K=935...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97355, std_dev=0.00055
+  Mean squared error: . rng=[0.00914, 0.03084], mean=0.02193, std_dev=0.00282
+  Precision: .......... rng=[0.75941, 0.99683], mean=0.94658, std_dev=0.01083
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79260, std_dev=0.01356
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00684, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20740, std_dev=0.01356
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85253, std_dev=0.00622
+  Real time (in s): ... rng=[4.66547, 5.00160], mean=4.88196, std_dev=0.01523
+  CPU time (in s): .... rng=[60.39062, 66.15625], mean=63.99063, std_dev=0.00296
+
+Testing with K=936...
+  Accuracy: ........... rng=[0.95940, 0.98930], mean=0.97355, std_dev=0.00055
+  Mean squared error: . rng=[0.00914, 0.03086], mean=0.02194, std_dev=0.00282
+  Precision: .......... rng=[0.75941, 0.99683], mean=0.94637, std_dev=0.01076
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79283, std_dev=0.01349
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20717, std_dev=0.01349
+  F1 score: ........... rng=[0.75572, 0.94430], mean=0.85260, std_dev=0.00620
+  Real time (in s): ... rng=[4.80408, 4.98511], mean=4.88579, std_dev=0.00237
+  CPU time (in s): .... rng=[62.48438, 66.01562], mean=64.20625, std_dev=0.13736
+
+Testing with K=937...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97353, std_dev=0.00056
+  Mean squared error: . rng=[0.00915, 0.03087], mean=0.02195, std_dev=0.00282
+  Precision: .......... rng=[0.75992, 0.99683], mean=0.94651, std_dev=0.01081
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79241, std_dev=0.01362
+  Type 1 error rate: .. rng=[0.00022, 0.04027], mean=0.00684, std_dev=0.00069
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20759, std_dev=0.01362
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85238, std_dev=0.00627
+  Real time (in s): ... rng=[4.85772, 5.04488], mean=4.92226, std_dev=0.02041
+  CPU time (in s): .... rng=[63.40625, 66.03125], mean=64.60313, std_dev=0.36366
+
+Testing with K=938...
+  Accuracy: ........... rng=[0.95940, 0.98930], mean=0.97351, std_dev=0.00057
+  Mean squared error: . rng=[0.00915, 0.03089], mean=0.02196, std_dev=0.00282
+  Precision: .......... rng=[0.75941, 0.99683], mean=0.94636, std_dev=0.01076
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79241, std_dev=0.01362
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20759, std_dev=0.01362
+  F1 score: ........... rng=[0.75572, 0.94430], mean=0.85230, std_dev=0.00630
+  Real time (in s): ... rng=[4.80513, 5.05614], mean=4.89695, std_dev=0.05034
+  CPU time (in s): .... rng=[62.45312, 66.14062], mean=64.16563, std_dev=0.62455
+
+Testing with K=939...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97349, std_dev=0.00054
+  Mean squared error: . rng=[0.00916, 0.03090], mean=0.02197, std_dev=0.00282
+  Precision: .......... rng=[0.75941, 0.99683], mean=0.94645, std_dev=0.01082
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79210, std_dev=0.01340
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00685, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20790, std_dev=0.01340
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85217, std_dev=0.00616
+  Real time (in s): ... rng=[4.76322, 5.11512], mean=4.92933, std_dev=0.02921
+  CPU time (in s): .... rng=[62.23438, 67.78125], mean=65.00938, std_dev=0.48225
+
+Testing with K=940...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97348, std_dev=0.00054
+  Mean squared error: . rng=[0.00917, 0.03092], mean=0.02198, std_dev=0.00283
+  Precision: .......... rng=[0.75890, 0.99683], mean=0.94640, std_dev=0.01080
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79210, std_dev=0.01340
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00686, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20790, std_dev=0.01340
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85213, std_dev=0.00617
+  Real time (in s): ... rng=[4.69464, 4.99901], mean=4.90087, std_dev=0.02755
+  CPU time (in s): .... rng=[60.57812, 65.70312], mean=64.35156, std_dev=0.28411
+
+Testing with K=941...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97347, std_dev=0.00048
+  Mean squared error: . rng=[0.00917, 0.03093], mean=0.02199, std_dev=0.00283
+  Precision: .......... rng=[0.75941, 0.99683], mean=0.94652, std_dev=0.01062
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79181, std_dev=0.01256
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20819, std_dev=0.01256
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85204, std_dev=0.00579
+  Real time (in s): ... rng=[4.79104, 4.97196], mean=4.88871, std_dev=0.01679
+  CPU time (in s): .... rng=[62.53125, 65.25000], mean=63.99844, std_dev=0.22185
+
+Testing with K=942...
+  Accuracy: ........... rng=[0.95940, 0.98930], mean=0.97346, std_dev=0.00052
+  Mean squared error: . rng=[0.00917, 0.03095], mean=0.02200, std_dev=0.00283
+  Precision: .......... rng=[0.75890, 0.99683], mean=0.94637, std_dev=0.01054
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79191, std_dev=0.01284
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00686, std_dev=0.00064
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20809, std_dev=0.01284
+  F1 score: ........... rng=[0.75572, 0.94430], mean=0.85201, std_dev=0.00598
+  Real time (in s): ... rng=[4.78759, 4.95111], mean=4.88513, std_dev=0.00897
+  CPU time (in s): .... rng=[62.12500, 65.60938], mean=64.17500, std_dev=0.09487
+
+Testing with K=943...
+  Accuracy: ........... rng=[0.95930, 0.98940], mean=0.97341, std_dev=0.00050
+  Mean squared error: . rng=[0.00918, 0.03096], mean=0.02201, std_dev=0.00283
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94656, std_dev=0.01063
+  Recall: ............. rng=[0.60756, 0.99559], mean=0.79117, std_dev=0.01276
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39244], mean=0.20883, std_dev=0.01276
+  F1 score: ........... rng=[0.75497, 0.94479], mean=0.85159, std_dev=0.00593
+  Real time (in s): ... rng=[4.78820, 4.96500], mean=4.86201, std_dev=0.02334
+  CPU time (in s): .... rng=[62.21875, 64.78125], mean=63.58438, std_dev=0.16009
+
+Testing with K=944...
+  Accuracy: ........... rng=[0.95940, 0.98940], mean=0.97343, std_dev=0.00050
+  Mean squared error: . rng=[0.00918, 0.03097], mean=0.02202, std_dev=0.00283
+  Precision: .......... rng=[0.75890, 0.99683], mean=0.94646, std_dev=0.01060
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79148, std_dev=0.01266
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20852, std_dev=0.01266
+  F1 score: ........... rng=[0.75572, 0.94479], mean=0.85176, std_dev=0.00587
+  Real time (in s): ... rng=[4.78579, 4.99938], mean=4.87511, std_dev=0.00635
+  CPU time (in s): .... rng=[62.51562, 66.04688], mean=63.81562, std_dev=0.00395
+
+Testing with K=945...
+  Accuracy: ........... rng=[0.95930, 0.98950], mean=0.97341, std_dev=0.00050
+  Mean squared error: . rng=[0.00918, 0.03099], mean=0.02203, std_dev=0.00283
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94655, std_dev=0.01063
+  Recall: ............. rng=[0.60756, 0.99559], mean=0.79119, std_dev=0.01275
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39244], mean=0.20881, std_dev=0.01275
+  F1 score: ........... rng=[0.75497, 0.94528], mean=0.85161, std_dev=0.00592
+  Real time (in s): ... rng=[4.73277, 5.00965], mean=4.90145, std_dev=0.01457
+  CPU time (in s): .... rng=[61.35938, 65.76562], mean=64.20625, std_dev=0.06819
+
+Testing with K=946...
+  Accuracy: ........... rng=[0.95940, 0.98950], mean=0.97344, std_dev=0.00052
+  Mean squared error: . rng=[0.00919, 0.03100], mean=0.02205, std_dev=0.00283
+  Precision: .......... rng=[0.75890, 0.99683], mean=0.94657, std_dev=0.01060
+  Recall: ............. rng=[0.60853, 0.99559], mean=0.79148, std_dev=0.01297
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39147], mean=0.20852, std_dev=0.01297
+  F1 score: ........... rng=[0.75572, 0.94528], mean=0.85180, std_dev=0.00604
+  Real time (in s): ... rng=[4.82752, 4.99256], mean=4.90863, std_dev=0.00813
+  CPU time (in s): .... rng=[62.89062, 65.42188], mean=64.34687, std_dev=0.05040
+
+Testing with K=947...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97342, std_dev=0.00050
+  Mean squared error: . rng=[0.00920, 0.03102], mean=0.02206, std_dev=0.00283
+  Precision: .......... rng=[0.75941, 0.99682], mean=0.94661, std_dev=0.01064
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79119, std_dev=0.01275
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00683, std_dev=0.00066
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20881, std_dev=0.01275
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85163, std_dev=0.00591
+  Real time (in s): ... rng=[4.74986, 4.88851], mean=4.83998, std_dev=0.00388
+  CPU time (in s): .... rng=[61.84375, 64.92188], mean=63.64688, std_dev=0.23519
+
+Testing with K=948...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97341, std_dev=0.00050
+  Mean squared error: . rng=[0.00920, 0.03103], mean=0.02207, std_dev=0.00284
+  Precision: .......... rng=[0.75941, 0.99682], mean=0.94639, std_dev=0.01057
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79130, std_dev=0.01272
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20870, std_dev=0.01272
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85161, std_dev=0.00592
+  Real time (in s): ... rng=[4.81031, 5.02980], mean=4.90704, std_dev=0.02464
+  CPU time (in s): .... rng=[62.68750, 66.56250], mean=64.61719, std_dev=0.44717
+
+Testing with K=949...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97339, std_dev=0.00048
+  Mean squared error: . rng=[0.00920, 0.03105], mean=0.02208, std_dev=0.00284
+  Precision: .......... rng=[0.75941, 0.99682], mean=0.94659, std_dev=0.01067
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79087, std_dev=0.01254
+  Type 1 error rate: .. rng=[0.00022, 0.04038], mean=0.00683, std_dev=0.00066
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20913, std_dev=0.01254
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85141, std_dev=0.00580
+  Real time (in s): ... rng=[4.70064, 4.98709], mean=4.87863, std_dev=0.05628
+  CPU time (in s): .... rng=[59.07812, 65.53125], mean=63.80625, std_dev=1.49516
+
+Testing with K=950...
+  Accuracy: ........... rng=[0.95930, 0.98950], mean=0.97340, std_dev=0.00047
+  Mean squared error: . rng=[0.00921, 0.03106], mean=0.02209, std_dev=0.00284
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94643, std_dev=0.01062
+  Recall: ............. rng=[0.60756, 0.99559], mean=0.79118, std_dev=0.01244
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39244], mean=0.20882, std_dev=0.01244
+  F1 score: ........... rng=[0.75497, 0.94528], mean=0.85155, std_dev=0.00575
+  Real time (in s): ... rng=[4.80919, 4.98656], mean=4.88866, std_dev=0.03047
+  CPU time (in s): .... rng=[62.90625, 64.48438], mean=63.88125, std_dev=0.19072
+
+Testing with K=951...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97339, std_dev=0.00048
+  Mean squared error: . rng=[0.00922, 0.03107], mean=0.02210, std_dev=0.00284
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94654, std_dev=0.01065
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79097, std_dev=0.01251
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20903, std_dev=0.01251
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85144, std_dev=0.00579
+  Real time (in s): ... rng=[4.79420, 5.09810], mean=4.93927, std_dev=0.00922
+  CPU time (in s): .... rng=[63.15625, 67.12500], mean=64.68750, std_dev=0.27670
+
+Testing with K=952...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97338, std_dev=0.00048
+  Mean squared error: . rng=[0.00922, 0.03109], mean=0.02211, std_dev=0.00284
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94643, std_dev=0.01062
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79097, std_dev=0.01251
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20903, std_dev=0.01251
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85139, std_dev=0.00580
+  Real time (in s): ... rng=[4.78045, 4.97253], mean=4.90674, std_dev=0.00219
+  CPU time (in s): .... rng=[62.43750, 65.28125], mean=64.29531, std_dev=0.03508
+
+Testing with K=953...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97336, std_dev=0.00049
+  Mean squared error: . rng=[0.00923, 0.03110], mean=0.02212, std_dev=0.00284
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94653, std_dev=0.01065
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79066, std_dev=0.01261
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20934, std_dev=0.01261
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85123, std_dev=0.00585
+  Real time (in s): ... rng=[4.84856, 4.98732], mean=4.91542, std_dev=0.00794
+  CPU time (in s): .... rng=[63.15625, 66.06250], mean=64.39219, std_dev=0.10920
+
+Testing with K=954...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97336, std_dev=0.00049
+  Mean squared error: . rng=[0.00923, 0.03111], mean=0.02213, std_dev=0.00284
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94643, std_dev=0.01062
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79075, std_dev=0.01258
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20925, std_dev=0.01258
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85124, std_dev=0.00585
+  Real time (in s): ... rng=[4.69807, 4.94756], mean=4.87055, std_dev=0.00775
+  CPU time (in s): .... rng=[60.76562, 65.03125], mean=63.78750, std_dev=0.01680
+
+Testing with K=955...
+  Accuracy: ........... rng=[0.95920, 0.98940], mean=0.97335, std_dev=0.00049
+  Mean squared error: . rng=[0.00924, 0.03112], mean=0.02214, std_dev=0.00284
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94673, std_dev=0.01043
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79035, std_dev=0.01239
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00682, std_dev=0.00062
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20965, std_dev=0.01239
+  F1 score: ........... rng=[0.75422, 0.94473], mean=0.85115, std_dev=0.00584
+  Real time (in s): ... rng=[4.88811, 5.04335], mean=4.95724, std_dev=0.00501
+  CPU time (in s): .... rng=[64.15625, 65.95312], mean=65.03125, std_dev=0.04941
+
+Testing with K=956...
+  Accuracy: ........... rng=[0.95920, 0.98940], mean=0.97335, std_dev=0.00046
+  Mean squared error: . rng=[0.00924, 0.03114], mean=0.02215, std_dev=0.00284
+  Precision: .......... rng=[0.75839, 0.99682], mean=0.94658, std_dev=0.01070
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79057, std_dev=0.01232
+  Type 1 error rate: .. rng=[0.00022, 0.04061], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20943, std_dev=0.01232
+  F1 score: ........... rng=[0.75422, 0.94473], mean=0.85122, std_dev=0.00567
+  Real time (in s): ... rng=[4.82936, 4.96148], mean=4.90793, std_dev=0.02129
+  CPU time (in s): .... rng=[62.03125, 65.20312], mean=64.11250, std_dev=0.14922
+
+Testing with K=957...
+  Accuracy: ........... rng=[0.95920, 0.98940], mean=0.97332, std_dev=0.00047
+  Mean squared error: . rng=[0.00925, 0.03116], mean=0.02216, std_dev=0.00285
+  Precision: .......... rng=[0.75839, 0.99682], mean=0.94657, std_dev=0.01069
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79025, std_dev=0.01242
+  Type 1 error rate: .. rng=[0.00022, 0.04061], mean=0.00684, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20975, std_dev=0.01242
+  F1 score: ........... rng=[0.75422, 0.94473], mean=0.85099, std_dev=0.00575
+  Real time (in s): ... rng=[4.77911, 4.99487], mean=4.89521, std_dev=0.00205
+  CPU time (in s): .... rng=[62.73438, 66.14062], mean=64.30938, std_dev=0.05830
+
+Testing with K=958...
+  Accuracy: ........... rng=[0.95920, 0.98950], mean=0.97334, std_dev=0.00046
+  Mean squared error: . rng=[0.00926, 0.03117], mean=0.02217, std_dev=0.00285
+  Precision: .......... rng=[0.75788, 0.99682], mean=0.94653, std_dev=0.01068
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79057, std_dev=0.01232
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20943, std_dev=0.01232
+  F1 score: ........... rng=[0.75422, 0.94528], mean=0.85117, std_dev=0.00569
+  Real time (in s): ... rng=[4.92199, 5.00090], mean=4.94638, std_dev=0.00730
+  CPU time (in s): .... rng=[63.85938, 65.96875], mean=64.86719, std_dev=0.31870
+
+Testing with K=959...
+  Accuracy: ........... rng=[0.95920, 0.98940], mean=0.97330, std_dev=0.00047
+  Mean squared error: . rng=[0.00926, 0.03119], mean=0.02218, std_dev=0.00285
+  Precision: .......... rng=[0.75890, 0.99682], mean=0.94661, std_dev=0.01070
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.78995, std_dev=0.01252
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00683, std_dev=0.00066
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.21005, std_dev=0.01252
+  F1 score: ........... rng=[0.75422, 0.94473], mean=0.85084, std_dev=0.00579
+  Real time (in s): ... rng=[4.70992, 5.03917], mean=4.89749, std_dev=0.04480
+  CPU time (in s): .... rng=[60.71875, 66.10938], mean=63.96719, std_dev=0.67742
+
+Testing with K=960...
+  Accuracy: ........... rng=[0.95920, 0.98940], mean=0.97333, std_dev=0.00050
+  Mean squared error: . rng=[0.00927, 0.03120], mean=0.02219, std_dev=0.00285
+  Precision: .......... rng=[0.75788, 0.99682], mean=0.94653, std_dev=0.01065
+  Recall: ............. rng=[0.60659, 0.99559], mean=0.79045, std_dev=0.01267
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39341], mean=0.20955, std_dev=0.01267
+  F1 score: ........... rng=[0.75422, 0.94473], mean=0.85108, std_dev=0.00590
+  Real time (in s): ... rng=[4.84237, 5.01672], mean=4.93665, std_dev=0.01286
+  CPU time (in s): .... rng=[63.40625, 65.84375], mean=64.57031, std_dev=0.06176
+
+Testing with K=961...
+  Accuracy: ........... rng=[0.95910, 0.98940], mean=0.97327, std_dev=0.00052
+  Mean squared error: . rng=[0.00927, 0.03122], mean=0.02220, std_dev=0.00285
+  Precision: .......... rng=[0.75890, 0.99681], mean=0.94661, std_dev=0.01068
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78962, std_dev=0.01294
+  Type 1 error rate: .. rng=[0.00022, 0.04050], mean=0.00683, std_dev=0.00066
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21038, std_dev=0.01294
+  F1 score: ........... rng=[0.75347, 0.94473], mean=0.85057, std_dev=0.00607
+  Real time (in s): ... rng=[4.79807, 5.01769], mean=4.91785, std_dev=0.01271
+  CPU time (in s): .... rng=[63.04688, 66.39062], mean=64.52500, std_dev=0.00198
+
+Testing with K=962...
+  Accuracy: ........... rng=[0.95910, 0.98930], mean=0.97325, std_dev=0.00052
+  Mean squared error: . rng=[0.00928, 0.03123], mean=0.02221, std_dev=0.00285
+  Precision: .......... rng=[0.75839, 0.99681], mean=0.94635, std_dev=0.01059
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78973, std_dev=0.01290
+  Type 1 error rate: .. rng=[0.00022, 0.04061], mean=0.00686, std_dev=0.00064
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21027, std_dev=0.01290
+  F1 score: ........... rng=[0.75347, 0.94424], mean=0.85052, std_dev=0.00608
+  Real time (in s): ... rng=[4.83917, 5.19514], mean=4.97619, std_dev=0.00058
+  CPU time (in s): .... rng=[63.26562, 68.37500], mean=65.07344, std_dev=0.17145
+
+Testing with K=963...
+  Accuracy: ........... rng=[0.95910, 0.98940], mean=0.97325, std_dev=0.00049
+  Mean squared error: . rng=[0.00928, 0.03125], mean=0.02222, std_dev=0.00285
+  Precision: .......... rng=[0.75839, 0.99681], mean=0.94645, std_dev=0.01065
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78963, std_dev=0.01262
+  Type 1 error rate: .. rng=[0.00022, 0.04061], mean=0.00685, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21037, std_dev=0.01262
+  F1 score: ........... rng=[0.75347, 0.94473], mean=0.85051, std_dev=0.00590
+  Real time (in s): ... rng=[4.86407, 5.02859], mean=4.94605, std_dev=0.00780
+  CPU time (in s): .... rng=[63.03125, 66.32812], mean=64.48281, std_dev=0.02026
+
+Testing with K=964...
+  Accuracy: ........... rng=[0.95910, 0.98930], mean=0.97323, std_dev=0.00046
+  Mean squared error: . rng=[0.00929, 0.03126], mean=0.02223, std_dev=0.00286
+  Precision: .......... rng=[0.75788, 0.99681], mean=0.94609, std_dev=0.01086
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78983, std_dev=0.01255
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00689, std_dev=0.00067
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21017, std_dev=0.01255
+  F1 score: ........... rng=[0.75347, 0.94424], mean=0.85046, std_dev=0.00577
+  Real time (in s): ... rng=[4.64326, 5.00006], mean=4.90744, std_dev=0.00611
+  CPU time (in s): .... rng=[59.78125, 65.39062], mean=64.10000, std_dev=0.15120
+
+Testing with K=965...
+  Accuracy: ........... rng=[0.95910, 0.98920], mean=0.97315, std_dev=0.00046
+  Mean squared error: . rng=[0.00929, 0.03128], mean=0.02224, std_dev=0.00286
+  Precision: .......... rng=[0.75839, 0.99681], mean=0.94622, std_dev=0.01093
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78880, std_dev=0.01257
+  Type 1 error rate: .. rng=[0.00022, 0.04061], mean=0.00687, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21120, std_dev=0.01257
+  F1 score: ........... rng=[0.75347, 0.94369], mean=0.84987, std_dev=0.00577
+  Real time (in s): ... rng=[4.86834, 5.04755], mean=4.95260, std_dev=0.00401
+  CPU time (in s): .... rng=[63.51562, 66.04688], mean=64.60625, std_dev=0.03063
+
+Testing with K=966...
+  Accuracy: ........... rng=[0.95910, 0.98920], mean=0.97319, std_dev=0.00048
+  Mean squared error: . rng=[0.00930, 0.03130], mean=0.02225, std_dev=0.00286
+  Precision: .......... rng=[0.75788, 0.99681], mean=0.94597, std_dev=0.01082
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78952, std_dev=0.01265
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00690, std_dev=0.00067
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21048, std_dev=0.01265
+  F1 score: ........... rng=[0.75347, 0.94369], mean=0.85020, std_dev=0.00585
+  Real time (in s): ... rng=[4.86874, 4.98636], mean=4.94170, std_dev=0.00092
+  CPU time (in s): .... rng=[63.17188, 65.59375], mean=64.78594, std_dev=0.10524
+
+Testing with K=967...
+  Accuracy: ........... rng=[0.95910, 0.98920], mean=0.97314, std_dev=0.00049
+  Mean squared error: . rng=[0.00930, 0.03131], mean=0.02226, std_dev=0.00286
+  Precision: .......... rng=[0.75788, 0.99681], mean=0.94595, std_dev=0.01081
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78900, std_dev=0.01282
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00690, std_dev=0.00067
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21100, std_dev=0.01282
+  F1 score: ........... rng=[0.75347, 0.94369], mean=0.84986, std_dev=0.00596
+  Real time (in s): ... rng=[4.85781, 5.03406], mean=4.95334, std_dev=0.00657
+  CPU time (in s): .... rng=[63.82812, 66.06250], mean=64.97031, std_dev=0.13390
+
+Testing with K=968...
+  Accuracy: ........... rng=[0.95910, 0.98920], mean=0.97317, std_dev=0.00048
+  Mean squared error: . rng=[0.00931, 0.03132], mean=0.02228, std_dev=0.00286
+  Precision: .......... rng=[0.75788, 0.99681], mean=0.94596, std_dev=0.01082
+  Recall: ............. rng=[0.60562, 0.99559], mean=0.78931, std_dev=0.01272
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00690, std_dev=0.00067
+  Type 2 error rate: .. rng=[0.00441, 0.39438], mean=0.21069, std_dev=0.01272
+  F1 score: ........... rng=[0.75347, 0.94369], mean=0.85006, std_dev=0.00590
+  Real time (in s): ... rng=[4.78074, 5.03907], mean=4.92086, std_dev=0.01922
+  CPU time (in s): .... rng=[55.75000, 65.32812], mean=62.51406, std_dev=0.15367
+
+Testing with K=969...
+  Accuracy: ........... rng=[0.95900, 0.98920], mean=0.97313, std_dev=0.00046
+  Mean squared error: . rng=[0.00931, 0.03134], mean=0.02228, std_dev=0.00286
+  Precision: .......... rng=[0.75788, 0.99681], mean=0.94626, std_dev=0.01094
+  Recall: ............. rng=[0.60465, 0.99559], mean=0.78862, std_dev=0.01263
+  Type 1 error rate: .. rng=[0.00022, 0.04072], mean=0.00687, std_dev=0.00068
+  Type 2 error rate: .. rng=[0.00441, 0.39535], mean=0.21138, std_dev=0.01263
+  F1 score: ........... rng=[0.75271, 0.94369], mean=0.84976, std_dev=0.00581
+  Real time (in s): ... rng=[4.85255, 5.09386], mean=4.95507, std_dev=0.04389
+  CPU time (in s): .... rng=[62.26562, 66.89062], mean=64.52969, std_dev=0.74659
+
+Testing with K=970...
+  Accuracy: ........... rng=[0.95900, 0.98920], mean=0.97313, std_dev=0.00046
+  Mean squared error: . rng=[0.00932, 0.03135], mean=0.02229, std_dev=0.00286
+  Precision: .......... rng=[0.75737, 0.99681], mean=0.94600, std_dev=0.01086
+  Recall: ............. rng=[0.60465, 0.99559], mean=0.78892, std_dev=0.01253
+  Type 1 error rate: .. rng=[0.00022, 0.04083], mean=0.00690, std_dev=0.00067
+  Type 2 error rate: .. rng=[0.00441, 0.39535], mean=0.21108, std_dev=0.01253
+  F1 score: ........... rng=[0.75271, 0.94369], mean=0.84982, std_dev=0.00579
+  Real time (in s): ... rng=[4.87370, 4.99325], mean=4.93651, std_dev=0.01794
+  CPU time (in s): .... rng=[63.67188, 66.20312], mean=64.42344, std_dev=0.56279
+
+Testing with K=971...
+  Accuracy: ........... rng=[0.95890, 0.98920], mean=0.97304, std_dev=0.00049
+  Mean squared error: . rng=[0.00932, 0.03136], mean=0.02230, std_dev=0.00286
+  Precision: .......... rng=[0.75737, 0.99680], mean=0.94598, std_dev=0.01085
+  Recall: ............. rng=[0.60368, 0.99559], mean=0.78800, std_dev=0.01282
+  Type 1 error rate: .. rng=[0.00022, 0.04083], mean=0.00690, std_dev=0.00067
+  Type 2 error rate: .. rng=[0.00441, 0.39632], mean=0.21200, std_dev=0.01282
+  F1 score: ........... rng=[0.75196, 0.94369], mean=0.84921, std_dev=0.00598
+  Real time (in s): ... rng=[4.90822, 5.04887], mean=4.97521, std_dev=0.00196
+  CPU time (in s): .... rng=[63.81250, 66.15625], mean=65.04531, std_dev=0.06374
+
+Testing with K=972...
+  Accuracy: ........... rng=[0.95900, 0.98910], mean=0.97309, std_dev=0.00051
+  Mean squared error: . rng=[0.00933, 0.03137], mean=0.02231, std_dev=0.00286
+  Precision: .......... rng=[0.75636, 0.99681], mean=0.94580, std_dev=0.01076
+  Recall: ............. rng=[0.60465, 0.99559], mean=0.78881, std_dev=0.01288
+  Type 1 error rate: .. rng=[0.00022, 0.04106], mean=0.00694, std_dev=0.00065
+  Type 2 error rate: .. rng=[0.00441, 0.39535], mean=0.21119, std_dev=0.01288
+  F1 score: ........... rng=[0.75271, 0.94320], mean=0.84963, std_dev=0.00603
+  Real time (in s): ... rng=[4.89986, 4.97293], mean=4.94083, std_dev=0.00733
+  CPU time (in s): .... rng=[62.75000, 65.81250], mean=64.67500, std_dev=0.06522
+
+Testing with K=973...
+  Accuracy: ........... rng=[0.95890, 0.98910], mean=0.97302, std_dev=0.00053
+  Mean squared error: . rng=[0.00933, 0.03139], mean=0.02232, std_dev=0.00287
+  Precision: .......... rng=[0.75687, 0.99680], mean=0.94592, std_dev=0.01052
+  Recall: ............. rng=[0.60368, 0.99559], mean=0.78789, std_dev=0.01285
+  Type 1 error rate: .. rng=[0.00022, 0.04095], mean=0.00692, std_dev=0.00063
+  Type 2 error rate: .. rng=[0.00441, 0.39632], mean=0.21211, std_dev=0.01285
+  F1 score: ........... rng=[0.75196, 0.94320], mean=0.84911, std_dev=0.00615
+  Real time (in s): ... rng=[4.71399, 5.05899], mean=4.95338, std_dev=0.00398
+  CPU time (in s): .... rng=[60.92188, 66.59375], mean=64.89687, std_dev=0.03162
+
+Testing with K=974...
+  Accuracy: ........... rng=[0.95890, 0.98910], mean=0.97305, std_dev=0.00055
+  Mean squared error: . rng=[0.00934, 0.03140], mean=0.02233, std_dev=0.00287
+  Precision: .......... rng=[0.75636, 0.99680], mean=0.94589, std_dev=0.01048
+  Recall: ............. rng=[0.60368, 0.99559], mean=0.78829, std_dev=0.01304
+  Type 1 error rate: .. rng=[0.00022, 0.04106], mean=0.00693, std_dev=0.00062
+  Type 2 error rate: .. rng=[0.00441, 0.39632], mean=0.21171, std_dev=0.01304
+  F1 score: ........... rng=[0.75196, 0.94320], mean=0.84933, std_dev=0.00627
+  Real time (in s): ... rng=[4.78425, 5.21751], mean=4.95293, std_dev=0.02185
+  CPU time (in s): .... rng=[62.87500, 68.70312], mean=65.13594, std_dev=0.56180
+
+Testing with K=975...
+  Accuracy: ........... rng=[0.95890, 0.98910], mean=0.97300, std_dev=0.00054
+  Mean squared error: . rng=[0.00935, 0.03141], mean=0.02234, std_dev=0.00287
+  Precision: .......... rng=[0.75687, 0.99680], mean=0.94603, std_dev=0.01055
+  Recall: ............. rng=[0.60368, 0.99559], mean=0.78756, std_dev=0.01296
+  Type 1 error rate: .. rng=[0.00022, 0.04095], mean=0.00690, std_dev=0.00063
+  Type 2 error rate: .. rng=[0.00441, 0.39632], mean=0.21244, std_dev=0.01296
+  F1 score: ........... rng=[0.75196, 0.94320], mean=0.84890, std_dev=0.00622
+  Real time (in s): ... rng=[4.82283, 5.01629], mean=4.94698, std_dev=0.01323
+  CPU time (in s): .... rng=[62.73438, 65.92188], mean=64.85313, std_dev=0.31326
+
+Testing with K=976...
+  Accuracy: ........... rng=[0.95900, 0.98910], mean=0.97302, std_dev=0.00053
+  Mean squared error: . rng=[0.00935, 0.03143], mean=0.02235, std_dev=0.00287
+  Precision: .......... rng=[0.75585, 0.99681], mean=0.94594, std_dev=0.01052
+  Recall: ............. rng=[0.60465, 0.99559], mean=0.78797, std_dev=0.01283
+  Type 1 error rate: .. rng=[0.00022, 0.04117], mean=0.00693, std_dev=0.00062
+  Type 2 error rate: .. rng=[0.00441, 0.39535], mean=0.21203, std_dev=0.01283
+  F1 score: ........... rng=[0.75271, 0.94320], mean=0.84911, std_dev=0.00615
+  Real time (in s): ... rng=[4.87864, 5.01820], mean=4.92298, std_dev=0.00616
+  CPU time (in s): .... rng=[63.25000, 65.57812], mean=64.68438, std_dev=0.03063
+
+Testing with K=977...
+  Accuracy: ........... rng=[0.95890, 0.98910], mean=0.97296, std_dev=0.00052
+  Mean squared error: . rng=[0.00936, 0.03144], mean=0.02237, std_dev=0.00287
+  Precision: .......... rng=[0.75636, 0.99680], mean=0.94596, std_dev=0.01056
+  Recall: ............. rng=[0.60368, 0.99559], mean=0.78726, std_dev=0.01274
+  Type 1 error rate: .. rng=[0.00022, 0.04106], mean=0.00692, std_dev=0.00063
+  Type 2 error rate: .. rng=[0.00441, 0.39632], mean=0.21274, std_dev=0.01274
+  F1 score: ........... rng=[0.75196, 0.94320], mean=0.84868, std_dev=0.00610
+  Real time (in s): ... rng=[4.84426, 4.99231], mean=4.94257, std_dev=0.01573
+  CPU time (in s): .... rng=[63.46875, 65.79688], mean=64.77344, std_dev=0.15564
+
+Testing with K=978...
+  Accuracy: ........... rng=[0.95890, 0.98920], mean=0.97299, std_dev=0.00054
+  Mean squared error: . rng=[0.00936, 0.03146], mean=0.02238, std_dev=0.00287
+  Precision: .......... rng=[0.75535, 0.99680], mean=0.94577, std_dev=0.01047
+  Recall: ............. rng=[0.60368, 0.99559], mean=0.78787, std_dev=0.01286
+  Type 1 error rate: .. rng=[0.00022, 0.04129], mean=0.00695, std_dev=0.00062
+  Type 2 error rate: .. rng=[0.00441, 0.39632], mean=0.21213, std_dev=0.01286
+  F1 score: ........... rng=[0.75196, 0.94375], mean=0.84895, std_dev=0.00621
+  Real time (in s): ... rng=[4.70705, 5.00554], mean=4.93945, std_dev=0.01686
+  CPU time (in s): .... rng=[59.64062, 65.82812], mean=64.45312, std_dev=0.38540
+
+Testing with K=979...
+  Accuracy: ........... rng=[0.95880, 0.98910], mean=0.97291, std_dev=0.00057
+  Mean squared error: . rng=[0.00937, 0.03147], mean=0.02239, std_dev=0.00287
+  Precision: .......... rng=[0.75585, 0.99679], mean=0.94589, std_dev=0.01022
+  Recall: ............. rng=[0.60271, 0.99559], mean=0.78686, std_dev=0.01287
+  Type 1 error rate: .. rng=[0.00022, 0.04117], mean=0.00693, std_dev=0.00059
+  Type 2 error rate: .. rng=[0.00441, 0.39729], mean=0.21314, std_dev=0.01287
+  F1 score: ........... rng=[0.75121, 0.94320], mean=0.84836, std_dev=0.00635
+  Real time (in s): ... rng=[4.85378, 5.10133], mean=4.93063, std_dev=0.00113
+  CPU time (in s): .... rng=[63.65625, 67.82812], mean=64.90937, std_dev=0.04546
+
+Testing with K=980...
+  Accuracy: ........... rng=[0.95880, 0.98910], mean=0.97295, std_dev=0.00052
+  Mean squared error: . rng=[0.00937, 0.03149], mean=0.02240, std_dev=0.00288
+  Precision: .......... rng=[0.75585, 0.99679], mean=0.94570, std_dev=0.01048
+  Recall: ............. rng=[0.60271, 0.99559], mean=0.78747, std_dev=0.01268
+  Type 1 error rate: .. rng=[0.00022, 0.04117], mean=0.00695, std_dev=0.00062
+  Type 2 error rate: .. rng=[0.00441, 0.39729], mean=0.21253, std_dev=0.01268
+  F1 score: ........... rng=[0.75121, 0.94320], mean=0.84869, std_dev=0.00610
+  Real time (in s): ... rng=[4.88519, 5.06639], mean=4.96682, std_dev=0.01293
+  CPU time (in s): .... rng=[63.96875, 66.90625], mean=65.48281, std_dev=0.45013
+
+Testing with K=981...
+  Accuracy: ........... rng=[0.95880, 0.98920], mean=0.97290, std_dev=0.00051
+  Mean squared error: . rng=[0.00938, 0.03150], mean=0.02241, std_dev=0.00288
+  Precision: .......... rng=[0.75585, 0.99679], mean=0.94588, std_dev=0.01056
+  Recall: ............. rng=[0.60271, 0.99559], mean=0.78675, std_dev=0.01259
+  Type 1 error rate: .. rng=[0.00022, 0.04117], mean=0.00693, std_dev=0.00062
+  Type 2 error rate: .. rng=[0.00441, 0.39729], mean=0.21325, std_dev=0.01259
+  F1 score: ........... rng=[0.75121, 0.94369], mean=0.84829, std_dev=0.00604
+  Real time (in s): ... rng=[4.88978, 5.08127], mean=4.98001, std_dev=0.00446
+  CPU time (in s): .... rng=[64.20312, 66.93750], mean=65.71250, std_dev=0.13044
+
+Testing with K=982...
+  Accuracy: ........... rng=[0.95880, 0.98910], mean=0.97294, std_dev=0.00056
+  Mean squared error: . rng=[0.00938, 0.03152], mean=0.02242, std_dev=0.00288
+  Precision: .......... rng=[0.75535, 0.99679], mean=0.94566, std_dev=0.01043
+  Recall: ............. rng=[0.60271, 0.99559], mean=0.78745, std_dev=0.01299
+  Type 1 error rate: .. rng=[0.00022, 0.04129], mean=0.00696, std_dev=0.00061
+  Type 2 error rate: .. rng=[0.00441, 0.39729], mean=0.21255, std_dev=0.01299
+  F1 score: ........... rng=[0.75121, 0.94320], mean=0.84860, std_dev=0.00631
+  Real time (in s): ... rng=[4.71217, 5.07669], mean=4.94759, std_dev=0.07445
+  CPU time (in s): .... rng=[59.76562, 66.12500], mean=64.72031, std_dev=1.56681
+
+Testing with K=983...
+  Accuracy: ........... rng=[0.95880, 0.98910], mean=0.97289, std_dev=0.00060
+  Mean squared error: . rng=[0.00939, 0.03153], mean=0.02243, std_dev=0.00288
+  Precision: .......... rng=[0.75535, 0.99679], mean=0.94586, std_dev=0.01018
+  Recall: ............. rng=[0.60271, 0.99559], mean=0.78675, std_dev=0.01322
+  Type 1 error rate: .. rng=[0.00022, 0.04129], mean=0.00694, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.39729], mean=0.21325, std_dev=0.01322
+  F1 score: ........... rng=[0.75121, 0.94320], mean=0.84825, std_dev=0.00657
+  Real time (in s): ... rng=[4.88817, 5.08392], mean=4.97537, std_dev=0.03433
+  CPU time (in s): .... rng=[64.75000, 66.92188], mean=65.46563, std_dev=0.46051
+
+Testing with K=984...
+  Accuracy: ........... rng=[0.95880, 0.98910], mean=0.97290, std_dev=0.00060
+  Mean squared error: . rng=[0.00939, 0.03155], mean=0.02244, std_dev=0.00288
+  Precision: .......... rng=[0.75535, 0.99679], mean=0.94564, std_dev=0.01040
+  Recall: ............. rng=[0.60271, 0.99559], mean=0.78705, std_dev=0.01343
+  Type 1 error rate: .. rng=[0.00022, 0.04129], mean=0.00696, std_dev=0.00061
+  Type 2 error rate: .. rng=[0.00441, 0.39729], mean=0.21295, std_dev=0.01343
+  F1 score: ........... rng=[0.75121, 0.94320], mean=0.84836, std_dev=0.00658
+  Real time (in s): ... rng=[4.89908, 5.06022], mean=4.95411, std_dev=0.01253
+  CPU time (in s): .... rng=[63.65625, 66.79688], mean=65.02187, std_dev=0.16108
+
+Testing with K=985...
+  Accuracy: ........... rng=[0.95850, 0.98910], mean=0.97287, std_dev=0.00061
+  Mean squared error: . rng=[0.00940, 0.03156], mean=0.02245, std_dev=0.00288
+  Precision: .......... rng=[0.75535, 0.99678], mean=0.94597, std_dev=0.01022
+  Recall: ............. rng=[0.59981, 0.99559], mean=0.78646, std_dev=0.01331
+  Type 1 error rate: .. rng=[0.00022, 0.04129], mean=0.00693, std_dev=0.00059
+  Type 2 error rate: .. rng=[0.00441, 0.40019], mean=0.21354, std_dev=0.01331
+  F1 score: ........... rng=[0.74894, 0.94320], mean=0.84806, std_dev=0.00663
+  Real time (in s): ... rng=[4.85976, 5.18188], mean=5.00252, std_dev=0.00800
+  CPU time (in s): .... rng=[63.64062, 68.32812], mean=65.51250, std_dev=0.10475
+
+Testing with K=986...
+  Accuracy: ........... rng=[0.95850, 0.98910], mean=0.97287, std_dev=0.00061
+  Mean squared error: . rng=[0.00940, 0.03158], mean=0.02246, std_dev=0.00288
+  Precision: .......... rng=[0.75484, 0.99678], mean=0.94582, std_dev=0.01017
+  Recall: ............. rng=[0.59981, 0.99559], mean=0.78666, std_dev=0.01325
+  Type 1 error rate: .. rng=[0.00022, 0.04140], mean=0.00695, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.40019], mean=0.21334, std_dev=0.01325
+  F1 score: ........... rng=[0.74894, 0.94320], mean=0.84812, std_dev=0.00661
+  Real time (in s): ... rng=[4.86727, 5.17439], mean=4.98575, std_dev=0.02205
+  CPU time (in s): .... rng=[63.14062, 67.89062], mean=65.30000, std_dev=0.68285
+
+Testing with K=987...
+  Accuracy: ........... rng=[0.95850, 0.98910], mean=0.97283, std_dev=0.00059
+  Mean squared error: . rng=[0.00941, 0.03159], mean=0.02247, std_dev=0.00288
+  Precision: .......... rng=[0.75484, 0.99678], mean=0.94579, std_dev=0.01019
+  Recall: ............. rng=[0.59981, 0.99559], mean=0.78626, std_dev=0.01306
+  Type 1 error rate: .. rng=[0.00022, 0.04140], mean=0.00695, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.40019], mean=0.21374, std_dev=0.01306
+  F1 score: ........... rng=[0.74894, 0.94320], mean=0.84786, std_dev=0.00650
+  Real time (in s): ... rng=[4.79605, 5.04966], mean=4.96467, std_dev=0.00791
+  CPU time (in s): .... rng=[61.90625, 67.43750], mean=65.26875, std_dev=0.05336
+
+Testing with K=988...
+  Accuracy: ........... rng=[0.95860, 0.98910], mean=0.97286, std_dev=0.00061
+  Mean squared error: . rng=[0.00941, 0.03160], mean=0.02248, std_dev=0.00289
+  Precision: .......... rng=[0.75434, 0.99678], mean=0.94563, std_dev=0.01011
+  Recall: ............. rng=[0.60078, 0.99559], mean=0.78676, std_dev=0.01321
+  Type 1 error rate: .. rng=[0.00022, 0.04151], mean=0.00697, std_dev=0.00057
+  Type 2 error rate: .. rng=[0.00441, 0.39922], mean=0.21324, std_dev=0.01321
+  F1 score: ........... rng=[0.74970, 0.94320], mean=0.84812, std_dev=0.00661
+  Real time (in s): ... rng=[4.88404, 5.01213], mean=4.96367, std_dev=0.00540
+  CPU time (in s): .... rng=[64.79688, 65.54688], mean=65.11719, std_dev=0.10129
+
+Testing with K=989...
+  Accuracy: ........... rng=[0.95860, 0.98910], mean=0.97283, std_dev=0.00059
+  Mean squared error: . rng=[0.00942, 0.03162], mean=0.02249, std_dev=0.00289
+  Precision: .......... rng=[0.75484, 0.99678], mean=0.94579, std_dev=0.01019
+  Recall: ............. rng=[0.60078, 0.99559], mean=0.78626, std_dev=0.01306
+  Type 1 error rate: .. rng=[0.00022, 0.04140], mean=0.00695, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.39922], mean=0.21374, std_dev=0.01306
+  F1 score: ........... rng=[0.74970, 0.94320], mean=0.84786, std_dev=0.00651
+  Real time (in s): ... rng=[4.88018, 5.06155], mean=4.98839, std_dev=0.01341
+  CPU time (in s): .... rng=[63.78125, 67.31250], mean=65.38906, std_dev=0.05979
+
+Testing with K=990...
+  Accuracy: ........... rng=[0.95860, 0.98910], mean=0.97286, std_dev=0.00061
+  Mean squared error: . rng=[0.00942, 0.03163], mean=0.02250, std_dev=0.00289
+  Precision: .......... rng=[0.75434, 0.99678], mean=0.94576, std_dev=0.01015
+  Recall: ............. rng=[0.60078, 0.99559], mean=0.78666, std_dev=0.01324
+  Type 1 error rate: .. rng=[0.00022, 0.04151], mean=0.00696, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.39922], mean=0.21334, std_dev=0.01324
+  F1 score: ........... rng=[0.74970, 0.94320], mean=0.84812, std_dev=0.00661
+  Real time (in s): ... rng=[4.89471, 4.98349], mean=4.94647, std_dev=0.00108
+  CPU time (in s): .... rng=[64.45312, 65.78125], mean=65.10000, std_dev=0.08202
+
+Testing with K=991...
+  Accuracy: ........... rng=[0.95840, 0.98910], mean=0.97281, std_dev=0.00060
+  Mean squared error: . rng=[0.00942, 0.03164], mean=0.02251, std_dev=0.00289
+  Precision: .......... rng=[0.75434, 0.99677], mean=0.94574, std_dev=0.01017
+  Recall: ............. rng=[0.59884, 0.99559], mean=0.78616, std_dev=0.01309
+  Type 1 error rate: .. rng=[0.00022, 0.04151], mean=0.00696, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.40116], mean=0.21384, std_dev=0.01309
+  F1 score: ........... rng=[0.74818, 0.94320], mean=0.84776, std_dev=0.00654
+  Real time (in s): ... rng=[4.88358, 5.10492], mean=5.00840, std_dev=0.01766
+  CPU time (in s): .... rng=[63.71875, 66.82812], mean=65.69844, std_dev=0.26336
+
+Testing with K=992...
+  Accuracy: ........... rng=[0.95860, 0.98910], mean=0.97285, std_dev=0.00059
+  Mean squared error: . rng=[0.00943, 0.03166], mean=0.02252, std_dev=0.00289
+  Precision: .......... rng=[0.75384, 0.99678], mean=0.94570, std_dev=0.01016
+  Recall: ............. rng=[0.60078, 0.99559], mean=0.78666, std_dev=0.01293
+  Type 1 error rate: .. rng=[0.00022, 0.04162], mean=0.00697, std_dev=0.00057
+  Type 2 error rate: .. rng=[0.00441, 0.39922], mean=0.21334, std_dev=0.01293
+  F1 score: ........... rng=[0.74970, 0.94320], mean=0.84809, std_dev=0.00643
+  Real time (in s): ... rng=[4.84486, 5.00847], mean=4.93530, std_dev=0.00771
+  CPU time (in s): .... rng=[63.45312, 66.15625], mean=64.52344, std_dev=0.04200
+
+Testing with K=993...
+  Accuracy: ........... rng=[0.95850, 0.98910], mean=0.97282, std_dev=0.00059
+  Mean squared error: . rng=[0.00944, 0.03168], mean=0.02253, std_dev=0.00289
+  Precision: .......... rng=[0.75434, 0.99678], mean=0.94574, std_dev=0.01017
+  Recall: ............. rng=[0.59981, 0.99559], mean=0.78627, std_dev=0.01306
+  Type 1 error rate: .. rng=[0.00022, 0.04151], mean=0.00696, std_dev=0.00058
+  Type 2 error rate: .. rng=[0.00441, 0.40019], mean=0.21373, std_dev=0.01306
+  F1 score: ........... rng=[0.74894, 0.94320], mean=0.84785, std_dev=0.00651
+  Real time (in s): ... rng=[4.92650, 5.04741], mean=4.98658, std_dev=0.01924
+  CPU time (in s): .... rng=[63.95312, 66.28125], mean=65.34687, std_dev=0.20160
+
+Testing with K=994...
+  Accuracy: ........... rng=[0.95850, 0.98910], mean=0.97278, std_dev=0.00058
+  Mean squared error: . rng=[0.00944, 0.03169], mean=0.02254, std_dev=0.00289
+  Precision: .......... rng=[0.75333, 0.99678], mean=0.94541, std_dev=0.01038
+  Recall: ............. rng=[0.59981, 0.99559], mean=0.78627, std_dev=0.01306
+  Type 1 error rate: .. rng=[0.00022, 0.04174], mean=0.00701, std_dev=0.00060
+  Type 2 error rate: .. rng=[0.00441, 0.40019], mean=0.21373, std_dev=0.01306
+  F1 score: ........... rng=[0.74894, 0.94320], mean=0.84769, std_dev=0.00642
+  Real time (in s): ... rng=[4.90824, 5.07049], mean=4.97558, std_dev=0.00262
+  CPU time (in s): .... rng=[63.95312, 66.46875], mean=65.20625, std_dev=0.13242
+
+Testing with K=995...
+  Accuracy: ........... rng=[0.95830, 0.98910], mean=0.97274, std_dev=0.00056
+  Mean squared error: . rng=[0.00945, 0.03170], mean=0.02255, std_dev=0.00289
+  Precision: .......... rng=[0.75434, 0.99677], mean=0.94559, std_dev=0.01047
+  Recall: ............. rng=[0.59787, 0.99559], mean=0.78557, std_dev=0.01296
+  Type 1 error rate: .. rng=[0.00022, 0.04151], mean=0.00697, std_dev=0.00061
+  Type 2 error rate: .. rng=[0.00441, 0.40213], mean=0.21443, std_dev=0.01296
+  F1 score: ........... rng=[0.74743, 0.94320], mean=0.84731, std_dev=0.00635
+  Real time (in s): ... rng=[4.90945, 5.07767], mean=5.00462, std_dev=0.01604
+  CPU time (in s): .... rng=[64.42188, 67.90625], mean=65.41094, std_dev=0.10030
+
+Testing with K=996...
+  Accuracy: ........... rng=[0.95830, 0.98910], mean=0.97272, std_dev=0.00056
+  Mean squared error: . rng=[0.00945, 0.03172], mean=0.02256, std_dev=0.00289
+  Precision: .......... rng=[0.75333, 0.99677], mean=0.94538, std_dev=0.01041
+  Recall: ............. rng=[0.59787, 0.99559], mean=0.78567, std_dev=0.01293
+  Type 1 error rate: .. rng=[0.00022, 0.04174], mean=0.00701, std_dev=0.00060
+  Type 2 error rate: .. rng=[0.00441, 0.40213], mean=0.21433, std_dev=0.01293
+  F1 score: ........... rng=[0.74743, 0.94320], mean=0.84726, std_dev=0.00637
+  Real time (in s): ... rng=[4.78728, 5.08456], mean=4.97713, std_dev=0.06004
+  CPU time (in s): .... rng=[61.73438, 67.06250], mean=65.31250, std_dev=1.13150
+
+Testing with K=997...
+  Accuracy: ........... rng=[0.95830, 0.98910], mean=0.97270, std_dev=0.00060
+  Mean squared error: . rng=[0.00946, 0.03173], mean=0.02257, std_dev=0.00290
+  Precision: .......... rng=[0.75384, 0.99677], mean=0.94565, std_dev=0.01018
+  Recall: ............. rng=[0.59787, 0.99559], mean=0.78516, std_dev=0.01309
+  Type 1 error rate: .. rng=[0.00022, 0.04162], mean=0.00697, std_dev=0.00057
+  Type 2 error rate: .. rng=[0.00441, 0.40213], mean=0.21484, std_dev=0.01309
+  F1 score: ........... rng=[0.74743, 0.94320], mean=0.84705, std_dev=0.00658
+  Real time (in s): ... rng=[4.97995, 5.13923], mean=5.03394, std_dev=0.00511
+  CPU time (in s): .... rng=[65.35938, 67.42188], mean=66.07031, std_dev=0.14576
+
+Testing with K=998...
+  Accuracy: ........... rng=[0.95830, 0.98910], mean=0.97267, std_dev=0.00061
+  Mean squared error: . rng=[0.00946, 0.03174], mean=0.02258, std_dev=0.00290
+  Precision: .......... rng=[0.75283, 0.99677], mean=0.94541, std_dev=0.01010
+  Recall: ............. rng=[0.59787, 0.99559], mean=0.78516, std_dev=0.01309
+  Type 1 error rate: .. rng=[0.00022, 0.04185], mean=0.00701, std_dev=0.00056
+  Type 2 error rate: .. rng=[0.00441, 0.40213], mean=0.21484, std_dev=0.01309
+  F1 score: ........... rng=[0.74743, 0.94320], mean=0.84694, std_dev=0.00661
+  Real time (in s): ... rng=[4.92077, 5.05856], mean=4.99159, std_dev=0.02240
+  CPU time (in s): .... rng=[65.01562, 66.76562], mean=65.74531, std_dev=0.20604
+
+Testing with K=999...
+  Accuracy: ........... rng=[0.95830, 0.98910], mean=0.97268, std_dev=0.00058
+  Mean squared error: . rng=[0.00947, 0.03176], mean=0.02259, std_dev=0.00290
+  Precision: .......... rng=[0.75384, 0.99677], mean=0.94562, std_dev=0.01019
+  Recall: ............. rng=[0.59787, 0.99559], mean=0.78496, std_dev=0.01284
+  Type 1 error rate: .. rng=[0.00022, 0.04162], mean=0.00697, std_dev=0.00057
+  Type 2 error rate: .. rng=[0.00441, 0.40213], mean=0.21504, std_dev=0.01284
+  F1 score: ........... rng=[0.74743, 0.94320], mean=0.84693, std_dev=0.00643
+  Real time (in s): ... rng=[4.93454, 5.08831], mean=4.99447, std_dev=0.01895
+  CPU time (in s): .... rng=[64.18750, 66.57812], mean=65.65156, std_dev=0.46298
+
+Testing with K=1000...
+  Accuracy: ........... rng=[0.95830, 0.98900], mean=0.97266, std_dev=0.00055
+  Mean squared error: . rng=[0.00947, 0.03177], mean=0.02260, std_dev=0.00290
+  Precision: .......... rng=[0.75233, 0.99677], mean=0.94527, std_dev=0.01040
+  Recall: ............. rng=[0.59787, 0.99559], mean=0.78527, std_dev=0.01274
+  Type 1 error rate: .. rng=[0.00022, 0.04196], mean=0.00703, std_dev=0.00059
+  Type 2 error rate: .. rng=[0.00441, 0.40213], mean=0.21473, std_dev=0.01274
+  F1 score: ........... rng=[0.74743, 0.94271], mean=0.84693, std_dev=0.00628
+  Real time (in s): ... rng=[4.86911, 5.12301], mean=4.99339, std_dev=0.04099
+  CPU time (in s): .... rng=[63.60938, 66.48438], mean=65.34844, std_dev=0.35921
+
+Saving results as CSV...
